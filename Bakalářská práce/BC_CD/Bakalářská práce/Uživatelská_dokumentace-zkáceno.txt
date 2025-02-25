@@ -1,0 +1,25 @@
+Uživatelská dokumentace k bakalářské práci s tématem Porovnání metrik pro shlukovací algoritmy - Jakub Schenk
+
+Pro klasifikaci bodů je zapotřebí využít proramu Classifier.jar. Vstupními parametry jsou v následujícím pořadí: Cesta k souboru, Počet požadovaných shluků, Metrika pro výpočet, Pozice pro vygenerování středů shluků před první iterací, Zda tuto pozici v průběhu výpočtu měnit, Maximální počet iterací tohoto přemístění.
+Cesta k souboru musí být zapsána s příponou .txt
+Počet požadovaných shluků musí být celé kladné číslo
+Metrika pro výpočet: E - euklidovská, M - manhattanská, G - geodetická
+Pozice pro vygenerování středů shluků před první iterací: R - náhodná, K - známá (musí být k dispozici soubor s doplňkem _means ve stejné složce, jako je soubor s body ke klasifikaci), P - rovnoměrně mezi klasifikované body, C - v rozích datasetu
+Menit pozici středů shluků v průběhu výpočtu: 1 - ano, 0 - ne
+Maximální počet iterací pro toto přemístění musí být celé kladné číslo
+Povinné jsou pouze první dva parametry, zbylé čtyři mají výchozí hodnoty, které budou zvoleny, pokud jsou tyto parametry zadány nesprávně nebo nejsou zadány vůbec.
+Výstupem jsou tři soubory se stejným názvem, jako je poskytnutý soubor, ale s dodatkem označeným znakem _. Tyto soubory mají dodatky _means (zde jsou uloženy pozice středů shluků), _labels (zde je uloženo, do jakého shluku jaký bod patří) a _E, _M nebo _G (podle užité metriky jsou zde uloženy informace o vzdálenosti ke všem středům shluků).
+
+Pro zobrazení získaného výsledku je možné použít Vizualizer.py nebo Vizualizer.exe. Vstupním parametrem je opět cesta k souboru s body, ale ve stejné složce musí být k dispozici ještě soubory s dodatky _labels a _means. Výstupem jsou dva soubory typu .svg, přičemž jeden z nich obsahuje pohled na výsledek v rovině a jeden v prostoru. Pokud je spuštěn program Vizualizer.py, jsou navíc otevřena dvě interaktivní okna, kde je možné výsledky lépe prozkoumat.
+
+Pro vygenerování podobných dat těm, která jsou ve složce data ke klasifikaci, je možné použít program Generator.jar. Ten je spouštěn se dvěma až čtyřmi parametry podle toho, jaká data jsou generována. Lepší představu o funkčnosti a parametrů spuštění získáte pročtením Uživatelské dokumentace, jež je přiložena k hlavnímu dokumentu Bakalářská práce.
+
+K úpravě vstupních dat slouží program SimplifiFile.jar, který může v poskytnutém souboru upravit rozsah dimenze bodů na první tři, aby nebyl problém s jejich zobrazení pomocí Vizualizéru, nebo rovnoměrně odebrat body, aby byly výsledky snadněji dosažitelné při použití Classifier.jar. 
+Tento program se spouští se dvěma parametry. Prvním je cesta k upravovanému souboru a druhým je způsob úpravy. 0 - snížení velikosti dimenze bodů, 1 - snížení velikosti souboru.
+Nepovinným parametrem je pak v prvním případě oddělovací znak mezi jednotlivými prvky dimenze bodu (výstupní hodnotou je mezera). V druhém případě se jedná o poměr, v jakém budou body v datasetu mazány. Jedná se o celé číslo, které určuje, kolikátý každý bod bude zachován. Výchozí hodnota je 5.
+Výstupem je soubor s dodatkem _trimmed pro první příklad užití nebo soubor s dodatkem _small pro druhý příklad užití.
+
+Posledním programem je Combiner.jar. Pomocí tohoto programu je možné kombinovat výsledky získané programem Classifier.jar. Je možné kombinovat výsledky nad stenjným datasetem se stejným počtem shluků, ale s rozdílnou metrikou pro výpočet vzdálenosti. Program je spouštěn se čtyřmi parametry, a sice: cesta k souboru s body, podíl výsledku pro euklidovskou metriku, podíl výsledku pro manahattanskou metriku, podíl výsledku pro geodetickou metriku. Pro spuštění tohoto výpočtu je potřeba mít ve stejné složce, jako je soubor s body, k dispozici soubory s dodatky _E, _M a _G, které jsou získány během klasifikace pomocí Classifier.jar. V případě nulového podílu složky není nutné mít její soubor.
+Výsledek je uložen do souboru s dodatkem _labels, aby byl snadno spustitelný pomocí Vizualizer.py nebo Vizualizer.exe.
+
+Příklady spuštění a užití jsou uvedeny ve složce pokus + výsledné spustitelné programy v souboru Příklady užití.

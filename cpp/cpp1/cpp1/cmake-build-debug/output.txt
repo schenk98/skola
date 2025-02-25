@@ -1,0 +1,11 @@
+REPORT
+OK
+3 steps
+Simulation ended after 1st collision, because it was meant to stop after 1st collision.
+0 ms
+COLLISIONS
+1) rectangle x square
+DISTANCES
+ball 5.656854
+rectangle 1.414214
+square 16.970562

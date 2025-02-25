@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jakub/CLionProjects/cpp2/db/CMemory_database.h
+DatabaseHandler.h
+C:/Users/jakub/CLionProjects/cpp2/db/DatabaseHandler.h
+sstream
+-
+functional
+-
+
+C:/Users/jakub/CLionProjects/cpp2/db/DatabaseHandler.h
+iostream
+-
+utility
+-
+vector
+-
+variant
+-
+string
+-
+tuple
+-
+
+C:/Users/jakub/CLionProjects/cpp2/main.cpp
+iostream
+-
+variant
+-
+string
+-
+db/DatabaseHandler.h
+C:/Users/jakub/CLionProjects/cpp2/db/DatabaseHandler.h
+db/CMemory_database.h
+C:/Users/jakub/CLionProjects/cpp2/db/CMemory_database.h
+

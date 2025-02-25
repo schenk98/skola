@@ -1,0 +1,184 @@
+> insert(ctyri, pet, 6, 7.8)
+OK
+1 rows.
+
+> insert(3, "hello", "world", "!")
+OK
+1 rows.
+
+> insert(2.5, 2.1, 2.2, 2.3)
+OK
+1 rows.
+
+> insert(1, 1, 2, 3, 4, 5, 6)
+OK
+1 rows.
+
+> insert(6, 1, 2, 3)
+OK
+1 rows.
+
+> delete(6, 1, 2)
+OK
+1 rows.
+
+> key_equals(6)
+OK
+1 rows.
+6 - 3
+
+> delete(6)
+OK
+1 rows.
+
+> insert(5, [1:2], [2:3], [3:3.5], [-1:11])
+OK
+1 rows.
+
+> insert(6, [1.1:2], [2.3:3.5])
+OK
+1 rows.
+
+> insert(7, [Hello:"world"], [abc:3.5])
+OK
+1 rows.
+
+> delete(5, [1:2])
+OK
+1 rows.
+
+> delete(5)
+OK
+1 rows.
+
+> key_greater(2)
+OK
+6 rows.
+11 - 1.100000, 1.200000, 1.300000, 3
+12.100000 - ahoj, kamarade, 4, 4.200000
+3 - "hello", "world", "!"
+7 - [Hello:"world"], [abc:3.500000]
+2.500000 - 2.100000, 2.200000, 2.300000
+6 - [1.100000:2], [2.300000:3.500000]
+
+> key_less(3)
+OK
+2 rows.
+2.500000 - 2.100000, 2.200000, 2.300000
+1 - 1, 2, 3, 4, 5, 6
+
+> key_equals(ctyri)
+OK
+1 rows.
+ctyri - pet, 6, 7.800000
+
+> key_equals(1)
+OK
+1 rows.
+1 - 1, 2, 3, 4, 5, 6
+
+> key_equals(7)
+OK
+1 rows.
+7 - [Hello:"world"], [abc:3.500000]
+
+> key_equals(6)
+OK
+1 rows.
+6 - [1.100000:2], [2.300000:3.500000]
+
+> key_equals(5)
+ERROR
+Key not found.
+
+> min()
+OK
+1 rows.
+MIN() - 1.000000
+
+> min(1)
+OK
+1 rows.
+MIN() - 1.000000
+
+> min(7)
+OK
+1 rows.
+MIN() - 3.500000
+
+> max()
+OK
+1 rows.
+MAX() - 2022.000000
+
+> max(2)
+ERROR
+This key name was not found or there were no values to count with.
+
+
+> max(1)
+OK
+1 rows.
+MAX() - 6.000000
+
+> max(7)
+OK
+1 rows.
+MAX() - 3.500000
+
+> average()
+OK
+1 rows.
+AVERAGE() - 84.574000
+
+> average(1)
+OK
+1 rows.
+AVERAGE() - Key not found
+
+> average(5)
+OK
+1 rows.
+AVERAGE() - Key not found
+
+> find_value(6)
+OK
+2 rows.
+ctyri - pet, 6, 7.800000
+1 - 1, 2, 3, 4, 5, 6
+
+> key_equals(5)
+ERROR
+Key not found.
+
+> key_greater(2)
+OK
+6 rows.
+11 - 1.100000, 1.200000, 1.300000, 3
+12.100000 - ahoj, kamarade, 4, 4.200000
+2.500000 - 2.100000, 2.200000, 2.300000
+6 - [1.100000:2], [2.300000:3.500000]
+7 - [Hello:"world"], [abc:3.500000]
+3 - "hello", "world", "!"
+
+> key_less(8)
+OK
+5 rows.
+3 - "hello", "world", "!"
+2.500000 - 2.100000, 2.200000, 2.300000
+1 - 1, 2, 3, 4, 5, 6
+7 - [Hello:"world"], [abc:3.500000]
+6 - [1.100000:2], [2.300000:3.500000]
+
+> find_value(3.5)
+OK
+2 rows.
+6 - [1.100000:2], [2.300000:3.500000]
+7 - [Hello:"world"], [abc:3.500000]
+
+> find_value("world")
+OK
+2 rows.
+3 - "hello", "world", "!"
+7 - [Hello:"world"], [abc:3.500000]
+

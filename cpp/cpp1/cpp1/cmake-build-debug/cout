@@ -1,0 +1,33 @@
+REPORT
+OK
+65 ms
+Simulation ended after all iterations were successfully simulated.
+COLLISIONS
+1) b2 x b3
+2) b2 x b3
+3) b2 x b3
+4) b1 x b2
+5) b2 x b4
+6) b1 x b2
+7) b2 x b4
+8) b1 x b3
+9) b1 x b3
+10) b2 x b3
+11) b2 x b3
+12) b2 x b3
+13) b1 x b2
+14) b2 x b4
+15) b1 x b2
+16) b2 x b4
+17) b1 x b3
+18) b1 x b3
+19) b2 x b3
+20) b2 x b3
+21) b2 x b3
+22) b1 x b2
+23) b2 x b4
+DISTANCES
+b1 475.000000
+b2 500.000000
+b3 707.106567
+b4 707.106567

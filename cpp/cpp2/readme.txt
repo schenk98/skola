@@ -1,0 +1,4 @@
+Dobrý den,
+pokusil jsem se opravit nedostatky po prvním odevzdání doplněním páru a předěláním programátorského rozhraní do něčeho co by se mělo snad dostatečně podobat příkladu, který jste uvedl v zadání. Toto rozhraní využívá variadických šablon pro Insert a Delete a nového způsobu vyhledávání hodnoty Find_Value, jak jste v zadání naznačil pomocí předávání booleovské funkce. Doufám že tedy nebude na škodu, že pro dosažení stejného výsledku nakonec využívám dvou funkčních metod, jedné v programátorském rozhraní a jedné starší využívané při spuštění interaktivně/dávkově. 
+V kódu se vyskytuje několik redundantních inicializací zejména stringových proměnných. Tomu je tak protože při prvním odevzdání jste měl problém s překladem, i když mé IDE podobné problémy nemělo, tak abych předešel nějakým komplikacím.
+Věřím že tentokrát už bude práce v pořádku a doufám že už s ní nebudou další problémy.

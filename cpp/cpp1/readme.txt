@@ -1,0 +1,5 @@
+Dobrý den,
+omlouvám se, ale zapomněl jsem dát podobný soubor do zipu k projektu.
+Pokusil jsem se opravit všechny nedostatky, které jste poznamenal na CW, až na č.6 které jsem myslel že je potřeba abych udělal takhle kvůli jednomu z bodů v zadání. Tam je napsáno, že bychom měli využít abstraktní třídy, o kterých jsem se dozvěděl, že musí mít pouze virtuální metody. Design úlohy může být místy trochu neefektivní, ale snažil jsem se splnit tento bod zadání. V kódu jsem ale přepracoval třídy aby využívali i private a protected klíčová slova, stejně jako jsem dal třídě Aréna větší význam jak jste naznačil v poznámce. Poznámku o namespace jsem někde pravděpodobně přehlédl, i když si uvědomiji, že jste o jeho škodlivosti mluvim na cvičení. S používáním referencí si ještě nejsem moc jistý, ale pokusil jsem se to alespoň nějak opravit. Z důvodu přehlednosti kódu jsem se pokusil všechny metody adekvátně okomentovat (hlavní funkčnost) a dlouhé nepřehledné metody komentářemi rozdělit a popsat, co se v nich v průběhu děje.
+Doufám, že jsem splnil o co jsem byl požádán a práci dostatečně opravil.
+Děkuji.
