@@ -1,0 +1,4 @@
+/home/schenkj/os2022/sp/sources/userspace/CMakeFiles/rebuild_cache.dir
+/home/schenkj/os2022/sp/sources/userspace/CMakeFiles/edit_cache.dir
+/home/schenkj/os2022/sp/sources/userspace/CMakeFiles/sp_task.dir
+/home/schenkj/os2022/sp/sources/userspace/CMakeFiles/init_task.dir

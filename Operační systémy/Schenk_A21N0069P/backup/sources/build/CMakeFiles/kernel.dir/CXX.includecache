@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/schenkj/os2022/sp/sources/kernel/src/test_processes.cpp
+../../userspace/build/src_init_task.h
+/home/schenkj/os2022/sp/sources/userspace/build/src_init_task.h
+../../userspace/build/src_oled_task.h
+/home/schenkj/os2022/sp/sources/userspace/build/src_oled_task.h
+../../userspace/build/src_logger_task.h
+/home/schenkj/os2022/sp/sources/userspace/build/src_logger_task.h
+../../userspace/build/src_counter_task.h
+/home/schenkj/os2022/sp/sources/userspace/build/src_counter_task.h
+../../userspace/build/src_tilt_task.h
+/home/schenkj/os2022/sp/sources/userspace/build/src_tilt_task.h
+../../userspace/build/src_sp_task.h
+/home/schenkj/os2022/sp/sources/userspace/build/src_sp_task.h
+
+/home/schenkj/os2022/sp/sources/userspace/build/src_counter_task.h
+
+/home/schenkj/os2022/sp/sources/userspace/build/src_init_task.h
+
+/home/schenkj/os2022/sp/sources/userspace/build/src_logger_task.h
+
+/home/schenkj/os2022/sp/sources/userspace/build/src_oled_task.h
+
+/home/schenkj/os2022/sp/sources/userspace/build/src_sp_task.h
+
+/home/schenkj/os2022/sp/sources/userspace/build/src_tilt_task.h
+

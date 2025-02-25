@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/kernel.dir/kernel/src/cxx.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/bcm_aux.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/gpio.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/i2c.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/oled_ssd1306.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/segmentdisplay.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/shiftregister.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/timer.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/trng.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/uart.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/fs/filesystem.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/fs/filesystem_drivers.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/initsys.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/interrupt_controller.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/interrupts.s.o"
+  "CMakeFiles/kernel.dir/kernel/src/main.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/memory/kernel_heap.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/memory/mmu.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/memory/mmu.s.o"
+  "CMakeFiles/kernel.dir/kernel/src/memory/pages.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/memory/pt_alloc.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/memory/userspace_heap.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/condvar.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/mutex.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/pipe.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/process_manager.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/resource_manager.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/scheduler.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/semaphore.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/spinlock.s.o"
+  "CMakeFiles/kernel.dir/kernel/src/process/switch.s.o"
+  "CMakeFiles/kernel.dir/kernel/src/start.s.o"
+  "CMakeFiles/kernel.dir/kernel/src/startup.cpp.o"
+  "CMakeFiles/kernel.dir/kernel/src/test_processes.cpp.o"
+  "kernel"
+  "kernel.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang ASM CXX)
+  include(CMakeFiles/kernel.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

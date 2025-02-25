@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kiv_os_rpios",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kernel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kernel-Debug-e916d70637fc33229a85.json",
+					"name" : "kernel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kivrtos_stdlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kivrtos_stdlib-Debug-185e6220bfba9ed89426.json",
+					"name" : "kivrtos_stdlib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jakub/OS_2022/KIV-RTOS-master/KIV-RTOS-master/sources/out/build/x64-Debug",
+		"source" : "C:/Users/jakub/OS_2022/KIV-RTOS-master/KIV-RTOS-master/sources"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

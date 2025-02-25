@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkivrtos_stdlib.a  CMakeFiles/kivrtos_stdlib.dir/stdlib/src/stdfile.cpp.o CMakeFiles/kivrtos_stdlib.dir/stdlib/src/stdmem.cpp.o CMakeFiles/kivrtos_stdlib.dir/stdlib/src/stdmutex.cpp.o CMakeFiles/kivrtos_stdlib.dir/stdlib/src/stdstring.cpp.o CMakeFiles/kivrtos_stdlib.dir/stdutils/src/circularBuffer.cpp.o CMakeFiles/kivrtos_stdlib.dir/stdutils/src/oled.cpp.o CMakeFiles/kivrtos_stdlib.dir/stdutils/src/readUtils.cpp.o
+/usr/bin/ranlib libkivrtos_stdlib.a

@@ -1,0 +1,46 @@
+poznamky k prezentacim OS
+
+program bude mít nižší prioritu než konzole a pokud přijde něco na konzoli, tak bude vypocet odsunut na pozdai - bude vyhodnocena konzole a v pripade stop bude program zabit, jinak zkusi dobehnout
+	druhou možností je koukat na vstup jestli tam nemam stop, abych přerušil výpočet
+komunikace - mezi výpočtem a přerušením (v rámci konzole?)
+potreba init heap?
+nahrávat konzoli do bufferu a posilat byty bufferu do user procesu
+
+buffer - potřeba uděat přes kernel - po přerušení z konzole poslat do většího bufferu do kernelu a odsud cely blok na user task (využít kruhový buffer, který se začne přepisovat když mu dojde místo)
+správa haldy - manuální zvětšování haldy nějakým zvýšením hranice
+odmazat nepotřebné věci?
+pozor na omezenou paměť
+
+memory management - user halda (kernel uz ma)
+process manager? (pro single task požná nebude potřeba)
+implementace UART read
+user heap (aloc, free, list, buddy system)
+
+!!!
+změna na jeden uživatelský proces
+přidat čtení z UART (zapis už je)
+zapnutí přerušení pro UART (přidání obsluhy IRQ) - pokud bude potřeba (možná obsloužím v samotném user-task)
+doplnit buffer (kruhový) - na readLine (pozor na      )
+přidání uspání
+doplnit memory management
+pokud nemá co počítat, tak spát!!!
+!!!
+
+
+čtení z UART
+potřeba plánovač pro prvotní naplánování, ale pak už se jen bude točit user-task
+správa paměti (možná bude stačit na začátku procesu - nějaký setbreak, alokovat od systému nějakou paměť)
+(přerušení)
+user-task
+pokud nemá co počítat, tak spát!!!
+
+
+	využití rtos
+uart základy
+definice registru
+process manager
+přerušení
+práce s pamětí
+
+
+PŘEDĚLAT KÓD - rozumnější výpočet, konstanty, enumy, komenty

@@ -1,0 +1,66 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "ASM"
+  "C"
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_ASM
+  "/home/schenkj/os2022/sp/sources/userspace/crt0.s" "/home/schenkj/os2022/sp/sources/userspace/CMakeFiles/sp_task.dir/crt0.s.o"
+  )
+set(CMAKE_ASM_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_ASM
+  "RPI0"
+  )
+
+# The include file search paths:
+set(CMAKE_ASM_TARGET_INCLUDE_PATH
+  "../kernel/include"
+  "../stdlib/include"
+  "../stdutils/include"
+  "../kernel/include/board/rpi0"
+  )
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/schenkj/os2022/sp/sources/userspace/crt0.c" "/home/schenkj/os2022/sp/sources/userspace/CMakeFiles/sp_task.dir/crt0.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_C
+  "RPI0"
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../kernel/include"
+  "../stdlib/include"
+  "../stdutils/include"
+  "../kernel/include/board/rpi0"
+  )
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/schenkj/os2022/sp/sources/userspace/cxxabi.cpp" "/home/schenkj/os2022/sp/sources/userspace/CMakeFiles/sp_task.dir/cxxabi.cpp.o"
+  "/home/schenkj/os2022/sp/sources/userspace/sp_task/main.cpp" "/home/schenkj/os2022/sp/sources/userspace/CMakeFiles/sp_task.dir/sp_task/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "RPI0"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../kernel/include"
+  "../stdlib/include"
+  "../stdutils/include"
+  "../kernel/include/board/rpi0"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

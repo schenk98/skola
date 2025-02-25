@@ -1,0 +1,4 @@
+C:/Users/jakub/OS_2022/KIV-RTOS-master/KIV-RTOS-master/sources/out/build/x64-Debug/CMakeFiles/kivrtos_stdlib.dir
+C:/Users/jakub/OS_2022/KIV-RTOS-master/KIV-RTOS-master/sources/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/jakub/OS_2022/KIV-RTOS-master/KIV-RTOS-master/sources/out/build/x64-Debug/CMakeFiles/kernel.dir
+C:/Users/jakub/OS_2022/KIV-RTOS-master/KIV-RTOS-master/sources/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

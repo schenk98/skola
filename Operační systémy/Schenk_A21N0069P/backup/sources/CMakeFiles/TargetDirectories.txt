@@ -1,0 +1,4 @@
+/home/schenkj/os2022/sp/sources/CMakeFiles/rebuild_cache.dir
+/home/schenkj/os2022/sp/sources/CMakeFiles/edit_cache.dir
+/home/schenkj/os2022/sp/sources/CMakeFiles/kernel.dir
+/home/schenkj/os2022/sp/sources/CMakeFiles/kivrtos_stdlib.dir

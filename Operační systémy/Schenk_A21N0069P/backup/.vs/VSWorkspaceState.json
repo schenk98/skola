@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\sources",
+    "\\sources\\kernel",
+    "\\sources\\kernel\\include",
+    "\\sources\\kernel\\include\\fs",
+    "\\sources\\kernel\\include\\fs\\drivers",
+    "\\sources\\kernel\\src",
+    "\\sources\\kernel\\src\\drivers",
+    "\\sources\\kernel\\src\\fs",
+    "\\sources\\userspace",
+    "\\sources\\userspace\\sos_task"
+  ],
+  "SelectedNode": "\\sources\\kernel\\src\\drivers\\uart.cpp",
+  "PreviewInSolutionExplorer": false
+}

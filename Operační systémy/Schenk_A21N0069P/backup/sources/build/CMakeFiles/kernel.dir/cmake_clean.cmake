@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/kernel.dir/kernel/src/cxx.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/bcm_aux.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/gpio.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/i2c.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/oled_ssd1306.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/segmentdisplay.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/shiftregister.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/timer.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/trng.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/drivers/uart.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/fs/filesystem.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/fs/filesystem_drivers.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/initsys.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/interrupt_controller.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/interrupts.s.obj"
+  "CMakeFiles/kernel.dir/kernel/src/main.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/memory/kernel_heap.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/memory/mmu.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/memory/mmu.s.obj"
+  "CMakeFiles/kernel.dir/kernel/src/memory/pages.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/memory/pt_alloc.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/memory/userspace_heap.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/condvar.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/mutex.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/pipe.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/process_manager.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/resource_manager.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/scheduler.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/semaphore.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/spinlock.s.obj"
+  "CMakeFiles/kernel.dir/kernel/src/process/switch.s.obj"
+  "CMakeFiles/kernel.dir/kernel/src/start.s.obj"
+  "CMakeFiles/kernel.dir/kernel/src/startup.cpp.obj"
+  "CMakeFiles/kernel.dir/kernel/src/test_processes.cpp.obj"
+  "kernel"
+  "kernel.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang ASM CXX)
+  include(CMakeFiles/kernel.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

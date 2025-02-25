@@ -1,0 +1,42 @@
+ctrl+a -> c -> q -> Enter
+
+kernel.src.test_processes.cpp - odkomentovat include až se povede vybuildit
+a v mainu
+
+
+
+
+jak řešit alokator
+	bude se hodit memmap a page allocator - kernel_heap ma neco podobneho ale nechci pouzit, jen vykrast
+	dbat na to ze halda ma limity
+	kernel by mel alokovat po strankach
+	proces potrebuje neco alokovat -> * -> sbrk(12) /*posunuti haldy o 12 bytu - alokace*/, svc (superviser call) -> ma proces haldu? -> vytvoreni haldy (Alloc_Page) -> heap_start = 0x20000, (stranka je pro demostraci 16kb) heap_limit = 0x4000, heap_limit_logicky=0x12
+	nova alokace 40bytů -> * -> sbrk(0x40) -> už má místo, tak mu jen řeknu že ho má a odkud bude číst dál... -> heap_start=0x20012, heap_limit_logicky=0x52 -> (pokud pretecu stranku, novou stranku)
+	
+	* - lze vložit mezikrok
+	
+	adresa 0x20000 tam je misto
+	
+	
+nejmensi ctverce
+?
+	
+evolucne
+	mam pool params (abcde) - vector/pole - prvek populace
+	populace je pole vectoru (abcde)
+	jak je daleko od reseni? - fitness fce - jak moc odpovidaji parametry a jejich fce hodnotam co dorazili
+	
+	
+	inicializace - populaci vygenerovat jako nahodne vectory
+	while(generace<maxGenerace)
+		pocitej
+	
+	pocitej = epocha vyvoje
+		kazdy prvek vlastni podoba
+		
+		1. krizeni - dva nejake prvky - se prolnou
+		2. mutace - nahodna zmena - nejaky prvek proste zmenim nahodne
+		3. fitness - vyhodnoceni vhodnosti (jak moc odpovidaji moje hodnoty funkce v casech ktere odpovidaji tomu co mi chodi)
+		(4. genocida - zabit spatne prvky a nahradit novymi z krizeni a zkopirovat stare nejlepsi)
+		(5. docpat cteni jestli neco neprislo kvuli stop)
+	

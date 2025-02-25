@@ -1,0 +1,1 @@
+/usr/bin/c++     -T /home/schenkj/os2022/sp/sources/userspace/link.ld -rdynamic CMakeFiles/init_task.dir/crt0.s.o CMakeFiles/init_task.dir/crt0.c.o CMakeFiles/init_task.dir/cxxabi.cpp.o CMakeFiles/init_task.dir/init_task/main.cpp.o  -o init_task  ../build/libkivrtos_stdlib.a 
