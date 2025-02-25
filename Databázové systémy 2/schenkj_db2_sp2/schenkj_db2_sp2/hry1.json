@@ -1,0 +1,27 @@
+{
+    "gamestore" : 
+    {
+        "videohra" : {
+            "id" : "3",
+            "nazev" : "Counter Strike",
+            "vydavatel" : "Valve",
+            "vekova_hranice" : "12",
+            "podpora_konzole" : ["PC"]
+        },
+        "videohra" : {
+            "id" : "18",
+            "nazev" : "Tetris",
+            "vydavatel" : "Tetris s.r.o.",
+            "vekova_hranice" : "3",
+            "podpora_konzole" : ["PC", "Android", "iOS", "PSP"]
+        },
+        "videohra" : {
+            "id" : "4",
+            "nazev" : "Doom",
+            "vydavatel" : "Doomed a.s.",
+            "vekova_hranice" : "12",
+            "podpora_konzole" : ["PC", "XBox One"]
+        }        
+    } 
+}
+      

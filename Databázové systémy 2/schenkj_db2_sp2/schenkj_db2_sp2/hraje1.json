@@ -1,0 +1,29 @@
+{
+    "session" : 
+    {
+        "hraje" : {
+            "id_hrace" : "1",
+            "id_hry" : "18"
+        },
+        "hraje" : {
+            "id_hrace" : "3",
+            "id_hry" : "12"
+        },
+        "hraje" : {
+            "id_hrace" : "4",
+            "id_hry" : "13"
+        },
+        "hraje" : {
+            "id_hrace" : "6",
+            "id_hry" : "6"
+        },
+        "hraje" : {
+            "id_hrace" : "8",
+            "id_hry" : "16"
+        },
+        "hraje" : {
+            "id_hrace" : "9",
+            "id_hry" : "17"
+        }
+    }
+}

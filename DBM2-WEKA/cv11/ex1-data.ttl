@@ -1,0 +1,6 @@
+PREFIX :        <http://example/>
+PREFIX ns:      <http://example/ns#>
+
+:s ns:p :o .
+:x ns:p :y .
+:z ns:p :y .

@@ -1,0 +1,362 @@
+--------------------------------------------------------
+--  File created - Pátek-dubna-01-2022   
+--------------------------------------------------------
+--------------------------------------------------------
+--  DDL for Table SP1_XML_HRACI
+--------------------------------------------------------
+
+  CREATE TABLE "SCHENKJ"."SP1_XML_HRACI" 
+   (	"NAZEV" VARCHAR2(256 BYTE), 
+	"OBSAH" "XMLTYPE"
+   ) SEGMENT CREATION IMMEDIATE 
+  PCTFREE 10 PCTUSED 40 INITRANS 1 MAXTRANS 255 
+ NOCOMPRESS LOGGING
+  STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
+  PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1
+  BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
+  TABLESPACE "STUDENTS2020" 
+ XMLTYPE COLUMN "OBSAH" STORE AS SECUREFILE BINARY XML (
+  TABLESPACE "STUDENTS2020" ENABLE STORAGE IN ROW CHUNK 8192
+  NOCACHE LOGGING  NOCOMPRESS  KEEP_DUPLICATES 
+  STORAGE(INITIAL 106496 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
+  PCTINCREASE 0
+  BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)) ALLOW NONSCHEMA DISALLOW ANYSCHEMA ;
+REM INSERTING into SCHENKJ.SP1_XML_HRACI
+SET DEFINE OFF;
+Insert into SCHENKJ.SP1_XML_HRACI (NAZEV,OBSAH) values ('playerbase1','<?xml version="1.0" encoding="UTF-8"?>
+<playerbase>
+  <hrac typ="Příležitostný">
+    <id>1</id>
+    <jmeno>
+      <krestne>Aleš</krestne>
+      <prijmeni>Bodrý</prijmeni>
+    </jmeno>
+    <vek>7</vek>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>Android</typ_konzole>
+  </hrac>
+  <hrac typ="Příležitostný">
+    <id>2</id>
+    <jmeno>
+      <krestne>Bohdana</krestne>
+      <prijmeni>Štědrá</prijmeni>
+    </jmeno>
+    <vek>32</vek>
+    <typ_konzole>Android</typ_konzole>
+  </hrac>
+  <hrac typ="Retro">
+    <id>3</id>
+    <jmeno>
+      <krestne>Cecil</krestne>
+      <prijmeni>Bureš</prijmeni>
+    </jmeno>
+    <vek>13</vek>
+    <typ_konzole>PS4</typ_konzole>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>iOS</typ_konzole>
+  </hrac>
+  <hrac typ="Vášnivý">
+    <id>4</id>
+    <jmeno>
+      <krestne>Daniel</krestne>
+      <prijmeni>Houžvička</prijmeni>
+    </jmeno>
+    <vek>25</vek>
+    <typ_konzole>PSP</typ_konzole>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>Android</typ_konzole>
+    <typ_konzole>XBox One</typ_konzole>
+  </hrac>
+</playerbase>
+');
+Insert into SCHENKJ.SP1_XML_HRACI (NAZEV,OBSAH) values ('playerbase2','<?xml version="1.0" encoding="UTF-8"?>
+<playerbase>
+  <hrac typ="Vášnivý">
+    <id>12</id>
+    <jmeno>
+      <krestne>Magdalena</krestne>
+      <prijmeni>Farná</prijmeni>
+    </jmeno>
+    <vek>18</vek>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>Android</typ_konzole>
+  </hrac>
+  <hrac typ="Příležitostný">
+    <id>13</id>
+    <jmeno>
+      <krestne>Norman</krestne>
+      <prijmeni>Hrubý</prijmeni>
+    </jmeno>
+    <vek>28</vek>
+    <typ_konzole>Android</typ_konzole>
+    <typ_konzole>PS3</typ_konzole>
+  </hrac>
+  <hrac typ="Příležitostný">
+    <id>14</id>
+    <jmeno>
+      <krestne>Oliver</krestne>
+      <prijmeni>Liška</prijmeni>
+    </jmeno>
+    <vek>7</vek>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>iOS</typ_konzole>
+  </hrac>
+  <hrac typ="Vášnivý">
+    <id>15</id>
+    <jmeno>
+      <krestne>Pavel</krestne>
+      <prijmeni>Líný</prijmeni>
+    </jmeno>
+    <vek>13</vek>
+    <typ_konzole>PS4</typ_konzole>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>Android</typ_konzole>
+  </hrac>
+</playerbase>
+');
+
+
+
+--------------------------------------------------------
+--  File created - Pátek-dubna-01-2022   
+--------------------------------------------------------
+--------------------------------------------------------
+--  DDL for Table SP1_XML_VIDEOHRY
+--------------------------------------------------------
+
+  CREATE TABLE "SCHENKJ"."SP1_XML_VIDEOHRY" 
+   (	"NAZEV" VARCHAR2(256 BYTE), 
+	"OBSAH" "XMLTYPE"
+   ) SEGMENT CREATION IMMEDIATE 
+  PCTFREE 10 PCTUSED 40 INITRANS 1 MAXTRANS 255 
+ NOCOMPRESS LOGGING
+  STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
+  PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1
+  BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
+  TABLESPACE "STUDENTS2020" 
+ XMLTYPE COLUMN "OBSAH" STORE AS SECUREFILE BINARY XML (
+  TABLESPACE "STUDENTS2020" ENABLE STORAGE IN ROW CHUNK 8192
+  NOCACHE LOGGING  NOCOMPRESS  KEEP_DUPLICATES 
+  STORAGE(INITIAL 106496 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
+  PCTINCREASE 0
+  BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)) ALLOW NONSCHEMA DISALLOW ANYSCHEMA ;
+REM INSERTING into SCHENKJ.SP1_XML_VIDEOHRY
+SET DEFINE OFF;
+Insert into SCHENKJ.SP1_XML_VIDEOHRY (NAZEV,OBSAH) values ('gamestore1','<?xml version="1.0" encoding="UTF-8"?>
+<gamestore>
+  <videohra category="FPS">
+    <id>3</id>
+    <nazev>Counter Strike</nazev>
+    <vydavatel>Valve</vydavatel>
+    <vekova_hranice>12</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+  </videohra>
+  <videohra category="FPS">
+    <id>4</id>
+    <nazev>Doom</nazev>
+    <vydavatel>Doom s.r.o.</vydavatel>
+    <vekova_hranice>12</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>PSP</podpora_konzole>
+    <podpora_konzole>Android</podpora_konzole>
+  </videohra>
+  <videohra category="RPG">
+    <id>21</id>
+    <nazev>World of Warcraft</nazev>
+    <vydavatel>Blizzard Entertainment</vydavatel>
+    <vekova_hranice>8</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+  </videohra>
+  <videohra category="SandBox">
+    <id>12</id>
+    <nazev>Minecraft</nazev>
+    <vydavatel>Microsoft</vydavatel>
+    <vekova_hranice>3</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>iOS</podpora_konzole>
+    <podpora_konzole>Android</podpora_konzole>
+    <podpora_konzole>PS4</podpora_konzole>
+    <podpora_konzole>XBox One</podpora_konzole>
+  </videohra>
+</gamestore>
+');
+Insert into SCHENKJ.SP1_XML_VIDEOHRY (NAZEV,OBSAH) values ('gamestore2','<?xml version="1.0" encoding="UTF-8"?>
+<gamestore>
+  <videohra category="Retro">
+    <id>18</id>
+    <nazev>Tetris</nazev>
+    <vydavatel>Tetris s.r.o.</vydavatel>
+    <vekova_hranice>3</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>Android</podpora_konzole>
+    <podpora_konzole>iOS</podpora_konzole>
+  </videohra>
+  <videohra category="RPG">
+    <id>13</id>
+    <nazev>NeverWinter</nazev>
+    <vydavatel>Steam</vydavatel>
+    <vekova_hranice>8</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>PS3</podpora_konzole>
+  </videohra>
+  <videohra category="Platform">
+    <id>2</id>
+    <nazev>Black Hole</nazev>
+    <vydavatel>Fiala Industries</vydavatel>
+    <vekova_hranice>3</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+  </videohra>
+  <videohra category="Horror">
+    <id>17</id>
+    <nazev>Slenderman</nazev>
+    <vydavatel>Baf a.s.</vydavatel>
+    <vekova_hranice>15</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>Android</podpora_konzole>
+    <podpora_konzole>PS4</podpora_konzole>
+  </videohra>
+  <videohra category="MOBA">
+    <id>11</id>
+    <nazev>League of Legends</nazev>
+    <vydavatel>Small Indie Company</vydavatel>
+    <vekova_hranice>8</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+  </videohra>
+</gamestore>
+');
+
+
+--------------------------------------------------------
+--  File created - Pátek-dubna-01-2022   
+--------------------------------------------------------
+--------------------------------------------------------
+--  DDL for Table SP1_XML_HRAJE
+--------------------------------------------------------
+
+  CREATE TABLE "SCHENKJ"."SP1_XML_HRAJE" 
+   (	"NAZEV" VARCHAR2(256 BYTE), 
+	"OBSAH" "XMLTYPE"
+   ) SEGMENT CREATION IMMEDIATE 
+  PCTFREE 10 PCTUSED 40 INITRANS 1 MAXTRANS 255 
+ NOCOMPRESS LOGGING
+  STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
+  PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1
+  BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
+  TABLESPACE "STUDENTS2020" 
+ XMLTYPE COLUMN "OBSAH" STORE AS SECUREFILE BINARY XML (
+  TABLESPACE "STUDENTS2020" ENABLE STORAGE IN ROW CHUNK 8192
+  NOCACHE LOGGING  NOCOMPRESS  KEEP_DUPLICATES 
+  STORAGE(INITIAL 106496 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
+  PCTINCREASE 0
+  BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)) ALLOW NONSCHEMA DISALLOW ANYSCHEMA ;
+REM INSERTING into SCHENKJ.SP1_XML_HRAJE
+SET DEFINE OFF;
+Insert into SCHENKJ.SP1_XML_HRAJE (NAZEV,OBSAH) values ('session1','<?xml version="1.0" encoding="UTF-8"?>
+<session>
+  <hraje>
+    <id_hrace>1</id_hrace>
+    <id_hry>12</id_hry>
+  </hraje>
+  <hraje>
+    <id_hrace>1</id_hrace>
+    <id_hry>18</id_hry>
+  </hraje>
+  <hraje>
+    <id_hrace>2</id_hrace>
+    <id_hry>4</id_hry>
+  </hraje>
+  <hraje>
+    <id_hrace>4</id_hrace>
+    <id_hry>11</id_hry>
+  </hraje>
+  <hraje>
+    <id_hrace>12</id_hrace>
+    <id_hry>11</id_hry>
+  </hraje>
+  <hraje>
+    <id_hrace>13</id_hrace>
+    <id_hry>13</id_hry>
+  </hraje>
+  <hraje>
+    <id_hrace>15</id_hrace>
+    <id_hry>2</id_hry>
+  </hraje>
+  <hraje>
+    <id_hrace>15</id_hrace>
+    <id_hry>12</id_hry>
+  </hraje>
+</session>
+');
+
+
+
+SELECT krestne, prijmeni
+FROM SP1_XML_HRACI, 
+     XMLTABLE( 'playerbase/hrac/jmeno' PASSING obsah 
+     COLUMNS krestne VARCHAR2(50) PATH 'krestne',
+             prijmeni VARCHAR2(50) PATH 'prijmeni'
+     );
+
+SELECT typ, prijmeni, konzole
+FROM SP1_XML_HRACI, 
+     XMLTABLE( 'playerbase/hrac' PASSING obsah 
+     COLUMNS typ VARCHAR2(50) PATH '@typ',
+             prijmeni VARCHAR2(50) PATH 'jmeno/prijmeni',
+             konzole XMLTYPE PATH 'typ_konzole'
+     );
+      
+     
+SELECT dotaz.*
+  FROM SP1_XML_VIDEOHRY x,
+       XMLTABLE( 'for $x at $i in /gamestore/videohra
+       let $n := data($x/nazev)
+       let $m := data($x/id)
+       let $o := data($x/@category)
+       let $p := data($x/vekova_hranice)
+       where ($o = "FPS" or $o = "RPG") and $p < 10
+       order by $n
+return <li>{$i}. {$n} (id = {$m} | PG = {$p}) = {$o}</li>' PASSING obsah ) dotaz; 
+
+
+SELECT dotaz.*
+  FROM SP1_XML_HRACI x,
+       XMLTABLE( 'for $x at $i in /playerbase/hrac/jmeno
+       let $p := data($x/prijmeni)
+       let $j := data($x/krestne)
+       let $d := data($x/../id)
+       where $x/../vek > 12
+       order by $p
+return <li>{$d}. {$j}_{$p} (vek = {data($x/../vek)})</li>' PASSING obsah ) dotaz;
+     
+	 
+SELECT dotaz.*
+  FROM SP1_XML_HRACI x,
+       XMLTABLE( 'for $x at $i in /playerbase/hrac/jmeno
+       let $p := data($x/prijmeni)
+       let $j := data($x/krestne)
+       let $d := data($x/../id)
+       let $t := data($x/../@typ)
+       where $x/../vek <30 and $t = "Příležitostný"
+       order by $p
+return <li>{$d}. {$j}_{$p} (vek = {data($x/../vek)} - {data($t)})</li>' PASSING obsah ) dotaz;
+
+
+SELECT typ, prijmeni, konzole, prvni
+FROM SP1_XML_HRACI, 
+     XMLTABLE( 'playerbase/hrac' PASSING obsah 
+     COLUMNS typ VARCHAR2(50) PATH '@typ',
+             prijmeni VARCHAR2(50) PATH 'jmeno/prijmeni',
+             konzole XMLTYPE PATH 'typ_konzole',
+             prvni VARCHAR(10) PATH 'typ_konzole[1]'
+     ) WHERE konzole LIKE('%PC%');
+	 
+
+SELECT dotaz.*
+  FROM SP1_XML_VIDEOHRY x,
+       XMLTABLE( 'for $x at $i in /gamestore/videohra
+       let $avg := avg(for $y in /gamestore/videohra return number($y/vekova_hranice))
+       let $n := data($x/nazev)
+       let $p := data($x/vekova_hranice)
+       order by $n
+return <li>{$n} {$p}({$avg})</li>' PASSING obsah ) dotaz WHERE x.nazev='gamestore1'; 
+     

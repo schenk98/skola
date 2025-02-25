@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playerbase>
+  <hrac typ="Vášnivý">
+    <id>12</id>
+    <jmeno>
+        <krestne>Magdalena</krestne>
+        <prijmeni>Farná</prijmeni>
+    </jmeno>
+    <vek>18</vek>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>Android</typ_konzole>
+  </hrac>
+  <hrac typ="Příležitostný">
+    <id>13</id>
+    <jmeno>
+        <krestne>Norman</krestne>
+        <prijmeni>Hrubý</prijmeni>
+    </jmeno>
+    <vek>28</vek>
+    <typ_konzole>Android</typ_konzole>
+    <typ_konzole>PS3</typ_konzole>
+  </hrac>
+  <hrac typ="Příležitostný">
+    <id>14</id>
+    <jmeno>
+        <krestne>Oliver</krestne>
+        <prijmeni>Liška</prijmeni>
+    </jmeno>
+    <vek>7</vek>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>iOS</typ_konzole>
+  </hrac>
+  <hrac typ="Vášnivý">
+    <id>15</id>
+    <jmeno>
+        <krestne>Pavel</krestne>
+        <prijmeni>Líný</prijmeni>
+    </jmeno>
+    <vek>13</vek>
+    <typ_konzole>PS4</typ_konzole>
+    <typ_konzole>PC</typ_konzole>
+    <typ_konzole>Android</typ_konzole>
+  </hrac>
+</playerbase>

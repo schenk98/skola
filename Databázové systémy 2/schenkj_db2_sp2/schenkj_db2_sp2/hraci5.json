@@ -1,0 +1,32 @@
+{
+    "playerbase" : 
+    {
+        "hrac" : {
+            "id" : "13",
+            "jmeno" : {
+                "krestne" : "Miroslav",
+                "prijmeni" : "Seøina"
+            },
+            "vek" : "17",
+            "typ_konzole" : ["PC", "PS4"]
+        },
+        "hrac" : {
+            "id" : "14",
+            "jmeno" : {
+                "krestne" : "Naïa",
+                "prijmeni" : "Lená"
+            },
+            "vek" : "20",
+            "typ_konzole" : ["PC", "XBox One"]
+        },
+        "hrac" : {
+            "id" : "15",
+            "jmeno" : {
+                "krestne" : "Oliver",
+                "prijmeni" : "Veto"
+            },
+            "vek" : "33",
+            "typ_konzole" : ["iOS", "PS3"]
+        }
+    } 
+}

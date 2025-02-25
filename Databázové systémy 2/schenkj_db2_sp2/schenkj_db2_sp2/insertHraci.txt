@@ -1,0 +1,122 @@
+db.hraci.insertMany([{
+            "id" : 1,
+            "jmeno" : {
+                "krestne" : "Aleš",
+                "prijmeni" : "Bodrý"
+            },
+            "vek" : 7,
+            "typ_konzole" : ["PC", "Android"]
+        }, {
+            "id" : 2,
+            "jmeno" : {
+                "krestne" : "Bohdana",
+                "prijmeni" : "Zlatá"
+            },
+            "vek" : 45,
+            "typ_konzole" : ["Android"]
+        }, {
+            "id" : 3,
+            "jmeno" : {
+                "krestne" : "Cecil",
+                "prijmeni" : "Anton"
+            } ,
+            "vek" : 13,
+            "typ_konzole" : ["PC", "Android", "PS4"]
+        }, {
+            "id" : 4,
+            "jmeno" : {
+                "krestne" : "Dobromil",
+                "prijmeni" : "Hladový"
+            },
+            "vek" : 18,
+            "typ_konzole" : ["PC", "iOS"]
+        }, {
+            "id" : 5,
+            "jmeno" : {
+                "krestne" : "Emanuel",
+                "prijmeni" : "Žáèek"
+            },
+            "vek" : 15,
+            "typ_konzole" : ["Android", "PC"]
+        }, {
+            "id" : 6,
+            "jmeno" : {
+                "krestne" : "František",
+                "prijmeni" : "Škubert"
+            },
+            "vek" : 19,
+            "typ_konzole" : ["PS4", "iOS"]
+        }, {
+            "id" : 7,
+            "jmeno" : {
+                "krestne" : "Gustav",
+                "prijmeni" : "Nor"
+            },
+            "vek" : 5,
+            "typ_konzole" : ["Android"]
+        }, {
+            "id" : 8,
+            "jmeno" : {
+                "krestne" : "Hana",
+                "prijmeni" : "Olná"
+            },
+            "vek" : 8,
+            "typ_konzole" : ["iOS"]
+        }, {
+            "id" : 9,
+            "jmeno" : {
+                "krestne" : "Ivan",
+                "prijmeni" : "Mrazík"
+            },
+            "vek" : 23,
+            "typ_konzole" : ["PC", "Android", "XBox One"]
+        }, {
+            "id" : 10,
+            "jmeno" : {
+                "krestne" : "Jiøí",
+                "prijmeni" : "Polepšil"
+            },
+            "vek" : 26,
+            "typ_konzole" : ["PC", "PS3"]
+        },{
+            "id" : 11,
+            "jmeno" : {
+                "krestne" : "Kateøina",
+                "prijmeni" : "Hodná"
+            },
+            "vek" : 17,
+            "typ_konzole" : ["PSP", "Android"]
+        },{
+            "id" : 12,
+            "jmeno" : {
+                "krestne" : "Ladislav",
+                "prijmeni" : "Horton"
+            },
+            "vek" : 42,
+            "typ_konzole" : ["PC"]
+        },{
+            "id" : 13,
+            "jmeno" : {
+                "krestne" : "Miroslav",
+                "prijmeni" : "Seøina"
+            },
+            "vek" : 17,
+            "typ_konzole" : ["PC", "PS4"]
+        }, {
+            "id" : 14,
+            "jmeno" : {
+                "krestne" : "Naïa",
+                "prijmeni" : "Lená"
+            },
+            "vek" : 20,
+            "typ_konzole" : ["PC", "XBox One"]
+        }, {
+            "id" : 15,
+            "jmeno" : {
+                "krestne" : "Oliver",
+                "prijmeni" : "Veto"
+            },
+            "vek" : 33,
+            "typ_konzole" : ["iOS", "PS3"]
+        }       
+])

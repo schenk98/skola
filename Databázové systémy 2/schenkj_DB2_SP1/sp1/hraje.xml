@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session>
+  <hraje>
+      <id_hrace>1</id_hrace>
+      <id_hry>12</id_hry>
+  </hraje>
+  <hraje>
+      <id_hrace>1</id_hrace>
+      <id_hry>18</id_hry>
+  </hraje>
+  <hraje>
+      <id_hrace>2</id_hrace>
+      <id_hry>4</id_hry>
+  </hraje>
+  <hraje>
+      <id_hrace>4</id_hrace>
+      <id_hry>11</id_hry>
+  </hraje>
+  <hraje>
+      <id_hrace>12</id_hrace>
+      <id_hry>11</id_hry>
+  </hraje>
+  <hraje>
+      <id_hrace>13</id_hrace>
+      <id_hry>13</id_hry>
+  </hraje>
+  <hraje>
+      <id_hrace>15</id_hrace>
+      <id_hry>2</id_hry>
+  </hraje>
+  <hraje>
+      <id_hrace>15</id_hrace>
+      <id_hry>12</id_hry>
+  </hraje>
+</session>

@@ -1,0 +1,8 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ns: <http://example/ns#>
+
+ns:T1 rdfs:subClassOf ns:T2 .
+ns:T2 rdfs:subClassOf ns:T3 .
+
+ns:p rdfs:domain ns:D .
+ns:p rdfs:range  ns:T1 .

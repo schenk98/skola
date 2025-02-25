@@ -1,0 +1,70 @@
+SELECT krestne, prijmeni
+FROM SP1_XML_HRACI, 
+     XMLTABLE( 'playerbase/hrac/jmeno' PASSING obsah 
+     COLUMNS krestne VARCHAR2(50) PATH 'krestne',
+             prijmeni VARCHAR2(50) PATH 'prijmeni'
+     );
+
+SELECT typ, prijmeni, konzole
+FROM SP1_XML_HRACI, 
+     XMLTABLE( 'playerbase/hrac' PASSING obsah 
+     COLUMNS typ VARCHAR2(50) PATH '@typ',
+             prijmeni VARCHAR2(50) PATH 'jmeno/prijmeni',
+             konzole XMLTYPE PATH 'typ_konzole'
+     );
+      
+     
+SELECT dotaz.*
+  FROM SP1_XML_VIDEOHRY x,
+       XMLTABLE( 'for $x at $i in /gamestore/videohra
+       let $n := data($x/nazev)
+       let $m := data($x/id)
+       let $o := data($x/@category)
+       let $p := data($x/vekova_hranice)
+       where ($o = "FPS" or $o = "RPG") and $p < 10
+       order by $n
+return <li>{$i}. {$n} (id = {$m} | PG = {$p}) = {$o}</li>' PASSING obsah ) dotaz; 
+
+
+SELECT dotaz.*
+  FROM SP1_XML_HRACI x,
+       XMLTABLE( 'for $x at $i in /playerbase/hrac/jmeno
+       let $p := data($x/prijmeni)
+       let $j := data($x/krestne)
+       let $d := data($x/../id)
+       where $x/../vek > 12
+       order by $p
+return <li>{$d}. {$j}_{$p} (vek = {data($x/../vek)})</li>' PASSING obsah ) dotaz;
+     
+	 
+SELECT dotaz.*
+  FROM SP1_XML_HRACI x,
+       XMLTABLE( 'for $x at $i in /playerbase/hrac/jmeno
+       let $p := data($x/prijmeni)
+       let $j := data($x/krestne)
+       let $d := data($x/../id)
+       let $t := data($x/../@typ)
+       where $x/../vek <30 and $t = "Příležitostný"
+       order by $p
+return <li>{$d}. {$j}_{$p} (vek = {data($x/../vek)} - {data($t)})</li>' PASSING obsah ) dotaz;
+
+
+SELECT typ, prijmeni, konzole, prvni
+FROM SP1_XML_HRACI, 
+     XMLTABLE( 'playerbase/hrac' PASSING obsah 
+     COLUMNS typ VARCHAR2(50) PATH '@typ',
+             prijmeni VARCHAR2(50) PATH 'jmeno/prijmeni',
+             konzole XMLTYPE PATH 'typ_konzole',
+             prvni VARCHAR(10) PATH 'typ_konzole[1]'
+     ) WHERE konzole LIKE('%PC%');
+	 
+
+SELECT dotaz.*
+  FROM SP1_XML_VIDEOHRY x,
+       XMLTABLE( 'for $x at $i in /gamestore/videohra
+       let $avg := avg(for $y in /gamestore/videohra return number($y/vekova_hranice))
+       let $n := data($x/nazev)
+       let $p := data($x/vekova_hranice)
+       order by $n
+return <li>{$n} {$p}({$avg})</li>' PASSING obsah ) dotaz WHERE x.nazev='gamestore1'; 
+     

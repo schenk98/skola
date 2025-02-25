@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gamestore>
+  <videohra category="Retro">
+    <id>18</id>
+    <nazev>Tetris</nazev>
+    <vydavatel>Tetris s.r.o.</vydavatel>
+    <vekova_hranice>3</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>Android</podpora_konzole>
+    <podpora_konzole>iOS</podpora_konzole>
+  </videohra>
+  <videohra category="RPG">
+    <id>13</id>
+    <nazev>NeverWinter</nazev>
+    <vydavatel>Steam</vydavatel>
+    <vekova_hranice>8</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>PS3</podpora_konzole>
+  </videohra>
+  <videohra category="Platform">
+    <id>2</id>
+    <nazev>Black Hole</nazev>
+    <vydavatel>Fiala Industries</vydavatel>
+    <vekova_hranice>3</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+  </videohra>
+  <videohra category="Horror">
+    <id>17</id>
+    <nazev>Slenderman</nazev>
+    <vydavatel>Baf a.s.</vydavatel>
+    <vekova_hranice>15</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>Android</podpora_konzole>
+    <podpora_konzole>PS4</podpora_konzole>
+  </videohra>
+  <videohra category="MOBA">
+    <id>11</id>
+    <nazev>League of Legends</nazev>
+    <vydavatel>Small Indie Company</vydavatel>
+    <vekova_hranice>8</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+  </videohra>
+</gamestore> 

@@ -1,0 +1,41 @@
+{
+    "gamestore" : 
+    {
+        "videohra" : {
+            "id" : "13",
+            "nazev" : "Minecraft",
+            "vydavatel" : "Microsoft",
+            "vekova_hranice" : "3",
+            "podpora_konzole" : ["PC", "Android", "iOS", "XBox One"]
+        },
+        "videohra" : {
+            "id" : "14",
+            "nazev" : "NeverWinter",
+            "vydavatel" : "Steam games",
+            "vekova_hranice" : "8",
+            "podpora_konzole" : ["PC","PS4"]
+        },
+        "videohra" : {
+            "id" : "17",
+            "nazev" : "Sports 3",
+            "vydavatel" : "Kinekt sports",
+            "vekova_hranice" : "3",
+            "podpora_konzole" : ["XBox One"]
+        },
+        "videohra" : {
+            "id" : "6",
+            "nazev" : "Fifa 2021",
+            "vydavatel" : "EA",
+            "vekova_hranice" : "3",
+            "podpora_konzole" : ["PC", "PS3", "PS4", "XBox One"]
+        }, 
+        "videohra" : {
+            "id" : "16",
+            "nazev" : "Poe",
+            "vydavatel" : "FunGames s.r.o.",
+            "vekova_hranice" : "3",
+            "podpora_konzole" : ["Android", "iOS"]
+        }        
+    } 
+}
+      

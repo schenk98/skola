@@ -1,0 +1,32 @@
+{
+    "playerbase" : 
+    {
+        "hrac" : {
+            "id" : "1",
+            "jmeno" : {
+                "krestne" : "Aleš",
+                "prijmeni" : "Bodrý"
+            },
+            "vek" : "7",
+            "typ_konzole" : ["PC", "Android"]
+        },
+        "hrac" : {
+            "id" : "2",
+            "jmeno" : {
+                "krestne" : "Bohdana",
+                "prijmeni" : "Zlatá"
+            },
+            "vek" : "45",
+            "typ_konzole" : ["Android"]
+        },
+        "hrac" : {
+            "id" : "3",
+            "jmeno" : {
+                "krestne" : "Cecil",
+                "prijmeni" : "Anton"
+            } ,
+            "vek" : "13",
+            "typ_konzole" : ["PC", "Android", "PS4"]
+        }
+    } 
+}

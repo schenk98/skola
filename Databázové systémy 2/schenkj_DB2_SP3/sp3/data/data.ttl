@@ -1,0 +1,77 @@
+
+<Dobromil_Hladovy>  <id>        1 ;
+                    <vek>       21 ;
+                    <konzole>   "PC",
+                                "PS4";
+                    <hraje>     "Tetris",
+                                "League_of_Legends".
+                                
+<Emanuel_Zacek>     <id>        2 ;
+                    <vek>       18 ;
+                    <konzole>   "Android",
+                                "XBox_One";
+                    <hraje>     "Angry_Birds",
+                                "Sports_2".
+                                
+<Bohdana_Zlata>     <id>        3 ;
+                    <vek>       31 ;
+                    <konzole>   "iOS",
+                                "PC";
+                    <hraje>     "Tetris",
+                                "Šachy",
+                                "Counter_Strike".  
+                                                           
+<Ladislav_Horton>   <id>        4 ;
+                    <vek>       22 ;
+                    <konzole>   "Android",
+                                "PC",
+                                "PS4";
+                    <hraje>     "Fifa",
+                                "League_of_Legends",
+                                "Counter_Strike". 
+                                
+<Oliver_Veto>       <id>        5 ;
+                    <vek>       20 ;
+                    <konzole>   "iOS",
+                                "PC";
+                    <hraje>     "Angry_Birds",
+                                "Counter_Strike". 
+                                
+<Jiri_Polepsil>     <id>        6 ;
+                    <konzole>   "PC";
+                    <hraje>     "Šachy",
+                                "Counter_Strike".  
+                                  
+<Nada_Lena>         <id>        7 ;
+                    <konzole>   "Android",
+                                "PS4";
+                    <hraje>     "Fifa",
+                                "Angry_Birds". 
+                                 
+<Cecil_Anton>       <id>        8 ;
+                    <konzole>   "PC",
+                                "PS4";
+                    <hraje>     "Fifa",
+                                "League_of_Legends".  
+                                 
+<Frantisek_Skubert> <id>        9 ;
+                    <konzole>   "PC",
+                                "XBox_One";
+                    <hraje>     "Tetris",
+                                "Sports_2",
+                                "Counter_Strike".    
+                                 
+<Miroslav_Serina>   <id>        10 ;
+                    <vek>       23 ;
+                    <konzole>   "PC",
+                                "Android";
+                    <hraje>     "Tetris",
+                                "League_of_Legends",
+                                "Counter_Strike". 
+                                 
+<Rostislav_Sidlo>   <id>        11 ;
+                    <vek>       18 ;
+                    <konzole>   "PS4",
+                                "XBox_One";
+                    <hraje>     "Fifa",
+                                "Sports_2".                                                                                                                       

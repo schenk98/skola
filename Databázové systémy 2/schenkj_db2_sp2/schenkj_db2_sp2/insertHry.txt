@@ -1,0 +1,62 @@
+db.hry.insertMany([{
+            "id" : 3,
+            "nazev" : "Counter Strike",
+            "vydavatel" : "Valve",
+            "vekova_hranice" : 12,
+            "podpora_konzole" : ["PC"]
+        }, {
+            "id" : 18,
+            "nazev" : "Tetris",
+            "vydavatel" : "Tetris s.r.o.",
+            "vekova_hranice" : 3,
+            "podpora_konzole" : ["PC", "Android", "iOS", "PSP"]
+        }, {
+            "id" : 4,
+            "nazev" : "Doom",
+            "vydavatel" : "Doomed a.s.",
+            "vekova_hranice" : 12,
+            "podpora_konzole" : ["PC", "XBox One"]
+        } ,{
+            "id" : 12,
+            "nazev" : "League of legends",
+            "vydavatel" : "Riot games",
+            "vekova_hranice" : 8,
+            "podpora_konzole" : ["PC", "Android"]
+        },{
+            "id" : 20,
+            "nazev" : "Valorant",
+            "vydavatel" : "Riot games",
+            "vekova_hranice" : 12,
+            "podpora_konzole" : ["PC"]
+        }, {
+            "id" : 13,
+            "nazev" : "Minecraft",
+            "vydavatel" : "Microsoft",
+            "vekova_hranice" : 3,
+            "podpora_konzole" : ["PC", "Android", "iOS", "XBox One"]
+        },{
+            "id" : 14,
+            "nazev" : "NeverWinter",
+            "vydavatel" : "Steam games",
+            "vekova_hranice" : 8,
+            "podpora_konzole" : ["PC","PS4"]
+        },{
+            "id" : 17,
+            "nazev" : "Sports 3",
+            "vydavatel" : "Kinekt sports",
+            "vekova_hranice" : 3,
+            "podpora_konzole" : ["XBox One"]
+        }, {
+            "id" : 6,
+            "nazev" : "Fifa 2021",
+            "vydavatel" : "EA",
+            "vekova_hranice" : 3,
+            "podpora_konzole" : ["PC", "PS3", "PS4", "XBox One"]
+        }, {
+            "id" : 16,
+            "nazev" : "Poe",
+            "vydavatel" : "FunGames s.r.o.",
+            "vekova_hranice" : 3,
+            "podpora_konzole" : ["Android", "iOS"]
+        }   
+])

@@ -1,0 +1,19 @@
+db.hraci.find({$or:[{vek:{$gte:30}},{id:{$in:[1,2,3]}}]},{jmeno:1,vek:1,id:1})
+    logický operátor;
+    operátor porovnávající numerické hodnoty;
+    výètový operátor ($in);
+    nastavení projekce
+    
+db.hraci.find({$or:[{"jmeno.prijmeni" :{$regex: /^H.*/}},{vek:{$exists:false}}]},{jmeno:1,vek:1,id:1,_id:0})
+    regex výraz pro textovou hodnotu;
+    podmínka na (ne)existenci hodnoty;
+    
+db.hry.find({podpora_konzole:{$elemMatch:{$eq:'Android'}}})
+    práce s JSON Array;
+
+    
+db.hry.updateOne({id:13},{$set:{vydavatel:"Mojang"}})
+db.hry.updateMany({id:{$in:[3,4,6]}},{$set:{vekova_hranice:15}})
+
+
+db.hraci.aggregate([{$lookup:{from:"hry",localField:"vek",foreignField:"vekova_hranice",as:"idPokus"}}])

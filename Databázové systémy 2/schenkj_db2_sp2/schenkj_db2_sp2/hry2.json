@@ -1,0 +1,20 @@
+{
+    "gamestore" : 
+    {
+        "videohra" : {
+            "id" : "12",
+            "nazev" : "League of legends",
+            "vydavatel" : "Riot games",
+            "vekova_hranice" : "8",
+            "podpora_konzole" : ["PC", "Android"]
+        },
+        "videohra" : {
+            "id" : "20",
+            "nazev" : "Valorant",
+            "vydavatel" : "Riot games",
+            "vekova_hranice" : "12",
+            "podpora_konzole" : ["PC"]
+        }
+    } 
+}
+      

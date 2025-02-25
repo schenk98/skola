@@ -1,0 +1,59 @@
+PREFIX db: <http://localhost:3030/sp3/>
+
+SELECT ?jmeno ?vek ?id ?konzole
+WHERE {
+  ?jmeno db:vek ?vek;
+         db:id	?id;
+         db:konzole ?konzole.
+  FILTER(?konzole="PC" && ?vek>21).
+}
+LIMIT 20
+
+-----------------------------------------------------------
+
+PREFIX db: <http://localhost:3030/sp3/>
+
+SELECT ?id ?jmeno ?vek ?konzole
+WHERE {
+  ?jmeno db:id ?id.
+  OPTIONAL{
+  	?jmeno db:vek ?vek.
+  }
+  ?jmeno db:konzole ?konzole.
+  FILTER CONTAINS(?konzole,"P") .
+}
+ORDER BY DESC(?vek)
+
+-----------------------------------------------------------
+
+PREFIX db: <http://localhost:3030/sp3/>
+
+SELECT ?id ?jmeno ?vek 
+WHERE {
+    ?jmeno db:id ?id;
+  			db:vek ?vek.
+    FILTER EXISTS { ?jmeno db:vek ?vek . } 
+}
+ORDER BY(?vek)
+
+-----------------------------------------------------------
+
+PREFIX db: <http://localhost:3030/sp3/>
+
+SELECT ?id ?jmeno ?vek
+WHERE {
+    ?jmeno db:id ?id;
+  			db:vek ?vek.
+    VALUES ?id {1 2 3} 
+}
+
+-----------------------------------------------------------
+
+PREFIX db: <http://localhost:3030/sp3/>
+
+SELECT (count(?videohry) as ?pocet)
+WHERE {
+  ?jmeno db:hraje ?videohry .
+}
+
+

@@ -1,0 +1,73 @@
+SELECT * FROM kryl.ski;
+
+SELECT NAME, KM25, KM50 FROM kryl.ski ORDER BY km25;
+SELECT NAME, KM25, KM50 FROM kryl.ski ORDER BY km50;
+
+--    Q1: Vytvořte SQL dotaz, který každému závodníkovi spočte jeho pořadí na 25. km a v cíli závodu.
+SELECT NAME, KM25, KM50, RANK() OVER (ORDER BY KM25) AS rank25,  RANK() OVER (ORDER BY KM50) AS rank50 FROM kryl.ski;
+
+--    Q2: Vytvořte SQL dotaz, který identifikuje závodníky, kteří si nejvíce zlepšili pořadí mezi 25. kilometrem a cílem.
+SELECT NAME, KM25, KM50, RANK() OVER (ORDER BY KM25) AS rank25,
+  RANK() OVER (ORDER BY KM50) AS rank50,
+  RANK() OVER (ORDER BY KM25) - RANK() OVER (ORDER BY KM50) AS improvement FROM kryl.ski ORDER BY improvement DESC FETCH NEXT 5 ROWS ONLY;
+  
+--    Q3: Spočtěte ztrátu každého závodníka na závodníka před ním.
+SELECT NAME, KM25, KM50, 
+    LAG(KM50) OVER (ORDER BY KM50) AS cas_predchoziho,  
+    KM50 - LAG(KM50) OVER (ORDER BY KM50) AS ztrata_na_predchoziho
+FROM  kryl.ski ORDER BY  KM50;
+
+--     Q4: Vyjádřete pořadí U23 účastníků mezi sebou a jejich vzájemný odstup. V dotazu získejte i celkové pořadí.
+SELECT NAME, U23, KM50,
+  RANK() OVER (PARTITION BY U23 ORDER BY KM50) AS poradi_v_skupine,
+  RANK() OVER (ORDER BY KM50) AS celkove_poradi,
+  LAG(KM50) OVER (PARTITION BY U23 ORDER BY KM50) AS cas_predchoziho,
+  KM50 - LAG(KM50) OVER (PARTITION BY U23 ORDER BY KM50) AS ztrata_na_predchoziho
+FROM  kryl.ski WHERE U23 LIKE 'U23'ORDER BY  KM50;
+
+
+
+SELECT EXTRACT(year from datum), EXTRACT(month from datum), SUM(pocet_nakazenych)
+FROM kryl.covid_daily c GROUP BY ROLLUP(EXTRACT(year from datum), EXTRACT(month from datum)) ORDER BY 1, 2;
+
+
+SELECT EXTRACT(year from datum), EXTRACT(month from datum), SUM(pocet_nakazenych)
+FROM kryl.covid_daily c GROUP BY CUBE (EXTRACT(year from datum), EXTRACT(month from datum)) ORDER BY 1, 2;
+
+SELECT EXTRACT(year from datum), EXTRACT(month from datum), SUM(pocet_nakazenych)
+FROM kryl.covid_daily c GROUP BY GROUPING SETS ((EXTRACT(year from datum), EXTRACT(month from datum)), (EXTRACT(year from datum)), ()) ORDER BY 1, 2;
+
+
+SELECT
+EXTRACT(year from datum) as y,
+SUM(case when (EXTRACT(month from datum) = 1) then pocet_nakazenych else 0 end) AS january,
+SUM(case when (EXTRACT(month from datum) = 2) then pocet_nakazenych else 0 end) AS february,
+SUM(case when (EXTRACT(month from datum) = 3) then pocet_nakazenych else 0 end) AS march,
+SUM(case when (EXTRACT(month from datum) = 4) then pocet_nakazenych else 0 end) AS april,
+SUM(case when (EXTRACT(month from datum) = 5) then pocet_nakazenych else 0 end) AS may,
+SUM(case when (EXTRACT(month from datum) = 6) then pocet_nakazenych else 0 end) AS june,
+SUM(case when (EXTRACT(month from datum) = 7) then pocet_nakazenych else 0 end) AS july,
+SUM(case when (EXTRACT(month from datum) = 8) then pocet_nakazenych else 0 end) AS august,
+SUM(case when (EXTRACT(month from datum) = 9) then pocet_nakazenych else 0 end) AS september,
+SUM(case when (EXTRACT(month from datum) = 10) then pocet_nakazenych else 0 end) AS october,
+SUM(case when (EXTRACT(month from datum) = 11) then pocet_nakazenych else 0 end) AS november,
+SUM(case when (EXTRACT(month from datum) = 12) then pocet_nakazenych else 0 end) AS december
+
+FROM kryl.covid_daily c
+GROUP BY EXTRACT(year from datum)
+ORDER BY EXTRACT(year from datum);
+
+
+select * from (select 
+extract(year from datum) as y,
+extract(month from datum) as m,
+pocet_nakazenych
+from kryl.COVID_DAILY) PIVOT (SUM(pocet_nakazenych) FOR m in (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)) order by 1;
+
+
+SELECT name,
+UNNEST (ARRAY[8, 16, 25, 35, 43, 50]) AS stage,
+UNNEST (ARRAY[km8, km16, km25, km35, km43, km50]) AS time
+FROM kryl.ski ORDER BY name, stage;
+
+

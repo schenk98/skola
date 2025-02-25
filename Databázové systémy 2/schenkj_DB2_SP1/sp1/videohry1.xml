@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gamestore>
+  <videohra category="FPS">
+    <id>3</id>
+    <nazev>Counter Strike</nazev>
+    <vydavatel>Valve</vydavatel>
+    <vekova_hranice>12</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+  </videohra>
+  <videohra category="FPS">
+    <id>4</id>
+    <nazev>Doom</nazev>
+    <vydavatel>Doom s.r.o.</vydavatel>
+    <vekova_hranice>12</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>PSP</podpora_konzole>
+    <podpora_konzole>Android</podpora_konzole>
+  </videohra>
+  <videohra category="RPG">
+    <id>21</id>
+    <nazev>World of Warcraft</nazev>
+    <vydavatel>Blizzard Entertainment</vydavatel>
+    <vekova_hranice>8</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+  </videohra>
+  <videohra category="SandBox">
+    <id>12</id>
+    <nazev>Minecraft</nazev>
+    <vydavatel>Microsoft</vydavatel>
+    <vekova_hranice>3</vekova_hranice>
+    <podpora_konzole>PC</podpora_konzole>
+    <podpora_konzole>iOS</podpora_konzole>
+    <podpora_konzole>Android</podpora_konzole>
+    <podpora_konzole>PS4</podpora_konzole>
+    <podpora_konzole>XBox One</podpora_konzole>
+  </videohra>
+</gamestore> 

@@ -1,0 +1,1738 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:List_of_constructed_languages	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Eurasia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(Nineteen_Eighty-Four)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Walkden	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fahrenheit_451	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Darkness_at_Noon	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Sign_of_the_Times_(Slade_song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:St_Clement_Danes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Disinformation_Governance_Board	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rain_Without_Thunder	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Fahrenheit_451_(1966_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Mass_surveillance_in_popular_culture	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Chuck_Versus_the_First_Kill	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Napol\u00E9on_le_Petit>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Beats%3F>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_Scottish_science_fiction_writers	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(David_Bowie_song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Take_Your_Chance	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Sexcrime_(Nineteen_Eighty-Four)_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Anastasia_Dmitruk	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Joss_Whedon	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Surveillance	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Lorin_Maazel	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Social_Credit_System	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Self-fulfilling_prophecy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Freedom_of_thought	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Kelo_v._City_of_New_London>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Samuel_West	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Run_Away_(Real_McCoy_song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/R\u00FCdiger_Kuhlbrodt>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Equilibrium_(film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1949_in_the_United_Kingdom>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Submission_(novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Walter_Andreas_Schwarz	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Brave_New_World_(role-playing_game)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Historikerstreit	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Cold_War_(1948\u20131953)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:World_War_III_in_popular_culture	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Gy\u00F6rgy_Dalos>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Totalitarian_architecture	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Mike_Logan_(Law_&_Order)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:June_1949	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Amy_Jeffress	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Hendiatris	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Census_in_Germany	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Global_catastrophic_risk	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_apocalyptic_and_post-apocalyptic_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_dictators	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_drinks	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_secret_police_and_intelligence_organizations	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/List_of_dystopian_music,_TV_programs,_and_games>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Spaceship_Earth	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Feeble_Files	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Honor\u00E9_Lechasseur>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Muriel_Jaeger	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Chinese_Shadows	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thought_Reform_and_the_Psychology_of_Totalism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Spain_in_Our_Hearts	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/History_of_Apple_Inc.>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Electric_Eye_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Testify_(Rage_Against_the_Machine_song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Margaret_Drabble	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Social_networking_service	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Velvet_Goldmine	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:BioShock	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Lie	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Anti-communism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Culture_during_the_Cold_War	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Labour_Against_the_Witchhunt	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1946_in_Scotland>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Radical_transparency	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Year_Zero_(game)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Pam_Bachorz	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_Asian_countries	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Good_for_Your_Soul	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Iron_law_of_oligarchy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_police_states	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Shehr_e_Tabassum	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Nineteen_Eighty-Four	foaf:primaryTopic	dbr:Nineteen_Eighty-Four .
+dbr:Sita_Ram_Goel	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Terry_Gilliam	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alexandra_Palace	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Eurythmics	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Information_Society_(band)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns4:	<http://dbpedia.org/resource/2600:> .
+ns4:_The_Hacker_Quarterly	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Disposable_Teens	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns5:	<http://dbpedia.org/resource/The_Lion_and_the_Unicorn:> .
+ns5:_Socialism_and_the_English_Genius	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:New_Left	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Larry_Cedar	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Kellyanne_Conway	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:January_1950	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Peace_through_strength	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_dystopian_films	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Kentucky_Fried_Movie	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_stories_set_in_a_future_now_in_the_past	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Two_Minutes_Hate	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Maze_(painting)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Presidential_Commission_of_the_Russian_Federation_to_Counter_Attempts_to_Falsify_History_to_the_Detriment_of_Russia\u0027s_Interests>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_History_of_a_Town	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Kyiv_Modern-Ballet	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Kerry_Wendell_Thornley	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(American_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Social_patriotism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Reuben_H._Markham>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Churchill_Play	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/A_History_of_Britain_(TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:International_response_to_the_Spanish_Civil_War	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Winston_Smith_(Nineteen_Eighty-Four)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Winston_Smith_(Nineteen_Eighty-Four)>	dbp:series	dbr:Nineteen_Eighty-Four ;
+	dbo:series	dbr:Nineteen_Eighty-Four .
+dbr:Yes_Minister	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Handmaid\u0027s_Tale>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns7:	<http://dbpedia.org/resource/Robotron:> .
+ns7:_2084	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Turkey_Shoot_(1982_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Timeline_of_Steve_Jobs_media	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(advertisement)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:History_of_the_graphical_user_interface	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:History_of_the_Macintosh	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Outline_of_Apple_Inc.>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Literary_Wonderlands	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:SF_Masterworks	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Viktor_Golyshev	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Graphical_user_interface	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Queen_(band)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Utopia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Foundation_series	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_In_Our_Time_programmes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:PRISM	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alfred_Noyes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Kathy_Acker	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Cecil_Day-Lewis	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Computers,_Freedom_and_Privacy_Conference>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:E-democracy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Brainwashing	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:China_Digital_Times	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(British_series_7)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Superstate	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Chinese_science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Book_censorship_in_China	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Headlong_(theatre_company)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Klayman_v._Obama>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Bureaucratic_collectivism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Broadway_Melody_of_1938	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alexandru_Toma	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Brother_Where_You_Bound	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_awards_received_by_Edward_Snowden	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Human_After_All	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Anima_(Thom_Yorke_album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:We_Are_the_Pigs	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Jonathan_Holloway_(playwright)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns8:	<http://dbpedia.org/resource/Lanark:> .
+ns8:_A_Life_in_Four_Books	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fifteen_Million_Merits	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Barnhill,_Jura>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Hail_to_the_Thief	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_City_and_the_City_(TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_God_Complex	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Holy_Bible_(album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Ministry_of_Truth_(Lynskey_book)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:BBC_list_of_100_most_inspiring_novels	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Severance_(TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Thought-terminating_clich\u00E9>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Constant_Rabbit	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Oranges_and_Lemons	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Obsolete_(album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Techno-horror	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Beckton_Gas_Works	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Bitter_End_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Senate_House,_London>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/O\u0027Brien_(Nineteen_Eighty-Four)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Antonio_Saura	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_poker_playing_card_nicknames	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1949_in_literature>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:New_class	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Emmanuel_Goldstein	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Telescreen_(band)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alternative_Christmas_message	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Socialist_orders_of_merit	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Beforeigners	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1985_(Burgess_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jamie_de_Courcey	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rathbone_Street	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/An_Introduction_to_.....>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Hats_Off_(Roy_Harper_album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen_Eighty_Four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen_Eighty-four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Ogilvy_(name)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ignorance_Is_Bliss	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fall_Out_Boy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fictional_universe	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Abbreviation	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Motihari	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Playground_Entertainment	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:University_of_North_Carolina_at_Chapel_Hill	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Animal_Farm	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:subsequentWork	dbr:Nineteen_Eighty-Four ;
+	dbp:followedBy	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Rebecca_(novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ridley_Scott	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Patrick_Troughton	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rise_of_the_Cybermen	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Novel	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Digital_rights_management	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Queue_(Abdel_Aziz_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Anatoly_Kucherena	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thought_Criminals	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Chestnut	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Slogan	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Richard_Widmark	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_books_banned_by_governments	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Timeline_of_science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Yevgeny_Zamyatin	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_translators	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/McAndrew\u0027s_Hymn>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jon_McClure	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Sleeper_Awakes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Indoctrination	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Historical_negationism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Political_geography_of_Nineteen_Eighty-Four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Shirley_Stelfox	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_in_literature>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Alan_Myers_(translator)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/1Q84>	owl:differentFrom	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Abner_Dean	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Reflections_on_Gandhi	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Tijuana_bible	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/List_of_atheists_(surnames_N_to_Q)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(Westinghouse_Studio_One)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Stone_Tape	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Andrew_Gower	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Andr\u00E9_Morell>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Statue_of_George_Orwell	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/2_+_2_=_5>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Duncan_Macmillan_(playwright)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Nineteen_Eighty-Four_(1984_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Suzanna_Hamilton	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Michael_Radford	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:In_Soviet_Russia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rogerian_argument	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Hatred	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Oddworld_Inhabitants	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:History_of_the_punk_subculture	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Mac_Sabbath	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Tlaloc_Rivas	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fortune_Smiles	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Obscene_Phone_Caller	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thomas_Pynchon_bibliography	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Virtual_Stage	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Camila_(film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Maxwell_Caulfield	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Hammer_&_Tickle>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Two_&_Two_(2011_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Cartesian_materialism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Multiple_drafts_model	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Culture_of_fear	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Woman_on_the_Edge_of_Time	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Tony_Nardi	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Notre_Dame_de_Paris_Mosque	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Painswick_Stream	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Little_Brother_Is_Watching	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen_Ninety-Four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_language_creators	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Orwell_(video_game)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Worm_in_Paradise	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Versificator_(1984)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Versificator_(Nineteen_Eighty-Four)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Victory_gin	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Comrade_Ogilvy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Comrade_Ogilvy_(1984)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Comrade_Ogilvy_(Nineteen_Eighty-Four)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Comrade_ogilvy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Freedom_is_Slavery	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Ampleforth_(disambiguation)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Big_Brother_is_Watching	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:War_is_Peace	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:War_is_peace	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/George_Orwell/1984>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(George_Orwell)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(Orwell)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_novel>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Kaged	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Chestnut_Tree_Cafe	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Chestnut_Tree_Caf\u00E9>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Child-hero	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Junior_Anti-Sex-League	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Big_Brother_Is_Watching_You	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Syme_(1984)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Syme_(Nineteen_Eighty-Four)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:We_Are_the_Dead	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Telescreens	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Ignorance_is_Strengh	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Ignorance_is_Strength	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Oglivy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Nineteen_Eighty-Four_(novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen_eighty-Four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen_eighty-four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:The_last_man_in_europe	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Orwell_1984	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:The_Last_Man_in_Europe	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Book_1984	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Big_Brother_Is_Watching	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Big_brother_is_watching	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(Book)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(Novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(book)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_-_George_Orwell>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_george_orwell>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_orwell>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Ignorance_is_strength	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Novel_1984	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:George_Orwell_1984	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:George_Orwell_Nineteen_Eighty-Four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Neo-Bolshevik	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Neo-Bolshevist	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen-Eighty_Four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen_EightyFour	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Nineteen_eighty-four,_a_novel>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen_eighty_four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:The_Ministry_of_Peace	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:The_Ministry_of_Plenty	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/We\u0027ve_Always_Been_At_War_With_Eurasia>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:We_have_always_been_at_war_with_Eastasia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Damnatio_memoriae	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Minecraft	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Kirby:_Right_Back_at_Ya!>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Studio_One_(American_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Technology	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Spanish_Civil_War	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Propaganda	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rat	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Brown_University	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Colchester	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alternate_history	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Stephen_King	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/2_+_2_=_5_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Social_criticism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:High_concept	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_101ers	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/2021_Cuban_protests>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Language_reform	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Bokklubben_World_Library	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Happy_ending	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Adaptations_of_Nineteen_Eighty-Four	rdfs:seeAlso	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Great_Terror_(book)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:South_Bank_Sky_Arts_Award	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(For_the_Love_of_Big_Brother)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Warning_(Queensr\u00FFche_album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Panama_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Peachpit	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:CLODO	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Theory_and_Practice_of_Oligarchical_Collectivism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns11:	<http://dbpedia.org/resource/Science_Fiction:> .
+ns11:_The_100_Best_Novels	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1949_in_philosophy>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(Polish_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Big_Brother_Albania	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_M\u00E9xico>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Doublespeak	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Prisoner_(video_game)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Half_Bad	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Treehouse_of_Horror	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/A_Clergyman\u0027s_Daughter>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_most_commonly_challenged_books_in_the_United_States	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Foundation_Pit	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Orwell_(programming_language)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ascian_language	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Jehovah\u0027s_Witnesses>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Prometheus_Award	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Groupthink	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Object_of_the_mind	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Woo_(music_group)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jonathan_Larson	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:V_for_Vendetta	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Political_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Riverside_Studios	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alan_McGee	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Vartan_Gregorian	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_political_parties	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Bang_(British_band)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Kinks_Are_the_Village_Green_Preservation_Society	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/20th_century_in_literature>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Gateway_of_India	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Mircea_Nedelciu	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Medical_torture	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Randal_Marlin	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Soft_science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:A_Series_of_Unfortunate_Events	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rick_Wakeman	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:On_conducting_a_special_military_operation	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/David_Warner_(actor)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:That_Hideous_Strength	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Candide	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Walden_Two	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Politics_and_the_English_Language	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Iron_Heel	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Looking_Backward	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Veracity_(novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Why_Orwell_Matters	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Karin_Boye	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Amusing_Ourselves_to_Death	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Political_ideas_in_science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Politics_in_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_The_League_of_Extraordinary_Gentlemen_characters	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_Viz_comic_strips	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Read_(Hungarian)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Kingdom_of_Conspiracy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fictional_book	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Email_Surveillance	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:To_Surveil_with_Love	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Digital_Exploration_of_Interior_Design	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Matched_(book)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/William_Templeton_(screenwriter)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Empire_Strikes_First	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Talk_Shows_on_Mute	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Laurence_Olivier_Award_for_Best_New_Play	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thoughtcrime	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/11020_Orwell>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Julia_(Nineteen_Eighty-Four)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jacintha_Buddicom	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Beyond_the_Black_Rainbow	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Family_Guy_(season_18)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Republican_faction_(Spanish_Civil_War)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/World_Trade_Center_(1973\u20132001)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Hugh_Hopper	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:English_literature	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Conscience	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Javier_Chillon	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Howards_Alias	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Roger_Deakins	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_dystopian_literature	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Mockingbird_(Tevis_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(Danish_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(Dutch_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(software)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Denunciation_rally	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Apple_Inc._advertising>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Resistance_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Doublethink	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:EPIC_2014	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Pre-crime	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1066_and_All_That>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Undenk	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Grande_Fratello	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Liberal_Politics_of_Adolf_Hitler	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thirteenth_stroke_of_the_clock	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Lori_Perkins	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Heather_Botting	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jura_distillery	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Linguistics_in_science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ministries_of_Nineteen_Eighty-Four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Last_Starship_from_Earth	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/24-hour_analog_dial>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/D\u0027Youville_University>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ernest_Bramah	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Eug\u00E8ne_Lanti>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Brigade_(pejorative)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Paranoia_(role-playing_game)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Good_Morning,_Mr._Orwell>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Harold_Covington	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Muse_(band)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns12:	<http://dbpedia.org/resource/Black_Mirror:> .
+ns12:_Bandersnatch	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:English_novel	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:British_literature	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_Penguin_Classics	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Gulf_of_Corryvreckan	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Theatre_625	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Social_science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_science_fiction_novels	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_religious_ideas_in_science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Mind_control_in_popular_culture	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_science_fiction_universes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Eileen_Blair	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Hang_the_DJ	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1985_(Dalos_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_songs_that_retell_a_work_of_literature	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Cole_Bartiromo	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Dead_Past	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(Israeli_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Locations_of_Half-Life	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Double_Bubble_Trouble	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Critical_Essays_(Orwell)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Ice_People_(Gee_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Burn_bag	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1946_in_literature>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Julia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Douglas_Gayeton	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Not_This_August	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/After_12,000_Years>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Boris_van_der_Ham	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Child_Support_Agency	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Australian_Privacy_Foundation	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Orwellian	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Hans_Bemmann	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Transparency_(linguistic)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thought_Police	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Theater_im_OP	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Grande_Fratello_VIP	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Melissa_Chen	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Wooden_language	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:A_Pair_of_Brown_Eyes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Nicu\u0027s_Spoon_Theater_Company>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Chris_Heaton-Harris	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Room_101_(British_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ministry_of_propaganda	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(German_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Mac_(computer)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_retroactive_continuities	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Wall_Live_(2010\u20132013)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Paranoid_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Lathe_of_Heaven	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Cleansed	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Yuri_Bezmenov	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Eric_Corley	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Ben,_in_the_World>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Sara_Canning	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_books_about_anarchism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/List_of_fiction_works_made_into_feature_films_(K\u2013R)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Memory_hole	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Memory_Hole_(website)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/List_of_people_with_surname_O\u0027Brien>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(play)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Logocracy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Near_future_in_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Eden_(Lem_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Slaughter_to_Prevail	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Derby_Playhouse_production_history	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Brian_May	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Spring_Byington	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema:	<http://schema.org/> .
+dbr:Nineteen_Eighty-Four	rdf:type	schema:CreativeWork ,
+		schema:Book .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Nineteen_Eighty-Four	rdf:type	yago:LiteraryComposition106364329 ,
+		yago:Fiction106367107 ,
+		yago:Writing106362953 ,
+		yago:WikicatBritishScienceFictionNovels .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Nineteen_Eighty-Four	rdf:type	wikidata:Q234460 ,
+		wikidata:Q386724 ,
+		wikidata:Q571 ,
+		dbo:WrittenWork ,
+		yago:GroupAction101080366 ,
+		yago:WrittenCommunication106349220 ,
+		yago:Act100030358 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Nineteen_Eighty-Four	rdf:type	umbel-rc:Book_CW ,
+		yago:WikicatNovelsAboutRevolutionaries ,
+		yago:WikicatNovelsAboutTotalitarianism ,
+		yago:WikicatNovelsAboutPropaganda ,
+		yago:Wikicat1940sScienceFictionNovels ,
+		yago:WikicatFictionalWars ,
+		yago:WikicatPoliticalNovels ,
+		yago:Wikicat1949Novels ,
+		yago:WikicatDystopianNovels .
+@prefix ns18:	<http://dbpedia.org/class/> .
+dbr:Nineteen_Eighty-Four	rdf:type	ns18:Book ,
+		dbo:Book .
+@prefix bibo:	<http://purl.org/ontology/bibo/> .
+dbr:Nineteen_Eighty-Four	rdf:type	bibo:Book ,
+		yago:Communication100033020 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:PsychologicalFeature100023100 ,
+		dbo:Work ,
+		yago:Event100029378 ,
+		yago:Abstraction100002137 ,
+		yago:WikicatBritishNovels ,
+		yago:WikicatEnglishNovels ,
+		yago:Novel106367879 ,
+		yago:MilitaryAction100952963 ,
+		owl:Thing ,
+		yago:War100973077 ,
+		yago:WikicatNovelsByGeorgeOrwell ;
+	rdfs:label	"1984 (novel\u00B7la)"@ca ,
+		"\u4E00\u4E5D\u516B\u56DB"@zh ,
+		"1984 (roman)"@sv ,
+		"1984 (\u0440\u043E\u043C\u0430\u043D)"@ru ,
+		"Rok 1984"@pl ,
+		"Nineteen Eighty-Four"@in ,
+		"1984 (Roman)"@de ,
+		"1984 (\u03BC\u03C5\u03B8\u03B9\u03C3\u03C4\u03CC\u03C1\u03B7\u03BC\u03B1)"@el ,
+		"1984 (roman)"@fr ,
+		"1984 (\u0631\u0648\u0627\u064A\u0629)"@ar ,
+		"1984 (boek)"@nl ,
+		"1984 (livro)"@pt ,
+		"1984 (eleberria)"@eu ,
+		"1984 (\uC18C\uC124)"@ko ,
+		"1984 (\u0440\u043E\u043C\u0430\u043D)"@uk ,
+		"1984\u5E74 (\u5C0F\u8AAC)"@ja ,
+		"1984 (romano)"@eo ,
+		"1984 (romanzo)"@it ,
+		"1984 (novela)"@es ,
+		"Nineteen Eighty-Four"@ga ,
+		"Nineteen Eighty-Four"@en ,
+		"1984 (rom\u00E1n)"@cs ;
+	rdfs:comment	"1984 (Nineteen Eighty-Four) \u00E8 un romanzo distopico di George Orwell, pubblicato nel 1949. Opera pi\u00F9 popolare di Orwell, \u00E8 posizionato da Le Monde al 22\u00BA posto della classifica dei 100 migliori libri scritti nel ventesimo secolo."@it ,
+		"Mil Novecentos e Oitenta e Quatro (em ingl\u00EAs: Nineteen Eighty-Four), muitas vezes publicado como 1984, \u00E9 um romance dist\u00F3pico da autoria do escritor brit\u00E2nico George Orwell e publicado em 1949. O romance \u00E9 ambientado na \"Pista de Pouso N\u00FAmero 1\" (anteriormente conhecida como Gr\u00E3-Bretanha), uma prov\u00EDncia do superestado da Oceania, em um mundo de guerra perp\u00E9tua, vigil\u00E2ncia governamental onipresente e manipula\u00E7\u00E3o p\u00FAblica e hist\u00F3rica. Os habitantes deste superestado s\u00E3o ditados por um regime pol\u00EDtico totalit\u00E1rio eufemisticamente chamado de \"Socialismo Ingl\u00EAs\", encurtado para \"Ingsoc\" na novil\u00EDngua (tamb\u00E9m chamada de \u201Cnovafala\u201D), a linguagem inventada pelo governo. O superestado est\u00E1 sob o controle da elite privilegiada do Partido Interno, um partido e um governo que perseguem o individualism"@pt ,
+		"1984 (Nineteen Eighty-Four en anglais) est le plus c\u00E9l\u00E8bre roman de George Orwell, publi\u00E9 en 1949. Il d\u00E9crit une Grande-Bretagne trente ans apr\u00E8s une guerre nucl\u00E9aire entre l'Est et l'Ouest cens\u00E9e avoir eu lieu dans les ann\u00E9es 1950 et o\u00F9 s'est instaur\u00E9 un r\u00E9gime de type totalitaire fortement inspir\u00E9 \u00E0 la fois de certains \u00E9l\u00E9ments du stalinisme et du nazisme. La libert\u00E9 d'expression n\u2019existe plus. Toutes les pens\u00E9es sont minutieusement surveill\u00E9es et d\u2019immenses affiches sont placard\u00E9es dans les rues, indiquant \u00E0 tous que \u00AB Big Brother vous regarde \u00BB (Big Brother is watching you)."@fr ,
+		"1984 (en su versi\u00F3n original en ingl\u00E9s: Nineteen Eighty-Four) es una novela pol\u00EDtica de ficci\u00F3n dist\u00F3pica, escrita por George Orwell entre 1947 y 1948 y publicada el 8 de junio de 1949. La novela populariz\u00F3 los conceptos del omnipresente y vigilante Gran Hermano o Hermano Mayor, de la notoria habitaci\u00F3n 101, de la ubicua polic\u00EDa del Pensamiento y de la neolengua, adaptaci\u00F3n del idioma ingl\u00E9s en la que se reduce y se transforma el l\u00E9xico con fines represivos, bas\u00E1ndose en el principio de que lo que no forma parte de la lengua, no puede ser pensado."@es ,
+		"1984 is een dystopische toekomstroman van de Britse schrijver George Orwell, grotendeels geschreven in de periode 1946-1948 en gepubliceerd in 1949. Orwell presenteert in dit boek zijn visie op de westerse wereld anno 1984. Het is een waarschuwing tegen totalitaire regimes, zoals nazi-Duitsland dat net verslagen was en Stalins Sovjet-Unie. Orwell beschrijft een staat waarin de overheid elk aspect van het menselijk leven bewaakt en controleert. Het hoofdpersonage, de timide Winston Smith, poogt hiertegen te rebelleren, maar ondervindt dat de macht van de regering verder reikt dan hij zich had kunnen voorstellen. In de strijd tegen de Partij en Big Brother gaat de enkeling kansloos ten onder."@nl ,
+		"1984 (v anglick\u00E9m origin\u00E1le vyps\u00E1no slovy Nineteen Eighty-Four, pracovn\u00EDm n\u00E1zvem Posledn\u00ED \u010Dlov\u011Bk v Evrop\u011B) je antiutopick\u00FD (dystopick\u00FD) rom\u00E1n anglick\u00E9ho spisovatele George Orwella dokon\u010Den\u00FD v roce 1949, publikov\u00E1n 8. \u010Dervna t\u00E9ho\u017E roku v Lond\u00FDn\u011B nakladatelstv\u00EDm Secker and Warburg. Tato kniha, z n\u00ED\u017E poch\u00E1z\u00ED zn\u00E1m\u00FD v\u00FDrok Velk\u00FD bratr t\u011B sleduje!, je jedn\u00EDm z nejz\u00E1sadn\u011Bj\u0161\u00EDch liter\u00E1rn\u00EDch d\u011Bl 20. stolet\u00ED."@cs ,
+		"Nittonhundra\u00E5ttiofyra eller 1984: Nitton \u00E5ttiofyra (originaltitel: Nineteen Eighty-Four) \u00E4r en roman av den brittiske f\u00F6rfattaren och journalisten George Orwell, som skrevs 1948 och publicerades den 8 juni 1949. Sedan romanen publicerades 1949 har m\u00E5nga av dess termer och koncept, som storebrorssamh\u00E4lle, dubbelt\u00E4nk, krimt\u00E4nk och nyspr\u00E5k samt minneslucka blivit samtida vardagsspr\u00E5k. D\u00E4rtill populariserade romanen adjektivet orwellska, som syftar till l\u00F6gner, \u00F6vervakning och manipulering av det f\u00F6rg\u00E5ngna f\u00F6r att f\u00F6ra en totalit\u00E4r agenda."@sv ,
+		"\u00AB1984\u00BB (\u0430\u043D\u0433\u043B. Nineteen Eighty-Four, \u00AB\u0422\u044B\u0441\u044F\u0447\u0430 \u0434\u0435\u0432\u044F\u0442\u044C\u0441\u043E\u0442 \u0432\u043E\u0441\u0435\u043C\u044C\u0434\u0435\u0441\u044F\u0442 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u0439\u00BB) \u2014 \u0440\u043E\u043C\u0430\u043D-\u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0438\u044F \u0414\u0436\u043E\u0440\u0434\u0436\u0430 \u041E\u0440\u0443\u044D\u043B\u043B\u0430, \u0438\u0437\u0434\u0430\u043D\u043D\u044B\u0439 \u0432 1949 \u0433\u043E\u0434\u0443. \u041A\u0430\u043A \u043E\u0442\u043C\u0435\u0447\u0430\u0435\u0442 \u0447\u043B\u0435\u043D\u043A\u043E\u0440 \u0420\u0410\u041D \u041C. \u0424. \u0427\u0435\u0440\u043D\u044B\u0448, \u044D\u0442\u043E \u0441\u0430\u043C\u043E\u0435 \u0433\u043B\u0430\u0432\u043D\u043E\u0435 \u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0435 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u044F. \u0420\u043E\u043C\u0430\u043D \u00AB1984\u00BB \u043D\u0430\u0440\u044F\u0434\u0443 \u0441 \u0442\u0430\u043A\u0438\u043C\u0438 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u044F\u043C\u0438, \u043A\u0430\u043A \u00AB\u041C\u044B\u00BB \u0415\u0432\u0433\u0435\u043D\u0438\u044F \u0417\u0430\u043C\u044F\u0442\u0438\u043D\u0430 (1920), \u00AB\u041E \u0434\u0438\u0432\u043D\u044B\u0439 \u043D\u043E\u0432\u044B\u0439 \u043C\u0438\u0440\u00BB \u041E\u043B\u0434\u043E\u0441\u0430 \u0425\u0430\u043A\u0441\u043B\u0438 (1932) \u0438 \u00AB451 \u0433\u0440\u0430\u0434\u0443\u0441 \u043F\u043E \u0424\u0430\u0440\u0435\u043D\u0433\u0435\u0439\u0442\u0443\u00BB \u0420\u044D\u044F \u0411\u0440\u044D\u0434\u0431\u0435\u0440\u0438 (1953) \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043E\u0431\u0440\u0430\u0437\u0446\u043E\u0432 \u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0438\u0438."@ru ,
+		"\u0623\u0644\u0641 \u0648\u062A\u0633\u0639\u0645\u0627\u0626\u0629 \u0648\u0623\u0631\u0628\u0639\u0629 \u0648\u062B\u0645\u0627\u0646\u064A\u0646\u060C \u0623\u0648 1984\u060C (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Nineteen Eighty-Four)\u200F \u0631\u0648\u0627\u064A\u0629\u064C \u062F\u064A\u0633\u062A\u0648\u0628\u064A\u0629\u064C \u0645\u0646 \u062A\u0623\u0644\u064A\u0641 \u062C\u0648\u0631\u062C \u0623\u0648\u0631\u0648\u064A\u0644 \u0646\u0634\u0631\u062A \u0633\u0646\u0629 1949. \u062A\u0642\u0639 \u0623\u062D\u062F\u0627\u062B \u0627\u0644\u0631\u0648\u0627\u064A\u0629 \u0641\u064A \u00AB\u0625\u064A\u0631\u0633\u062A\u0631\u064A\u0628 1\u00BB (\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0639\u0638\u0645\u0649 \u0633\u0627\u0628\u0642\u064B\u0627) -\u0648\u0647\u064A \u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0646 \u062F\u0648\u0644\u0629\u064D \u0639\u0638\u0645\u0649 \u062A\u062F\u0639\u0649 \u00AB\u0623\u0648\u0634\u064A\u0646\u064A\u0627\u00BB- \u0641\u064A \u0639\u0627\u0644\u0645\u064D \u0644\u0627\u062A\u0647\u062F\u0623 \u0641\u064A\u0647 \u0627\u0644\u062D\u0631\u0628\u060C \u0648\u0627\u0644\u0631\u0642\u0627\u0628\u0629 \u0627\u0644\u062D\u0643\u0648\u0645\u064A\u0629\u060C \u0648\u0627\u0644\u062A\u0644\u0627\u0639\u0628 \u0628\u0627\u0644\u062C\u0645\u0627\u0647\u064A\u0631. \u062A\u0631\u0632\u062D \u062A\u0644\u0643 \u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u062A\u062D\u062A \u0646\u064A\u0631 \u0646\u0638\u0627\u0645\u064D \u0633\u064A\u0627\u0633\u064A\u064D\u0651 \u064A\u062F\u0639\u0648 \u0646\u0641\u0633\u0647 \u00AB\u0632\u0648\u0631\u064B\u0627\u00BB (\u062D\u0633\u0628 \u00AB\u0646\u064A\u0648\u0633\u0628\u064A\u0643\u00BB \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u062C\u062F\u064A\u062F\u0629 \u0627\u0644\u062A\u064A \u0627\u0628\u062A\u0643\u0631\u062A\u0647\u0627 \u0627\u0644\u062D\u0643\u0648\u0645\u0629)\u060C \u0648\u062A\u0645\u0644\u0643 \u0632\u0645\u0627\u0645 \u0647\u0630\u0627 \u0627\u0644\u0646\u0638\u0627\u0645 \u0646\u062E\u0628\u0629 \u0623\u0639\u0636\u0627\u0621 \u0627\u0644\u062D\u0632\u0628 \u0627\u0644\u062F\u0627\u062E\u0644\u064A \u0627\u0644\u0630\u064A\u0646 \u064A\u0644\u0627\u062D\u0642\u0648\u0646 \u0627\u0644\u0641\u0631\u062F\u064A\u0629 \u0648\u0627\u0644\u062A\u0641\u0643\u064A\u0631 \u0627\u0644\u062D\u0631 \u0628\u0648\u0635\u0641\u0647\u0627 .\u064A\u064F\u062C\u0633\u064E\u0651\u062F \u0627\u0644\u0623\u062E \u0627\u0644\u0643\u0628\u064A\u0631 \u0637\u063A\u064A\u0627\u0646 \u0627\u0644\u0646\u0638\u0627\u0645\u060C \u0648\u0647\u0648 \u0642\u0627\u0626\u062F \u064A\u062D\u0643\u0645 \u0643\u0632\u0639\u064A\u0645 \u0644\u0627\u064A\u0623\u062A\u064A\u0647 \u0627\u0644\u062D\u0642 \u0645\u0646 \u0628\u064A\u0646 \u064A\u062F\u064A\u0647 \u0648\u0644\u0627 \u0645\u0646 \u062E\u0644\u0641\u0647\u060C \u0648\u0625\u0646 \u0643\u0627\u0646 \u062B\u0645\u0629 \u0627\u062D\u062A\u0645\u0627\u0644\u064C \u0623\u0646\u0647 \u0644\u0627 \u0648\u062C\u0648\u062F \u0644\u0647. \u064A\u0633\u0639\u0649 \u0627\u0644\u062D\u0632\u0628 \u0644\u0644\u0633\u0644\u0637\u0629 \u0644\u0627 \u0644\u0634\u064A\u0621\u064D \u0633\u0648\u0649 \u0644\u0630\u0627\u062A\u0647\u0627\u060C \u0644\u0627 \u0644\u0645\u0635\u0644\u062D\u0629 \u0627\u0644\u0622\u062E\u0631\u064A\u0646. \u0623\u0645\u0627 \u0628\u0637\u0644 \u0627\u0644\u0631\u0648\u0627\u064A\u0629 \u0648\u064A\u0646\u0633\u062A\u0648\u0646 \u0633\u0645\u064A\u062B \u0641\u0647\u0648 \u0639\u0636\u0648\u064C \u0641\u064A \u0627\u0644\u062D\u0632\u0628 \u0627\u0644\u062E\u0627\u0631\u062C\u064A \u0648\u0645\u0648\u0638\u0641\u064C \u0641\u064A \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0627\u0644\u062F\u0639\u0627\u064A\u0629 \u0648\u0645\u0631\u0627\u062C\u0639\u0629 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u061B \u0648\u0639\u0645\u0644\u0647 \u0647\u0648 \u0625\u0639\u0627\u062F"@ar ,
+		"1984, anka\u016D konata sub la angla titolo angle Nineteen Eighty-Four', estas malutopia romano de George Orwell aperinta en 1948. En \u0109i tiu libro Orwell prezentas sian vizion sur la okcidenta mondo en 1984, en kiu la individuo dronas en tute senespera lukto kontra\u016D totalisma registaro. \u011Ci estas averto kontra\u016D totalismaj re\u011Dimoj, kiel Nazia Germanio kaj Sovetunio de Stalino. La romano enpreni\u011Dis en la liston de la 100 (plej signifaj) libroj de la 20-a jarcento la\u016D Le Monde."@eo ,
+		"1984 fikzio-politikako eleberri distopikoa da, George Orwellek 1948an idatzia. Bertan, alderdi totalitarioko estatuak \u2014nonahi dagoen\u2014 kideak lege eta arauak betetzera behartzen ditu, doktrinamenduaz, propagandaz, beldurraz eta zigorrez. Eleberriak 'Anaia Nagusia' zelataria, '', 'Pentsaeraren Polizia' eta 'neohizkera' (politikarien eta burokraten hizkuntza) bezalako kontzeptuak sortu zituen."@eu ,
+		"\u03A7\u03AF\u03BB\u03B9\u03B1 \u0395\u03BD\u03BD\u03B9\u03B1\u03BA\u03CC\u03C3\u03B9\u03B1 \u039F\u03B3\u03B4\u03CC\u03BD\u03C4\u03B1 \u03A4\u03AD\u03C3\u03C3\u03B5\u03C1\u03B1, \u03C3\u03C5\u03C7\u03BD\u03AC \u03B1\u03C0\u03BB\u03CE\u03C2 1984, (\u03C0\u03C1\u03C9\u03C4\u03CC\u03C4\u03C5\u03C0\u03BF\u03C2 \u03B1\u03B3\u03B3\u03BB. \u03C4\u03AF\u03C4\u03BB\u03BF\u03C2: Nineteen Eighty-Four, \u03B5\u03BA\u03B4\u03B9\u03B4\u03CC\u03BC\u03B5\u03BD\u03BF \u03C3\u03C5\u03C7\u03BD\u03AC \u03C9\u03C2 1984), \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BF \u03C4\u03AF\u03C4\u03BB\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03BF\u03C5 \u03BC\u03C5\u03B8\u03B9\u03C3\u03C4\u03BF\u03C1\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03A4\u03B6\u03BF\u03C1\u03C4\u03B6 \u038C\u03C1\u03B3\u03BF\u03C5\u03B5\u03BB. \u0398\u03B5\u03C9\u03C1\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B2\u03B9\u03B2\u03BB\u03AF\u03BF-\u03C3\u03C4\u03B1\u03B8\u03BC\u03CC\u03C2 \u03C4\u03BF\u03C5 20\u03BF\u03CD \u03B1\u03B9\u03CE\u03BD\u03B1 \u03C3\u03C4\u03B7\u03BD \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE \u03C3\u03BA\u03AD\u03C8\u03B7."@el ,
+		"\u300A1984\u300B(\uC601\uC5B4: Nineteen Eighty-Four)\uB294 1949\uB144 \uCD9C\uD310\uB41C \uC870\uC9C0 \uC624\uC6F0\uC758 \uB514\uC2A4\uD1A0\uD53C\uC544 \uC18C\uC124\uC774\uB2E4. 1984\uB144\uC744 \uC804\uCCB4\uC8FC\uC758\uAC00 \uADF9\uB3C4\uD654\uB41C \uC0AC\uD68C\uB85C \uC0C1\uC815\uD558\uACE0 \uC4F4 \uBBF8\uB798 \uC18C\uC124\uC778 \uC791\uD488 \uC18D\uC5D0\uC11C \uC138\uACC4\uB294 \uAC70\uB300\uD55C \uCD08\uAD6D\uAC00\uB4E4\uB85C \uBD84\uD654\uB418\uC5B4 \uC788\uACE0 \uC774\uB4E4\uC740 \uC601\uAD6C\uC801\uC778 \uC804\uC7C1 \uC0C1\uD0DC\uC774\uB2E4. \uC791\uD488\uC758 \uBC30\uACBD\uC774 \uB418\uB294 \uACF3\uC740 \uC601\uAD6D\uC73C\uB85C \uC18C\uC124 \uC18D\uC5D0\uC120 \"\uC81C1\uACF5\uB300\"(\u7B2C\u4E00\u7A7A\u5E36, Airstrip One)\uB85C \uBD88\uB9AC\uBA70 \uC624\uC138\uC544\uB2C8\uC544\uC5D0 \uD3EC\uD568\uB418\uC5B4 \uC788\uB2E4. \uC624\uC138\uC544\uB2C8\uC544\uB294 \uC804\uCCB4\uC8FC\uC758 \uC815\uCE58 \uC774\uB370\uC62C\uB85C\uAE30\uC778 \uC601\uC0AC(\u82F1\u793E, Ingsoc)\uC758 \uC9C0\uBC30\uB97C \uBC1B\uC73C\uBA70 \uCD5C\uACE0\uC704 \uC9C0\uBC30\uC790\uB294 \uB300\uD615(\u5927\u5144, Big Brother)\uC774\uB2E4. \uC18C\uC124 \uC18D \uAD6D\uAC00\uB294 \uAE30\uB85D\uC744 \uC870\uC791\uD558\uACE0, \uAC1C\uC778\uC758 \uC77C\uAC70\uC218 \uC77C\uD22C\uC871\uC744 \uAC10\uC2DC\uD558\uBA70, \uC5B8\uC5B4\uC640 \uC0AC\uACE0\uB97C \uD1B5\uC81C\uD558\uC5EC \uC601\uAD6C\uC801\uC778 \uC9D1\uAD8C\uC744 \uAE30\uD68D\uD55C\uB2E4. \uC18C\uC124\uC740 \uC774\uB7EC\uD55C \uC138\uACC4\uAD00\uC744 \uBC14\uD0D5\uC73C\uB85C \uAE30\uB85D\uC870\uC791\uC744 \uB2F4\uB2F9\uD558\uB358 \uC8FC\uC778\uACF5\uC774 \uC804\uCCB4\uC8FC\uC758\uC640 \uAC08\uB4F1\uD558\uB294 \uC774\uC57C\uAE30\uB97C \uB2E4\uB8EC\uB2E4. \uC791\uD488\uC758 \uC81C\uBAA9\uC778 1984\uB294 \uC791\uAC00\uAC00 \uC791\uD488\uC744 \uD0C8\uACE0\uD55C 1948\uB144\uC758 \uB4B7\uC790\uB9AC \uB144\uB3C4\uB97C \uB4A4\uC9D1\uC740 \uAC83\uC774\uB2E4."@ko ,
+		"Nineteen Eighty-Four (also stylised as 1984) is a dystopian social science fiction novel and cautionary tale written by the English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society. Orwell, a democratic socialist, modelled the authoritarian state in the novel on Stalinist Russia and Nazi Germany. More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated."@en ,
+		"\u300E1984\u5E74\u300F\uFF081984\u306D\u3093\u3001\u539F\u984C: Nineteen Eighty-Four\uFF09\u307E\u305F\u306F\u300E1984\u300F\u306F\u30011949\u5E74\u306B\u520A\u884C\u3057\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u4F5C\u5BB6\u30B8\u30E7\u30FC\u30B8\u30FB\u30AA\u30FC\u30A6\u30A7\u30EB\u306E\u30C7\u30A3\u30B9\u30C8\u30D4\u30A2SF\u5C0F\u8AAC\u3002\u5168\u4F53\u4E3B\u7FA9\u56FD\u5BB6\u306B\u3088\u3063\u3066\u5206\u5272\u7D71\u6CBB\u3055\u308C\u305F\u8FD1\u672A\u6765\u4E16\u754C\u306E\u6050\u6016\u3092\u63CF\u3044\u3066\u3044\u308B\u3002\u6B27\u7C73\u3067\u306E\u8A55\u4FA1\u304C\u9AD8\u304F\u3001\u601D\u60F3\u30FB\u6587\u5B66\u30FB\u97F3\u697D\u306A\u3069\u69D8\u3005\u306A\u5206\u91CE\u306B\u4ECA\u306A\u304A\u591A\u5927\u306A\u5F71\u97FF\u3092\u4E0E\u3048\u3066\u3044\u308B\u8FD1\u4EE3\u6587\u5B66\u5091\u4F5C\u54C1\u306E\u4E00\u3064\u3067\u3042\u308B\u3002 \u51FA\u7248\u5F53\u521D\u304B\u3089\u51B7\u6226\u4E0B\u306E\u82F1\u7C73\u3067\u7206\u767A\u7684\u306B\u58F2\u308C\u3001\u540C\u3058\u304F\u30AA\u30FC\u30A6\u30A7\u30EB\u304C\u8457\u3057\u305F\u300E\u52D5\u7269\u8FB2\u5834\u300F\u3084\u30B1\u30B9\u30C8\u30E9\u30FC\u306E\u300E\u771F\u663C\u306E\u6697\u9ED2\u300F\u306A\u3069\u3068\u3068\u3082\u306B\u53CD\u5168\u4F53\u4E3B\u7FA9\u3001\u53CD\u5171\u7523\u4E3B\u7FA9\u3001\u53CD\u96C6\u7523\u4E3B\u7FA9\u306E\u30D0\u30A4\u30D6\u30EB\u3068\u306A\u3063\u305F\u3002\u653F\u5E9C\u306B\u3088\u308B\u76E3\u8996\u3001\u691C\u95B2\u3001\u6A29\u5A01\u4E3B\u7FA9\u3092\u6279\u5224\u3059\u308B\u897F\u5074\u8AF8\u56FD\u306E\u53CD\u4F53\u5236\u6D3E\u306F\u3001\u597D\u3093\u3067\u672C\u4F5C\u3092\u5F15\u7528\u3057\u3066\u3044\u308B\u3002 1998\u5E74\u306B\u30E9\u30F3\u30C0\u30E0\u30FB\u30CF\u30A6\u30B9\u3001\u30E2\u30C0\u30F3\u30FB\u30E9\u30A4\u30D6\u30E9\u30EA\u30FC\u304C\u767A\u8868\u3057\u305F\u300C\u82F1\u8A9E\u3067\u66F8\u304B\u308C\u305F20\u4E16\u7D00\u306E\u5C0F\u8AAC\u30D9\u30B9\u30C8100\u300D\u3084\u30012002\u5E74\u306B\u30CE\u30EB\u30A6\u30A7\u30FC\u30FB\u30D6\u30C3\u30AF\u30FB\u30AF\u30E9\u30D6\u304C\u767A\u8868\u3057\u305F\u300C\u53F2\u4E0A\u6700\u9AD8\u306E\u6587\u5B66100\u300D\u306B\u9078\u51FA\u3055\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"1984 (Mil nou-cents vuitanta-quatre) \u00E9s una novel\u00B7la pol\u00EDtica de futur-ficci\u00F3 escrita per George Orwell i publicada en angl\u00E8s l'any 1949. Es tracta d'una narraci\u00F3 emmarcada en una distopia en la qual un Estat omnipresent, encarnat en una dictadura totalit\u00E0ria encap\u00E7alada pel seu l\u00EDder, el Gran Germ\u00E0, refor\u00E7a un conformisme absolut entre els ciutadans, i cerca la supressi\u00F3 de la seva identitat mitjan\u00E7ant un control total de l'individu. Aix\u00ED doncs, no existeix llibertat de cap tipus per als ciutadans, ni tan sols llibertat de pensament privat, ja que la vigil\u00E0ncia dels individus en tots els moments de la seva exist\u00E8ncia, fins i tot en la seva intimitat, revela a l'Estat qualsevol detall."@ca ,
+		"\u300A\u4E00\u4E5D\u516B\u56DB\u300B\uFF08\u82F1\u8A9E\uFF1ANineteen Eighty-Four\uFF09\uFF0C\u662F\u82F1\u570B\u4F5C\u5BB6\u55AC\u6CBB\u00B7\u6B50\u5A01\u723E\u6240\u5275\u4F5C\u7684\u4E00\u90E8\u53CD\u4E4C\u6258\u90A6\u5C0F\u8AAA\uFF0C\u51FA\u7248\u65BC1949\u5E74\u3002\u5B83\u91CD\u9EDE\u63A2\u8A0E\u653F\u5E9C\u6B0A\u529B\u904E\u5206\u4F38\u5F35\u3001\u6975\u6B0A\u4E3B\u7FA9\u3001\u5C0D\u793E\u6703\u6240\u6709\u4EBA\u548C\u884C\u70BA\u5BE6\u65BD\u58D3\u6291\u6027\u7D71\u6CBB\u7684\u98A8\u96AA\u3002\u6545\u4E8B\u767C\u751F\u7684\u6642\u9593\u8A2D\u65BC1984\u5E74\u2014\u2014\u70BA\u7576\u6642\u4F5C\u8005\u5C0D\u672A\u4F86\u7684\u865B\u69CB\u60F3\u50CF\u3002\u5728\u5176\u69CB\u60F3\u4E2D\uFF0C\u4E16\u754C\u5927\u90E8\u5206\u5730\u5340\u90FD\u9677\u5165\u4E86\u4E00\u5834\u6C38\u4E45\u7684\u6230\u722D\u3001\u653F\u5E9C\u76E3\u63A7\u7121\u8655\u4E0D\u5728\u3001\u8CC7\u6599\u8A18\u9304\u4E2D\u6EFF\u662F\u6B77\u53F2\u5426\u5B9A\u4E3B\u7FA9\u53CA\u653F\u6CBB\u5BA3\u50B3\u3002\u5176\u70BA\u53CD\u70CF\u6258\u90A6\u5C0F\u8AAA\u985E\u4E09\u90E8\u4EE3\u8868\u4F5C\u4E4B\u4E00\uFF08\u53E6\u5916\u4E24\u90E8\u662F\u300A\u6211\u5011\u300B\u548C\u300A\u7F8E\u9E97\u65B0\u4E16\u754C\u300B\uFF09\u3002 \u5728\u5C0F\u8AAA\u4E2D\uFF0C\u82F1\u570B\uFF08\u7B2C\u4E00\u7A7A\u964D\u573A\uFF09\u6210\u4E86\u8D85\u7D1A\u5927\u570B\u5927\u6D0B\u56FD\u7684\u4E00\u4E2A\u7701\uFF0C\u6574\u500B\u570B\u5BB6\u7531\u9EE8\u6240\u652F\u914D\uFF0C\u5B83\u50F1\u7528\u4E86\u601D\u60F3\u8B66\u5BDF\u53BB\u8FEB\u5BB3\u500B\u4EBA\u4E3B\u7FA9\u8005\u4EE5\u53CA\u7368\u7ACB\u601D\u8003\u8005\u3002\u8001\u5927\u54E5\u662F\u9EE8\u7684\u9818\u5C0E\u4EBA\uFF0C\u559C\u6B61\u5F37\u70C8\u7684\u500B\u4EBA\u5D07\u62DC\uFF0C\u4F46\u4ED6\u53EF\u80FD\u6839\u672C\u4E0D\u5B58\u5728\u3002\u5C0F\u8AAA\u7684\u4E3B\u89D2\u6E29\u65AF\u987F\u00B7\u53F2\u5BC6\u65AF\uFF0C\u662F\u4E00\u540D\u5916\u56F4\u515A\u5458\uFF0C\u4ED6\u5728\u771F\u7406\u90E8\uFF08\u65B0\u8A9E\u7A31\u4E3A\u771F\u90E8\uFF09\u5DE5\u4F5C\uFF0C\u771F\u7406\u90E8\u8CA0\u8CAC\u5BA3\u50B3\u548C\u4FEE\u6539\u6B77\u53F2\uFF0C\u4ED6\u7684\u5DE5\u4F5C\u662F\u91CD\u65B0\u7DE8\u5BEB\u8FC7\u53BB\u7684\u62A5\u7D19\uFF0C\u597D\u8B93\u6B77\u53F2\u8A18\u9304\u4E00\u5982\u65E2\u5F80\u5730\u652F\u6301\u653F\u9EE8\u7684\u767C\u5C55\u8DEF\u7DDA\u3002\u771F\u7406\u90E8\u7684\u5DE5\u4F5C\u8005\u6703\u8996\u6B64\u884C\u70BA\u70BA\u300C\u7CFE\u6B63\u932F\u8AA4\u300D\uFF0C\u5118\u7BA1\u4ED6\u5011\u5BE6\u969B\u4E0A\u662F\u4EE5\u865B\u5047\u7684\u8CC7\u8A0A\u53D6\u4EE3\u771F\u76F8\u3002\u8A72\u90E8\u7684\u5927\u90E8\u5206\u5DE5\u4F5C\u8005\u4E5F\u7A4D\u6975\u5730\u92B7\u6BC0\u6C92\u7D93\u4FEE\u8A02\u7684\u6240\u6709\u6587\u4EF6\uFF1B\u9019\u6A23\u4E00\u4F86\uFF0C\u5C31\u6C92\u6709\u8B49\u64DA\u8B49\u660E\u653F\u5E9C\u5E72\u64FE\u6B77\u53F2\u8A18\u9304\u3002\u6E29\u65AF\u987F\u662F\u4E00\u500B\u52E4\u52DE\u4E14\u7CBE\u5DE7\u7684\u5DE5\u4EBA\uFF0C\u4F46\u6697\u5730\u88E1\u618E\u6068\u9EE8\u4E26\u4E14\u5922\u60F3\u7740\u53CD\u53DB\u8001\u5927\u54E5\u3002\u6E29\u65AF\u987F\u901A\u904E\u8207\u5C0F\u8AAA\u90E8\u7684\u5DE5\u4F5C\u8005\u8331\u8389\u4E9E\u4FDD\u6301\u6027\u95DC\u4FC2\u4F86\u9010\u6E10\u5F00\u59CB\u4ED6\u7684\u53CD\u53DB\u884C\u70BA\u3002"@zh ,
+		"\u00AB1984\u00BB (\u0432\u0456\u0434\u043E\u043C\u0438\u0439 \u0442\u0430\u043A\u043E\u0436 \u043F\u0456\u0434 \u043D\u0430\u0437\u0432\u043E\u044E \u00AB\u041E\u0434\u043D\u0430 \u0442\u0438\u0441\u044F\u0447\u0430 \u0434\u0435\u0432'\u044F\u0442\u0441\u043E\u0442 \u0432\u0456\u0441\u0456\u043C\u0434\u0435\u0441\u044F\u0442 \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438\u0439\u00BB) \u2014 \u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0456\u044F \u0430\u043D\u0433\u043B\u0456\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u0438\u0441\u044C\u043C\u0435\u043D\u043D\u0438\u043A\u0430 \u0414\u0436\u043E\u0440\u0434\u0436\u0430 \u041E\u0440\u0432\u0435\u043B\u043B\u0430, \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u0430 1948 \u0440\u043E\u043A\u0443 (\u0443 \u043D\u0430\u0437\u0432\u0456 \u0440\u043E\u043C\u0430\u043D\u0443 \u0446\u0438\u0444\u0440\u0438 4 \u0456 8 \u043F\u0435\u0440\u0435\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0456 \u043C\u0456\u0441\u0446\u044F\u043C\u0438) \u0439 \u043E\u043F\u0443\u0431\u043B\u0456\u043A\u043E\u0432\u0430\u043D\u0430 1949-\u0433\u043E. \u0420\u043E\u043C\u0430\u043D \u0440\u043E\u0437\u043F\u043E\u0432\u0456\u0434\u0430\u0454 \u0456\u0441\u0442\u043E\u0440\u0456\u044E \u0412\u0456\u043D\u0441\u0442\u043E\u043D\u0430 \u0421\u043C\u0456\u0442\u0430 \u0456 \u0439\u043E\u0433\u043E \u0434\u0435\u0433\u0440\u0430\u0434\u0430\u0446\u0456\u0457 \u043F\u0456\u0434 \u0432\u043F\u043B\u0438\u0432\u043E\u043C \u0442\u043E\u0442\u0430\u043B\u0456\u0442\u0430\u0440\u043D\u043E\u0457 \u0434\u0435\u0440\u0436\u0430\u0432\u0438, \u0443 \u044F\u043A\u0456\u0439 \u0432\u0456\u043D \u0436\u0438\u0432\u0435. \u0404 \u043D\u0430\u0439\u0432\u0456\u0434\u043E\u043C\u0456\u0448\u043E\u044E \u0456 \u043D\u0430\u0439\u0446\u0438\u0442\u043E\u0432\u0430\u043D\u0456\u0448\u043E\u044E \u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0456\u0454\u044E \u0443 \u043B\u0456\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0456 \u0456 \u0441\u0442\u043E\u0457\u0442\u044C \u0432 \u043E\u0434\u043D\u043E\u043C\u0443 \u0440\u044F\u0434\u0443 \u0437 \u00AB\u041F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u0438\u043C \u043D\u043E\u0432\u0438\u043C \u0441\u0432\u0456\u0442\u043E\u043C\u00BB (\u0430\u043D\u0433\u043B. Brave new world) \u041E\u043B\u0434\u043E\u0441\u0430 \u0413\u0430\u043A\u0441\u043B\u0456 \u0456 \u00AB451\u00B0 \u0437\u0430 \u0424\u0430\u0440\u0435\u043D\u0433\u0435\u0439\u0442\u043E\u043C\u00BB \u0420\u0435\u044F \u0411\u0440\u0435\u0434\u0431\u0435\u0440\u0456."@uk ,
+		"Rok 1984 (tytu\u0142 oryginalny: Nineteen Eighty-Four) \u2013 futurystyczna dystopia o licznych podtekstach politycznych, napisana przez George\u2019a Orwella i opublikowana w roku 1949. Autor napisa\u0142 j\u0105 pod wp\u0142ywem kontaktu z praktyczn\u0105 stron\u0105 systemu stalinowskiego, do jakiego po raz pierwszy dosz\u0142o w Hiszpanii w 1936 roku (w czasie wojny domowej), gdzie pojecha\u0142 jako dziennikarz i sympatyk strony republika\u0144skiej. Wspomnienia niedalekiej przesz\u0142o\u015Bci pozwoli\u0142y wykreowa\u0107 mu antyutopijny porz\u0105dek \u015Bwiata w fikcyjnej przysz\u0142o\u015Bci. Ksi\u0105\u017Cka by\u0142a ostatnim dzie\u0142em George\u2019a Orwella. Prac\u0119 nad ni\u0105 rozpocz\u0105\u0142 w 1948 roku, kiedy jego zdrowie uleg\u0142o znacznemu pogorszeniu (cierpia\u0142 na zaawansowan\u0105 form\u0119 gru\u017Alicy)."@pl ,
+		"1984 (Originaltitel: Nineteen Eighty-Four, deutscher Alternativtitel: Neunzehnhundertvierundachtzig), geschrieben von 1946 bis 1948 und erschienen im Juni 1949, ist ein dystopischer Roman von George Orwell (eigentlich Eric Arthur Blair), in dem ein totalit\u00E4rer \u00DCberwachungsstaat im Jahr 1984 dargestellt wird. Hauptperson der Handlung ist Winston Smith, ein einfaches Mitglied der diktatorisch herrschenden, fiktiven Staatspartei Sozialistische Partei Englands (orig. Ingsoc). Der allgegenw\u00E4rtigen \u00DCberwachung zum Trotz will Smith seine Privatsph\u00E4re sichern und etwas \u00FCber die real geschehene Vergangenheit erfahren, die von der Partei durch umfangreiche Geschichtsf\u00E4lschung verheimlicht wird. Dadurch ger\u00E4t er mit dem System in Konflikt, das ihn gefangen nimmt, foltert und einer Gehirnw\u00E4sche unterz"@de ,
+		"Nineteen Eighty-Four atau 1984, adalah novel fiksi ilmu sosial bertema distopia karya novelis asal Inggris, George Orwell. Buku ini pertama kali terbit pada 8 Juni 1949 dan merupakan buku kesembilan sekaligus buku terakhir yang ia selesaikan sepanjang hayatnya. Nineteen Eighty-Four berpusat pada tema-tema seputar totalitarianisme, , dan pengendalian pola pikir dan perilaku dari orang-orang di dalam masyarakat. Orwell, yang dirinya sendiri adalah seorang sosialis demokrat, memeragakan pemerintahan yang totaliter di dalam novel yang terinspirasi dari Rusia pada era Stalin dan Jerman Nazi. Dalam cakupan yang lebih luas, novel ini menguji peran dari suatu kebenaran dan fakta di dalam politik serta cara-caranya mereka dimanipulasi."@in ,
+		"\u00DArsc\u00E9al B\u00E9arla leis an scr\u00EDbhneoir Sasanach George Orwell is ea Nineteen Eighty-Four a foils\u00EDodh an ch\u00E9ad uair sa bhliain 1949. Baineann an sc\u00E9al le fear darb ainm agus ar an uir\u00EDsli\u00FA a fhaigheann s\u00E9 \u00F3n st\u00E1t ollsmachtach ina gc\u00F3na\u00EDonn s\u00E9. Mar aon le le Aldous Huxley agus le , t\u00E1 s\u00E9 ar ceann de na saothair dhiost\u00F3ipeacha is iomr\u00E1it\u00ED ar domhan."@ga ;
+	rdfs:seeAlso	dbr:The_Theory ,
+		dbr:Practice_of_Oligarchical_Collectivism ,
+		dbr:Perpetual_war ;
+	foaf:name	"Nineteen Eighty-Four"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/JStalin_Secretary_general_CCCP_1942.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Leon_Trotsky,_1930s.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/1984first.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/John_Hay_Library_(Brown).jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/1984_fictitious_world_map_v2_quad.svg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/BigBrother.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Nineteen_Eighty-Four_manuscript.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Yakov_Guminer_-_Arithmetic_of_a_counter-plan_poster_(1931).jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Feliz_1984.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbr:Nineteen_Eighty-Four	dc:publisher	"Secker & Warburg" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Nineteen_Eighty-Four	dcterms:subject	dbc:British_novels_adapted_into_films ,
+		dbc:Novels_set_in_London ,
+		dbc:Novels_by_George_Orwell ,
+		dbc:Fiction_about_mind_control ,
+		dbc:Propaganda_in_fiction ,
+		dbc:English_novels ,
+		dbc:Historical_negationism ,
+		dbc:Dystopian_novels ,
+		dbc:Novels_adapted_into_operas ,
+		dbc:Mass_surveillance ,
+		dbc:Novels_about_nuclear_war_and_weapons ,
+		dbc:Novels_about_totalitarianism ,
+		<http://dbpedia.org/resource/Category:1949_science_fiction_novels> ,
+		dbc:British_political_novels ,
+		dbc:Novels_about_propaganda ,
+		dbc:Novels_about_revolutionaries ,
+		<http://dbpedia.org/resource/Category:1949_British_novels> ,
+		dbc:Novels_set_in_fictional_countries ,
+		dbc:Historical_revisionism_in_fiction ,
+		dbc:Nineteen_Eighty-Four ,
+		dbc:Novels_about_freedom_of_speech ,
+		dbc:Novels_about_mass_surveillance ,
+		dbc:Fiction_set_in_1984 ,
+		dbc:Social_science_fiction ,
+		dbc:British_science_fiction_novels ,
+		dbc:Novels_adapted_into_ballets ,
+		dbc:Works_about_censorship ,
+		dbc:Censored_books ,
+		dbc:Totalitarianism_in_fiction ,
+		<http://dbpedia.org/resource/Category:Secker_&_Warburg_books> ,
+		dbc:British_novels_adapted_into_television_shows ,
+		dbc:Novels_adapted_into_radio_programs ,
+		dbc:British_novels_adapted_into_plays ,
+		dbc:Novels_set_in_the_future ;
+	dbo:abstract	"1984, anka\u016D konata sub la angla titolo angle Nineteen Eighty-Four', estas malutopia romano de George Orwell aperinta en 1948. En \u0109i tiu libro Orwell prezentas sian vizion sur la okcidenta mondo en 1984, en kiu la individuo dronas en tute senespera lukto kontra\u016D totalisma registaro. \u011Ci estas averto kontra\u016D totalismaj re\u011Dimoj, kiel Nazia Germanio kaj Sovetunio de Stalino. La romano enpreni\u011Dis en la liston de la 100 (plej signifaj) libroj de la 20-a jarcento la\u016D Le Monde. La libro kaj la ideoj esprimitaj de Orwell havis konsiderindan kulturan influon. La distopio kreita de Orwell en la libro estas malgaja mondo administrata kaj kontrolata per totala fizika kaj mensa kontrolo - la plena plenumo de la totalisma re\u011Dimo. La unika vidpunkto de Orwell pri la rilato inter la individuo kaj la socio, la ideologio prezentita en sia nudeco kaj la rolo de la partio kaj la \u015Dtato, lumigas per alia lumo anka\u016D re\u011Dimoj kaj socioj tre malsamaj ol tiuj, pri kiuj Orwell verkis. Ekzemple, la termino \"\" fari\u011Dis idiotismo, kiu rilatas al situacio, en kiu individuoj estas submetataj al konstanta superrigardo kaj kontrolado fare de la registaro. Orwell imagis tian situacion, sed hodia\u016D landoj posedas teknologiajn rimedojn, kiuj ebligas efektivigi \u0109i tiun vizion iugrade a\u016D alian. Orwell anka\u016D kreis la esprimon \"\", sekreta polico, kiu celas malebligi al la civitanoj de la lando elpensi ideojn, kiuj kontra\u016Das la celojn de la re\u011Dimo. Estas kutime uzi \u0109i tiun esprimon kelkfoje rilate al registaro, kiu celas limigi la liberecon de esprimo de siaj civitanoj."@eo ,
+		"\u0623\u0644\u0641 \u0648\u062A\u0633\u0639\u0645\u0627\u0626\u0629 \u0648\u0623\u0631\u0628\u0639\u0629 \u0648\u062B\u0645\u0627\u0646\u064A\u0646\u060C \u0623\u0648 1984\u060C (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Nineteen Eighty-Four)\u200F \u0631\u0648\u0627\u064A\u0629\u064C \u062F\u064A\u0633\u062A\u0648\u0628\u064A\u0629\u064C \u0645\u0646 \u062A\u0623\u0644\u064A\u0641 \u062C\u0648\u0631\u062C \u0623\u0648\u0631\u0648\u064A\u0644 \u0646\u0634\u0631\u062A \u0633\u0646\u0629 1949. \u062A\u0642\u0639 \u0623\u062D\u062F\u0627\u062B \u0627\u0644\u0631\u0648\u0627\u064A\u0629 \u0641\u064A \u00AB\u0625\u064A\u0631\u0633\u062A\u0631\u064A\u0628 1\u00BB (\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0639\u0638\u0645\u0649 \u0633\u0627\u0628\u0642\u064B\u0627) -\u0648\u0647\u064A \u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0646 \u062F\u0648\u0644\u0629\u064D \u0639\u0638\u0645\u0649 \u062A\u062F\u0639\u0649 \u00AB\u0623\u0648\u0634\u064A\u0646\u064A\u0627\u00BB- \u0641\u064A \u0639\u0627\u0644\u0645\u064D \u0644\u0627\u062A\u0647\u062F\u0623 \u0641\u064A\u0647 \u0627\u0644\u062D\u0631\u0628\u060C \u0648\u0627\u0644\u0631\u0642\u0627\u0628\u0629 \u0627\u0644\u062D\u0643\u0648\u0645\u064A\u0629\u060C \u0648\u0627\u0644\u062A\u0644\u0627\u0639\u0628 \u0628\u0627\u0644\u062C\u0645\u0627\u0647\u064A\u0631. \u062A\u0631\u0632\u062D \u062A\u0644\u0643 \u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u062A\u062D\u062A \u0646\u064A\u0631 \u0646\u0638\u0627\u0645\u064D \u0633\u064A\u0627\u0633\u064A\u064D\u0651 \u064A\u062F\u0639\u0648 \u0646\u0641\u0633\u0647 \u00AB\u0632\u0648\u0631\u064B\u0627\u00BB (\u062D\u0633\u0628 \u00AB\u0646\u064A\u0648\u0633\u0628\u064A\u0643\u00BB \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u062C\u062F\u064A\u062F\u0629 \u0627\u0644\u062A\u064A \u0627\u0628\u062A\u0643\u0631\u062A\u0647\u0627 \u0627\u0644\u062D\u0643\u0648\u0645\u0629)\u060C \u0648\u062A\u0645\u0644\u0643 \u0632\u0645\u0627\u0645 \u0647\u0630\u0627 \u0627\u0644\u0646\u0638\u0627\u0645 \u0646\u062E\u0628\u0629 \u0623\u0639\u0636\u0627\u0621 \u0627\u0644\u062D\u0632\u0628 \u0627\u0644\u062F\u0627\u062E\u0644\u064A \u0627\u0644\u0630\u064A\u0646 \u064A\u0644\u0627\u062D\u0642\u0648\u0646 \u0627\u0644\u0641\u0631\u062F\u064A\u0629 \u0648\u0627\u0644\u062A\u0641\u0643\u064A\u0631 \u0627\u0644\u062D\u0631 \u0628\u0648\u0635\u0641\u0647\u0627 .\u064A\u064F\u062C\u0633\u064E\u0651\u062F \u0627\u0644\u0623\u062E \u0627\u0644\u0643\u0628\u064A\u0631 \u0637\u063A\u064A\u0627\u0646 \u0627\u0644\u0646\u0638\u0627\u0645\u060C \u0648\u0647\u0648 \u0642\u0627\u0626\u062F \u064A\u062D\u0643\u0645 \u0643\u0632\u0639\u064A\u0645 \u0644\u0627\u064A\u0623\u062A\u064A\u0647 \u0627\u0644\u062D\u0642 \u0645\u0646 \u0628\u064A\u0646 \u064A\u062F\u064A\u0647 \u0648\u0644\u0627 \u0645\u0646 \u062E\u0644\u0641\u0647\u060C \u0648\u0625\u0646 \u0643\u0627\u0646 \u062B\u0645\u0629 \u0627\u062D\u062A\u0645\u0627\u0644\u064C \u0623\u0646\u0647 \u0644\u0627 \u0648\u062C\u0648\u062F \u0644\u0647. \u064A\u0633\u0639\u0649 \u0627\u0644\u062D\u0632\u0628 \u0644\u0644\u0633\u0644\u0637\u0629 \u0644\u0627 \u0644\u0634\u064A\u0621\u064D \u0633\u0648\u0649 \u0644\u0630\u0627\u062A\u0647\u0627\u060C \u0644\u0627 \u0644\u0645\u0635\u0644\u062D\u0629 \u0627\u0644\u0622\u062E\u0631\u064A\u0646. \u0623\u0645\u0627 \u0628\u0637\u0644 \u0627\u0644\u0631\u0648\u0627\u064A\u0629 \u0648\u064A\u0646\u0633\u062A\u0648\u0646 \u0633\u0645\u064A\u062B \u0641\u0647\u0648 \u0639\u0636\u0648\u064C \u0641\u064A \u0627\u0644\u062D\u0632\u0628 \u0627\u0644\u062E\u0627\u0631\u062C\u064A \u0648\u0645\u0648\u0638\u0641\u064C \u0641\u064A \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0627\u0644\u062F\u0639\u0627\u064A\u0629 \u0648\u0645\u0631\u0627\u062C\u0639\u0629 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u061B \u0648\u0639\u0645\u0644\u0647 \u0647\u0648 \u0625\u0639\u0627\u062F\u0629 \u0643\u062A\u0627\u0628\u0629 \u0627\u0644\u0645\u0642\u0627\u0644\u0627\u062A \u0627\u0644\u0642\u062F\u064A\u0645\u0629 \u0648\u062A\u063A\u064A\u064A\u0631 \u0627\u0644\u062D\u0642\u0627\u0626\u0642 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u064A\u0629 \u0628\u062D\u064A\u062B \u062A\u062A\u0641\u0642 \u0645\u0639 \u0645\u0627 \u064A\u0639\u0644\u0646\u0647 \u0627\u0644\u062D\u0632\u0628 \u0639\u0644\u0649 \u0627\u0644\u062F\u0648\u0627\u0645. \u064A\u062A\u0644\u0642\u0649 \u0627\u0644\u0645\u0648\u0638\u0641\u0648\u0646 \u0641\u064A \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062D\u0642\u064A\u0642\u0629 \u062A\u0639\u0644\u064A\u0645\u0627\u062A\u064D \u062A\u062D\u062F\u062F \u0627\u0644\u062A\u0635\u062D\u064A\u062D\u0627\u062A \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0629\u060C \u0648\u062A\u0635\u0641\u0647\u0627 \u0628\u0627\u0644\u062A\u0639\u062F\u064A\u0644\u0627\u062A \u0639\u0648\u0636\u064B\u0627 \u0639\u0646 \u0627\u0644\u062A\u0632\u064A\u064A\u0641\u0627\u062A \u0648\u0627\u0644\u0623\u0643\u0627\u0630\u064A\u0628. \u0643\u0645\u0627 \u064A\u0639\u0643\u0641 \u062C\u0632\u0621 \u0643\u0628\u064A\u0631 \u0645\u0646 \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u0639\u0644\u0649 \u062A\u062F\u0645\u064A\u0631 \u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A \u0627\u0644\u0623\u0635\u0644\u064A\u0629 \u0627\u0644\u062A\u064A \u0644\u0627\u062A\u062A\u0636\u0645\u0646 \u062A\u0644\u0643 \u0627\u0644\u062A\u0639\u062F\u064A\u0644\u0627\u062A. \u0648\u0628\u0630\u0644\u0643 \u064A\u0630\u0647\u0628 \u0627\u0644\u062F\u0644\u064A\u0644 \u0639\u0644\u0649 \u0643\u0630\u0628 \u0627\u0644\u062D\u0643\u0648\u0645\u0629 \u0623\u062F\u0631\u0627\u062C \u0627\u0644\u0631\u064A\u0627\u062D. \u064A\u062C\u062A\u0647\u062F \u0648\u064A\u0646\u0633\u062A\u0648\u0646 \u0641\u064A \u0639\u0645\u0644\u0647 \u0648\u064A\u0624\u062F\u064A\u0647 \u0639\u0644\u0649 \u0623\u0643\u0645\u0644 \u0648\u062C\u0647\u060C \u0645\u0639 \u0623\u0646\u0647 \u064A\u0628\u063A\u0636 \u0627\u0644\u062D\u0632\u0628 \u0633\u0631\u064B\u0627 \u0648\u064A\u062D\u0644\u0645 \u0628\u0625\u0636\u0631\u0627\u0645 \u062B\u0648\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0623\u062E \u0627\u0644\u0643\u0628\u064A\u0631.\u062A\u0639\u062F \"1984\" \u0643\u0639\u0645\u0644\u064D \u062E\u064A\u0627\u0644\u064A\u064D\u0651 \u0633\u064A\u0627\u0633\u064A\u064D\u0651 \u0648\u062E\u064A\u0627\u0644\u064D \u0639\u0644\u0645\u064A\u064D\u0651 \u062F\u064A\u0633\u062A\u0648\u0628\u064A\u064D\u0651 (\u0645\u0646\u0630\u0631 \u0628\u0646\u0647\u0627\u064A\u0629 \u0627\u0644\u0639\u0627\u0644\u0645) \u0631\u0648\u0627\u064A\u0629\u064B \u0643\u0644\u0627\u0633\u064A\u0643\u064A\u0629\u064B \u0645\u0646 \u062D\u064A\u062B \u0627\u0644\u062D\u0628\u0643\u0629 \u0648\u0627\u0644\u0623\u0633\u0644\u0648\u0628\u060C \u0648\u0642\u062F \u062F\u062E\u0644\u062A \u0645\u0635\u0637\u0644\u062D\u0627\u062A\u0647\u0627 \u0625\u0644\u0649 \u0627\u0644\u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u0634\u0627\u0626\u0639 \u0645\u0646\u0630 \u0646\u0634\u0631\u0647\u0627\u060C \u0648\u0645\u0646\u0647\u0627: \u00AB\u0627\u0644\u0623\u062E \u0627\u0644\u0643\u0628\u064A\u0631\u00BB\u060C \u0648\u00AB\u0627\u0644\u062A\u0641\u0643\u064A\u0631 \u0627\u0644\u0645\u0632\u062F\u0648\u062C\u00BB\u060C \u0648\u00AB\u00BB\u060C \u0648\u00AB\u0627\u0644\u063A\u0631\u0641\u0629 101\u00BB\u060C \u0648\u00AB\u0634\u0627\u0634\u0629 \u0627\u0644\u0639\u0631\u0636\u00BB\u060C \u0648\"2 + 2 = 5\"\u060C \u0648\u00AB\u0628\u0626\u0631 \u0627\u0644\u0630\u0643\u0631\u064A\u0627\u062A\u00BB\u060C \u0628\u0644 \u0648\u0627\u0646\u062A\u0634\u0631\u062A \u0635\u0641\u0629 \u00AB\u0623\u0648\u0631\u0648\u064A\u0644\u064A\u0651\u00BB (\u0646\u0633\u0628\u0629\u064B \u0625\u0644\u0649 \u0627\u0644\u0645\u0624\u0644\u0641 \u0623\u0648\u0631\u0648\u064A\u0644) \u0644\u062A\u0639\u0646\u064A \u0627\u0644\u062E\u062F\u0627\u0639 \u0627\u0644\u062D\u0643\u0648\u0645\u064A\u060C \u0648\u0627\u0644\u0645\u0631\u0627\u0642\u0628\u0629 \u0627\u0644\u0633\u0631\u064A\u0629\u060C \u0648\u062A\u0644\u0627\u0639\u0628 \u0627\u0644\u062F\u0648\u0644\u0629 \u0627\u0644\u0634\u0645\u0648\u0644\u064A\u0629 \u0627\u0644\u0633\u0644\u0637\u0648\u064A\u0629 \u0628\u0627\u0644\u062A\u0627\u0631\u064A\u062E \u0627\u0644\u0645\u0648\u062B\u0642. \u0627\u062E\u062A\u0627\u0631\u062A \u0645\u062C\u0644\u0629 \u062A\u0627\u064A\u0645 \u0627\u0644\u0631\u0648\u0627\u064A\u0629 \u0639\u0627\u0645 2005 \u0636\u0645\u0646 \u0623\u0641\u0636\u0644 \u0645\u0626\u0629 \u0631\u0648\u0627\u064A\u0629\u064D \u0643\u062A\u0628\u062A \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u0628\u064A\u0646 \u0633\u0646\u062A\u064A 1923 \u06482005. \u0648\u0648\u0635\u0644\u062A \u0625\u0644\u0649 \u0642\u0627\u0626\u0645\u062A\u064A \u062F\u0627\u0631 \u0646\u0634\u0631 \"Modern Library\" \u0644\u0623\u0641\u0636\u0644 \u0645\u0626\u0629 \u0631\u0648\u0627\u064A\u0629\u064D \u0645\u062A\u0631\u0628\u0639\u0629\u064B \u0641\u064A \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0644\u062B\u064E \u0639\u0634\u0631\u064E \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u062D\u0631\u0631\u060C \u0648\u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0633\u0627\u062F\u0633 \u0641\u064A \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0642\u0631\u0627\u0621. \u0648\u0639\u0627\u0645 2003 \u0648\u0635\u0644\u062A \u0625\u0644\u0649 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0645\u0646 \u0641\u064A \u0627\u0633\u062A\u0641\u062A\u0627\u0621\u064D \u0623\u062C\u0631\u062A\u0647 \u0647\u064A\u0626\u0629 \u0627\u0644\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629.\u00AB\u0623\u0644\u0641 \u0648\u062A\u0633\u0639\u0645\u0626\u0629 \u0648\u0623\u0631\u0628\u0639\u0629 \u0648\u062B\u0645\u0627\u0646\u0648\u0646\u00BB \u0647\u064A \u0647\u062C\u0627\u0621\u064C \u0633\u064A\u0627\u0633\u064A\u064C\u0651 \u0643\u0644\u0627\u0633\u064A\u0643\u064A\u064C\u0651 \u0648\u062E\u064A\u0627\u0644\u064C \u0639\u0644\u0645\u064A\u064C\u0651 \u0628\u0627\u0626\u0633. \u0645\u0646\u0630 \u0646\u0634\u0631\u0647 \u0639\u0627\u0645 1949 \u062C\u0631\u0649 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0645\u0635\u0637\u0644\u062D\u0627\u062A\u0647 \u0648\u0645\u0641\u0627\u0647\u064A\u0645\u0647 \u0628\u0634\u0643\u0644\u064D \u0634\u0627\u0626\u0639\u064D \u0641\u064A \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629\u060C \u0645\u062B\u0644 Big Brother \u060CDouble Mind \u060CCriminal Mind \u060CNewspeak \u060CRoom 101 \u060C2 + 2 = 5\u060C Forgetfulness. \u00AB\u0623\u0644\u0641 \u0648\u062A\u0633\u0639\u0645\u0626\u0629 \u0648\u0623\u0631\u0628\u0639\u0629 \u0648\u062B\u0645\u0627\u0646\u0648\u0646\u00BB \u0623\u0634\u0627\u0639\u062A \u0635\u0641\u0629 \u00AB\u0623\u0648\u0631\u0648\u064A\u0644\u00BB \u0648\u0627\u0644\u062A\u064A \u062A\u0633\u062A\u062E\u062F\u0645 \u0644\u0648\u0635\u0641 \u0627\u0644\u062F\u064A\u0643\u062A\u0627\u062A\u0648\u0631\u064A\u0629 \u0623\u0648 \u0627\u0644\u062F\u064A\u0643\u062A\u0627\u062A\u0648\u0631\u064A\u0629 \u0644\u0644\u062E\u062F\u0627\u0639 \u0627\u0644\u0631\u0633\u0645\u064A \u0648\u0627\u0644\u0645\u0631\u0627\u0642\u0628\u0629 \u0627\u0644\u0633\u0631\u064A\u0629 \u0648\u062A\u0639\u062F\u064A\u0644 \u0627\u0644\u062A\u0627\u0631\u064A\u062E. \u0639\u0627\u0645 2005 \u0635\u0646\u0641\u062A \u0627\u0644\u0631\u0648\u0627\u064A\u0629 \u0643\u0648\u0627\u062D\u062F\u0629\u064D \u0645\u0646 \u0623\u0641\u0636\u0644 \u0645\u0626\u0629 \u0631\u0648\u0627\u064A\u0629\u064D \u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629\u064D \u0645\u0627 \u0628\u064A\u0646 \u0639\u0627\u0645\u064A 1923 \u06482005 \u0645\u0646 \u0642\u0628\u0644 \u0645\u062C\u0644\u0629 \u062A\u0627\u064A\u0645\u060C \u0643\u0645\u0627 \u062C\u0631\u0649 \u0625\u062F\u0631\u0627\u062C\u0647\u0627 \u0636\u0645\u0646 \u0623\u0641\u0636\u0644 \u0645\u0626\u0629 \u0631\u0648\u0627\u064A\u0629\u064D \u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629\u064D \u0641\u064A \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064A\u0646 \u0633\u0646\u0629 1998 (\u0641\u064A \u062A\u0635\u0648\u064A\u062A \u0627\u0644\u0642\u0631\u0627\u0621: \u0627\u0644\u0645\u0631\u062A\u0628\u0629 \u0627\u0644\u0633\u0627\u062F\u0633\u0629\u060C \u0648\u0641\u064A \u062A\u0635\u0648\u064A\u062A \u0627\u0644\u062A\u062D\u0631\u064A\u0631: \u0627\u0644\u0645\u0631\u062A\u0628\u0629 \u0627\u0644\u062B\u0627\u0644\u062B\u0629 \u0639\u0634\u0631). \u0639\u0627\u0645 2003 \u062D\u0627\u0632 \u0641\u064A\u0644\u0645 \"Nineteen Four and Eighty\" \u0639\u0644\u0649 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0645\u0646 \u0641\u064A \u062D\u0645\u0644\u0629 \u0627\u0644\u062A\u0635\u0648\u064A\u062A \u0639\u0644\u0649 \u0627\u0644\u0643\u062A\u0628. \u062C\u0631\u0649 \u062A\u0643\u064A\u064A\u0641\u0647 \u0623\u064A\u0636\u064B\u0627 \u0641\u064A \u0627\u0644\u0623\u0641\u0644\u0627\u0645 \u0648\u062A\u0645 \u0625\u0635\u062F\u0627\u0631\u0647 \u0641\u064A \u0639\u0627\u0645\u064A 1956 \u06481984."@ar ,
+		"\u00DArsc\u00E9al B\u00E9arla leis an scr\u00EDbhneoir Sasanach George Orwell is ea Nineteen Eighty-Four a foils\u00EDodh an ch\u00E9ad uair sa bhliain 1949. Baineann an sc\u00E9al le fear darb ainm agus ar an uir\u00EDsli\u00FA a fhaigheann s\u00E9 \u00F3n st\u00E1t ollsmachtach ina gc\u00F3na\u00EDonn s\u00E9. Mar aon le le Aldous Huxley agus le , t\u00E1 s\u00E9 ar ceann de na saothair dhiost\u00F3ipeacha is iomr\u00E1it\u00ED ar domhan. T\u00E1 an leabhar aistrithe go 62 theanga, agus chuaigh s\u00ED i bhfeidhm go m\u00F3r ar an mB\u00E9arla; t\u00E1 dl\u00FAthbhaint anois ag t\u00E9arma\u00EDocht an leabhair (an \"Nuachaint\", Newspeak as B\u00E9arla) agus ag ainm a h\u00FAdair le c\u00FArsa\u00ED pr\u00EDobh\u00E1ideachta agus sl\u00E1nd\u00E1la i gcoinne an st\u00E1it. Measadh \u00F3 am go ch\u00E9ile gur \u00E1bhar r\u00E9abhl\u00F3ideach agus cont\u00FAirt fholaithe a bh\u00ED ann agus mar sin, cuireadh cosc ar an leabhar ina l\u00E1n leabharlann i dt\u00EDortha \u00E9ags\u00FAla. San Aontas S\u00F3iv\u00E9adach, bh\u00ED an leabhar toirmeasctha go dt\u00ED gur bhain agus gleasnast M\u00EDchail Gorbaitsov an chuid ba mh\u00F3 de na srianta den chead cainte agus de shaoirse na foilsitheoireachta."@ga ,
+		"Nittonhundra\u00E5ttiofyra eller 1984: Nitton \u00E5ttiofyra (originaltitel: Nineteen Eighty-Four) \u00E4r en roman av den brittiske f\u00F6rfattaren och journalisten George Orwell, som skrevs 1948 och publicerades den 8 juni 1949. Romanen handlar om ett samh\u00E4lle styrt av en oligarkisk socialistisk diktatur. Provinsen Airstrip One (f\u00F6re detta Storbritannien) i landet Oceanien \u00E4r i st\u00E4ndigt krig, under konstant \u00F6vervakning av regeringen, och med hj\u00E4rnkontroll av allm\u00E4nheten. Oceanien styrs av ett politiskt parti som g\u00E5r under namnet \"Partiet\". Individen \u00E4r alltid underordnad staten, och det \u00E4r delvis den filosofin som g\u00F6r att Partiet kan manipulera och kontrollera m\u00E4nniskorna. I Sanningsministeriet \u00E4r protagonisten Winston Smith en tj\u00E4nsteman som ansvarar f\u00F6r att bevara Partiets propaganda genom att \u00E4ndra historien f\u00F6r att visa att Partiet alltid har r\u00E4tt och \u00E4r allvetande. Hans torftiga tillvaro desillusionerar honom till den grad att han vill g\u00F6ra uppror mot Storebror, som \u00E4r Partiets ledare. Fr\u00E5n 1984 har vi bland annat f\u00E5tt uttrycket \"Storebror ser dig\" (Big Brother is watching you). Sedan romanen publicerades 1949 har m\u00E5nga av dess termer och koncept, som storebrorssamh\u00E4lle, dubbelt\u00E4nk, krimt\u00E4nk och nyspr\u00E5k samt minneslucka blivit samtida vardagsspr\u00E5k. D\u00E4rtill populariserade romanen adjektivet orwellska, som syftar till l\u00F6gner, \u00F6vervakning och manipulering av det f\u00F6rg\u00E5ngna f\u00F6r att f\u00F6ra en totalit\u00E4r agenda. 1984 anses vara 1900-talets mest k\u00E4nda engelskspr\u00E5kiga roman och en av seklets st\u00F6rsta litter\u00E4ra klassiker. 1998 placerade 1984 p\u00E5 plats 13 av de 100 b\u00E4sta romanerna fr\u00E5n 1900-talet."@sv ,
+		"1984 (v anglick\u00E9m origin\u00E1le vyps\u00E1no slovy Nineteen Eighty-Four, pracovn\u00EDm n\u00E1zvem Posledn\u00ED \u010Dlov\u011Bk v Evrop\u011B) je antiutopick\u00FD (dystopick\u00FD) rom\u00E1n anglick\u00E9ho spisovatele George Orwella dokon\u010Den\u00FD v roce 1949, publikov\u00E1n 8. \u010Dervna t\u00E9ho\u017E roku v Lond\u00FDn\u011B nakladatelstv\u00EDm Secker and Warburg. Tato kniha, z n\u00ED\u017E poch\u00E1z\u00ED zn\u00E1m\u00FD v\u00FDrok Velk\u00FD bratr t\u011B sleduje!, je jedn\u00EDm z nejz\u00E1sadn\u011Bj\u0161\u00EDch liter\u00E1rn\u00EDch d\u011Bl 20. stolet\u00ED. Popisuje sv\u011Bt, v n\u011Bm\u017E vl\u00E1dne absolutn\u00ED totalita, kterou \u017Eiv\u00ED permanentn\u00ED, \u201Eudr\u017Eovac\u00ED\u201C v\u00E1lka mezi t\u0159emi kontinent\u00E1ln\u00EDmi mocnostmi. Spole\u010Dnosti vl\u00E1dne Strana a cokoli proti kolektivn\u00EDmu my\u0161len\u00ED Strany je krut\u011B trest\u00E1no, lidsk\u00E1 individualita se st\u00E1v\u00E1 zlo\u010Dinem."@cs ,
+		"1984 (en su versi\u00F3n original en ingl\u00E9s: Nineteen Eighty-Four) es una novela pol\u00EDtica de ficci\u00F3n dist\u00F3pica, escrita por George Orwell entre 1947 y 1948 y publicada el 8 de junio de 1949. La novela populariz\u00F3 los conceptos del omnipresente y vigilante Gran Hermano o Hermano Mayor, de la notoria habitaci\u00F3n 101, de la ubicua polic\u00EDa del Pensamiento y de la neolengua, adaptaci\u00F3n del idioma ingl\u00E9s en la que se reduce y se transforma el l\u00E9xico con fines represivos, bas\u00E1ndose en el principio de que lo que no forma parte de la lengua, no puede ser pensado. Muchos analistas detectan paralelismos entre la sociedad actual y el mundo de 1984, sugiriendo que estamos comenzando a vivir en lo que se ha conocido como sociedad orwelliana,\u200B una sociedad donde se manipula la informaci\u00F3n y se practica la vigilancia masiva y la represi\u00F3n pol\u00EDtica y social. Sin embargo, no hay que olvidar que estos elementos ya aparecen en la novela rusa Nosotros (1924) de Zamiatin, en la que se inspir\u00F3 Orwell, y que se considera la novela fundadora de la novela dist\u00F3pica contempor\u00E1nea. La novela de 1984 es, sin embargo, mucho m\u00E1s popular y el t\u00E9rmino \u00ABorwelliano\u00BB se ha convertido en sin\u00F3nimo de las sociedades u organizaciones que reproducen actitudes totalitarias y represoras como las representadas en la novela. La novela fue un \u00E9xito en t\u00E9rminos de ventas y se ha convertido en uno de los m\u00E1s influyentes libros del siglo XX."@es ,
+		"Mil Novecentos e Oitenta e Quatro (em ingl\u00EAs: Nineteen Eighty-Four), muitas vezes publicado como 1984, \u00E9 um romance dist\u00F3pico da autoria do escritor brit\u00E2nico George Orwell e publicado em 1949. O romance \u00E9 ambientado na \"Pista de Pouso N\u00FAmero 1\" (anteriormente conhecida como Gr\u00E3-Bretanha), uma prov\u00EDncia do superestado da Oceania, em um mundo de guerra perp\u00E9tua, vigil\u00E2ncia governamental onipresente e manipula\u00E7\u00E3o p\u00FAblica e hist\u00F3rica. Os habitantes deste superestado s\u00E3o ditados por um regime pol\u00EDtico totalit\u00E1rio eufemisticamente chamado de \"Socialismo Ingl\u00EAs\", encurtado para \"Ingsoc\" na novil\u00EDngua (tamb\u00E9m chamada de \u201Cnovafala\u201D), a linguagem inventada pelo governo. O superestado est\u00E1 sob o controle da elite privilegiada do Partido Interno, um partido e um governo que perseguem o individualismo e a liberdade de express\u00E3o como \"crime de pensamento\", que \u00E9 aplicado pela \"Pol\u00EDcia do Pensamento\". A tirania \u00E9 ostensivamente supervisionada pelo Grande Irm\u00E3o, o l\u00EDder do Partido que goza de um intenso culto de personalidade, mas que talvez sequer exista. O Partido \"busca o poder por seu pr\u00F3prio bem. N\u00E3o est\u00E1 interessado no bem dos outros, est\u00E1 interessado unicamente no poder\". O protagonista da novela, Winston Smith, \u00E9 membro do Partido Externo, que Trabalha para o Minist\u00E9rio da Verdade, que \u00E9 respons\u00E1vel pela propaganda e pelo revisionismo hist\u00F3rico. Seu trabalho \u00E9 reescrever artigos de jornais do passado, de modo que o registro hist\u00F3rico sempre apoie a ideologia do partido. Grande parte do Minist\u00E9rio tamb\u00E9m destr\u00F3i ativamente todos os documentos que n\u00E3o foram editados ou revisados; desta forma, n\u00E3o existe nenhuma prova de que o governo esteja mentindo. Smith \u00E9 um trabalhador diligente e habilidoso, mas odeia secretamente o Partido e sonha com a rebeli\u00E3o contra o Grande Irm\u00E3o. A hero\u00EDna da novela, J\u00FAlia, \u00E9 baseada na segunda esposa de Orwell, Sonia Orwell. Como fic\u00E7\u00E3o pol\u00EDtica liter\u00E1ria e fic\u00E7\u00E3o cient\u00EDfica dist\u00F3pica, Nineteen Eighty-Four \u00E9 um romance cl\u00E1ssico em conte\u00FAdo, trama e estilo. Muitos dos seus termos e conceitos, como Grande Irm\u00E3o, duplipensar, crime de pensamento, novil\u00EDngua, buraco da mem\u00F3ria, Quarto 101, teletela e 2 + 2 = 5, entraram em uso comum desde sua publica\u00E7\u00E3o em 1949. A obra popularizou o adjetivo orwelliano, que descreve o engano oficial, a vigil\u00E2ncia secreta e a manipula\u00E7\u00E3o da hist\u00F3ria registrada por um Estado totalit\u00E1rio ou autorit\u00E1rio. Em 2005, o romance foi escolhido pela revista Time como um dos 100 melhores romances da l\u00EDngua inglesa de 1923 a 2005. Foi premiado com um lugar em ambas as listas da Modern Library de 100 melhores romances. Em 2003, o livro foi listado no n\u00FAmero 8 na pesquisa da \"The Big Read\" da BBC."@pt ,
+		"Nineteen Eighty-Four (also stylised as 1984) is a dystopian social science fiction novel and cautionary tale written by the English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society. Orwell, a democratic socialist, modelled the authoritarian state in the novel on Stalinist Russia and Nazi Germany. More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated. The story takes place in an imagined future in the year 1984, when much of the world is in perpetual war. Great Britain, now known as Airstrip One, has become a province of the totalitarian superstate Oceania, which is led by Big Brother, a dictatorial leader supported by an intense cult of personality manufactured by the Party's Thought Police. Through the Ministry of Truth, the Party engages in omnipresent government surveillance, historical negationism, and constant propaganda to persecute individuality and independent thinking. The protagonist, Winston Smith, is a diligent mid-level worker at the Ministry of Truth who secretly hates the Party and dreams of rebellion. He keeps a forbidden diary and begins a relationship with his colleague Julia, and they learn about a shadowy resistance group called the Brotherhood. However, their contact with the Brotherhood turns out to be a Party agent, and Smith is arrested. He is subjected to months of psychological manipulation and torture by the Ministry of Love and is released once he has come to love Big Brother. Nineteen Eighty-Four has become a classic literary example of political and dystopian fiction. It also popularised the term \"Orwellian\" as an adjective, with many terms used in the novel entering common usage, including \"Big Brother\", \"doublethink\", \"Thought Police\", \"thoughtcrime\", \"Newspeak\", and \"2 + 2 = 5\". Parallels have been drawn between the novel's subject matter and real life instances of totalitarianism, mass surveillance, and violations of freedom of expression among other themes. Time included the novel on its list of the 100 best English-language novels from 1923 to 2005, and it was placed on the Modern Library's 100 Best Novels list, reaching number 13 on the editors' list and number 6 on the readers' list. In 2003, it was listed at number eight on The Big Read survey by the BBC."@en ,
+		"\u300E1984\u5E74\u300F\uFF081984\u306D\u3093\u3001\u539F\u984C: Nineteen Eighty-Four\uFF09\u307E\u305F\u306F\u300E1984\u300F\u306F\u30011949\u5E74\u306B\u520A\u884C\u3057\u305F\u30A4\u30AE\u30EA\u30B9\u306E\u4F5C\u5BB6\u30B8\u30E7\u30FC\u30B8\u30FB\u30AA\u30FC\u30A6\u30A7\u30EB\u306E\u30C7\u30A3\u30B9\u30C8\u30D4\u30A2SF\u5C0F\u8AAC\u3002\u5168\u4F53\u4E3B\u7FA9\u56FD\u5BB6\u306B\u3088\u3063\u3066\u5206\u5272\u7D71\u6CBB\u3055\u308C\u305F\u8FD1\u672A\u6765\u4E16\u754C\u306E\u6050\u6016\u3092\u63CF\u3044\u3066\u3044\u308B\u3002\u6B27\u7C73\u3067\u306E\u8A55\u4FA1\u304C\u9AD8\u304F\u3001\u601D\u60F3\u30FB\u6587\u5B66\u30FB\u97F3\u697D\u306A\u3069\u69D8\u3005\u306A\u5206\u91CE\u306B\u4ECA\u306A\u304A\u591A\u5927\u306A\u5F71\u97FF\u3092\u4E0E\u3048\u3066\u3044\u308B\u8FD1\u4EE3\u6587\u5B66\u5091\u4F5C\u54C1\u306E\u4E00\u3064\u3067\u3042\u308B\u3002 \u51FA\u7248\u5F53\u521D\u304B\u3089\u51B7\u6226\u4E0B\u306E\u82F1\u7C73\u3067\u7206\u767A\u7684\u306B\u58F2\u308C\u3001\u540C\u3058\u304F\u30AA\u30FC\u30A6\u30A7\u30EB\u304C\u8457\u3057\u305F\u300E\u52D5\u7269\u8FB2\u5834\u300F\u3084\u30B1\u30B9\u30C8\u30E9\u30FC\u306E\u300E\u771F\u663C\u306E\u6697\u9ED2\u300F\u306A\u3069\u3068\u3068\u3082\u306B\u53CD\u5168\u4F53\u4E3B\u7FA9\u3001\u53CD\u5171\u7523\u4E3B\u7FA9\u3001\u53CD\u96C6\u7523\u4E3B\u7FA9\u306E\u30D0\u30A4\u30D6\u30EB\u3068\u306A\u3063\u305F\u3002\u653F\u5E9C\u306B\u3088\u308B\u76E3\u8996\u3001\u691C\u95B2\u3001\u6A29\u5A01\u4E3B\u7FA9\u3092\u6279\u5224\u3059\u308B\u897F\u5074\u8AF8\u56FD\u306E\u53CD\u4F53\u5236\u6D3E\u306F\u3001\u597D\u3093\u3067\u672C\u4F5C\u3092\u5F15\u7528\u3057\u3066\u3044\u308B\u3002 1998\u5E74\u306B\u30E9\u30F3\u30C0\u30E0\u30FB\u30CF\u30A6\u30B9\u3001\u30E2\u30C0\u30F3\u30FB\u30E9\u30A4\u30D6\u30E9\u30EA\u30FC\u304C\u767A\u8868\u3057\u305F\u300C\u82F1\u8A9E\u3067\u66F8\u304B\u308C\u305F20\u4E16\u7D00\u306E\u5C0F\u8AAC\u30D9\u30B9\u30C8100\u300D\u3084\u30012002\u5E74\u306B\u30CE\u30EB\u30A6\u30A7\u30FC\u30FB\u30D6\u30C3\u30AF\u30FB\u30AF\u30E9\u30D6\u304C\u767A\u8868\u3057\u305F\u300C\u53F2\u4E0A\u6700\u9AD8\u306E\u6587\u5B66100\u300D\u306B\u9078\u51FA\u3055\u308C\u3066\u3044\u308B\u3002"@ja ,
+		"Nineteen Eighty-Four atau 1984, adalah novel fiksi ilmu sosial bertema distopia karya novelis asal Inggris, George Orwell. Buku ini pertama kali terbit pada 8 Juni 1949 dan merupakan buku kesembilan sekaligus buku terakhir yang ia selesaikan sepanjang hayatnya. Nineteen Eighty-Four berpusat pada tema-tema seputar totalitarianisme, , dan pengendalian pola pikir dan perilaku dari orang-orang di dalam masyarakat. Orwell, yang dirinya sendiri adalah seorang sosialis demokrat, memeragakan pemerintahan yang totaliter di dalam novel yang terinspirasi dari Rusia pada era Stalin dan Jerman Nazi. Dalam cakupan yang lebih luas, novel ini menguji peran dari suatu kebenaran dan fakta di dalam politik serta cara-caranya mereka dimanipulasi. Cerita dari novel ini berada di suatu masa depan imajiner, lebih tepatnya pada tahun 1984, ketika hampir seluruh dunia telah jatuh dalam , pengintaian besar-besaran di mana-mana oleh pemerintah, manipulasi sejarah, dan propaganda. Britania Raya, yang telah berganti nama menjadi Airstrip One, telah menjadi salah satu provinsi dari adinegara totaliter bernama yang dikuasai oleh Partai yang mempekerjakan untuk mempersekusi orang-orang berpola pikir individualis dan independen. Big Brother atau Bung Besar, pemimpin diktator Oceania, dipuja-puji dengan pengkultusan yang sangat kuat, yang direkayasa berkat teknik pencucian otak yang luar biasa. Sang protagonis, , adalah seorang pegawai negeri sipil yang rajin dan ahli serta anggota Partai Luar yang secara diam-diam membenci Partai dan memimpikan pemberontakan. Ia menjalin hubungan terlarang dengan kolegannya, , dan mulai kembali mengingat bagaimana peradaban sebelum Partai berkuasa. Nineteen Eighty-Four telah menjadi literatur klasik yang menjadi acuan fiksi bertema politik dan distopia. Novel ini juga mempopulerkan istilah \"Orwellian\" sebagai kata sifat, dengan banyak istilah yang digunakan di dalam novel menjadi lazim digunakan, seperti \"Big Brother (Bung Besar)\", \"\", \"\", \"\", \"Newspeak\", \"\", \"2 + 2 = 5\", dan \"prol\". Majalah Time memasukkan novel ini dalam daftar 100 novel berbahasa Inggris terbaik dari 1923 hingga 2005. Novel ini juga masuk dalam '100 Novel Terbaik' dari , berada di peringkat ke-13 pilihan editor dan peringkat ke-6 pilihan pembaca. Pada 2003, novel ini masuk sebagai nomor delapan dalam survei The Big Read oleh BBC. Banyak orang menarik kemiripan antara isi novel dengan kejadian di terkait dengan misalnya totalitarianisme, , pembungkaman kebebasan berpendapat, serta sejumlah tema lain. Versi bahasa Indonesia dari novel ini pertama kali diterbitkan pada 2003 oleh dan diterjemahkan oleh Landung Simatupang."@in ,
+		"\u00AB1984\u00BB (\u0432\u0456\u0434\u043E\u043C\u0438\u0439 \u0442\u0430\u043A\u043E\u0436 \u043F\u0456\u0434 \u043D\u0430\u0437\u0432\u043E\u044E \u00AB\u041E\u0434\u043D\u0430 \u0442\u0438\u0441\u044F\u0447\u0430 \u0434\u0435\u0432'\u044F\u0442\u0441\u043E\u0442 \u0432\u0456\u0441\u0456\u043C\u0434\u0435\u0441\u044F\u0442 \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438\u0439\u00BB) \u2014 \u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0456\u044F \u0430\u043D\u0433\u043B\u0456\u0439\u0441\u044C\u043A\u043E\u0433\u043E \u043F\u0438\u0441\u044C\u043C\u0435\u043D\u043D\u0438\u043A\u0430 \u0414\u0436\u043E\u0440\u0434\u0436\u0430 \u041E\u0440\u0432\u0435\u043B\u043B\u0430, \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u0430 1948 \u0440\u043E\u043A\u0443 (\u0443 \u043D\u0430\u0437\u0432\u0456 \u0440\u043E\u043C\u0430\u043D\u0443 \u0446\u0438\u0444\u0440\u0438 4 \u0456 8 \u043F\u0435\u0440\u0435\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0456 \u043C\u0456\u0441\u0446\u044F\u043C\u0438) \u0439 \u043E\u043F\u0443\u0431\u043B\u0456\u043A\u043E\u0432\u0430\u043D\u0430 1949-\u0433\u043E. \u0420\u043E\u043C\u0430\u043D \u0440\u043E\u0437\u043F\u043E\u0432\u0456\u0434\u0430\u0454 \u0456\u0441\u0442\u043E\u0440\u0456\u044E \u0412\u0456\u043D\u0441\u0442\u043E\u043D\u0430 \u0421\u043C\u0456\u0442\u0430 \u0456 \u0439\u043E\u0433\u043E \u0434\u0435\u0433\u0440\u0430\u0434\u0430\u0446\u0456\u0457 \u043F\u0456\u0434 \u0432\u043F\u043B\u0438\u0432\u043E\u043C \u0442\u043E\u0442\u0430\u043B\u0456\u0442\u0430\u0440\u043D\u043E\u0457 \u0434\u0435\u0440\u0436\u0430\u0432\u0438, \u0443 \u044F\u043A\u0456\u0439 \u0432\u0456\u043D \u0436\u0438\u0432\u0435. \u0404 \u043D\u0430\u0439\u0432\u0456\u0434\u043E\u043C\u0456\u0448\u043E\u044E \u0456 \u043D\u0430\u0439\u0446\u0438\u0442\u043E\u0432\u0430\u043D\u0456\u0448\u043E\u044E \u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0456\u0454\u044E \u0443 \u043B\u0456\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0456 \u0456 \u0441\u0442\u043E\u0457\u0442\u044C \u0432 \u043E\u0434\u043D\u043E\u043C\u0443 \u0440\u044F\u0434\u0443 \u0437 \u00AB\u041F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u0438\u043C \u043D\u043E\u0432\u0438\u043C \u0441\u0432\u0456\u0442\u043E\u043C\u00BB (\u0430\u043D\u0433\u043B. Brave new world) \u041E\u043B\u0434\u043E\u0441\u0430 \u0413\u0430\u043A\u0441\u043B\u0456 \u0456 \u00AB451\u00B0 \u0437\u0430 \u0424\u0430\u0440\u0435\u043D\u0433\u0435\u0439\u0442\u043E\u043C\u00BB \u0420\u0435\u044F \u0411\u0440\u0435\u0434\u0431\u0435\u0440\u0456. \u041F\u0435\u0440\u0435\u043A\u043B\u0430\u0434\u0435\u043D\u0438\u0439 62 \u043C\u043E\u0432\u0430\u043C\u0438, \u0442\u0432\u0456\u0440, \u043F\u0440\u043E\u0442\u0435 \u0437\u0434\u0456\u0439\u0441\u043D\u0438\u0432 \u0437\u043D\u0430\u0447\u043D\u0438\u0439 \u0432\u043F\u043B\u0438\u0432 \u0456 \u043D\u0430 \u0441\u0430\u043C\u0443 \u0430\u043D\u0433\u043B\u0456\u0439\u0441\u044C\u043A\u0443 \u043C\u043E\u0432\u0443. \u00AB1984\u00BB, \u0439\u043E\u0433\u043E \u0442\u0435\u0440\u043C\u0456\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0439 \u0430\u0432\u0442\u043E\u0440 \u0441\u0442\u0430\u043B\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u0447\u043D\u0438\u043C\u0438 \u0442\u0435\u0440\u043C\u0456\u043D\u0430\u043C\u0438 \u043F\u0440\u0438 \u043E\u0431\u0433\u043E\u0432\u043E\u0440\u0435\u043D\u043D\u0456 \u043F\u0438\u0442\u0430\u043D\u043D\u044F \u043F\u0440\u0438\u0432\u0430\u0442\u043D\u043E\u0441\u0442\u0456 \u0456 \u0434\u0435\u0440\u0436\u0430\u0432\u043D\u043E\u0457 \u0431\u0435\u0437\u043F\u0435\u043A\u0438. \u0422\u0430\u043A, \u0442\u0435\u0440\u043C\u0456\u043D \u00AB\u043E\u0440\u0432\u0435\u043B\u043B\u0456\u0430\u043D\u0441\u0442\u0432\u043E\u00BB \u0441\u0442\u0430\u0432 \u043E\u043F\u0438\u0441\u0443\u0432\u0430\u0442\u0438 \u0434\u0456\u0457 \u0430\u0431\u043E \u043E\u0440\u0433\u0430\u043D\u0456\u0437\u0430\u0446\u0456\u0457, \u0449\u043E \u043D\u0430\u0433\u0430\u0434\u0443\u044E\u0442\u044C \u043F\u0440\u043E \u0442\u043E\u0442\u0430\u043B\u0456\u0442\u0430\u0440\u043D\u0435 \u0441\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E, \u0437\u043C\u0430\u043B\u044C\u043E\u0432\u0430\u043D\u0435 \u0443 \u0440\u043E\u043C\u0430\u043D\u0456, \u0430 \u0444\u0440\u0430\u0437\u0430 \u00AB\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u0411\u0440\u0430\u0442 \u043F\u0438\u043B\u044C\u043D\u0443\u0454 \u0437\u0430 \u0442\u043E\u0431\u043E\u044E!\u00BB (\u0430\u043D\u0433\u043B. Big Brother is watching you!) \u043F\u043E\u0447\u0430\u043B\u0430 \u043F\u043E\u0437\u043D\u0430\u0447\u0430\u0442\u0438 \u0431\u0443\u0434\u044C-\u044F\u043A\u0438\u0439 \u0430\u043A\u0442 \u0441\u043F\u043E\u0441\u0442\u0435\u0440\u0435\u0436\u0435\u043D\u043D\u044F, \u044F\u043A\u0438\u0439 \u0441\u043F\u0440\u0438\u0439\u043C\u0430\u0454\u0442\u044C\u0441\u044F \u044F\u043A \u043D\u0430\u0441\u0438\u043B\u044C\u043D\u0438\u0446\u044C\u043A\u0438\u0439. \u0423 2009 \u0440. \u0432\u043F\u043B\u0438\u0432\u043E\u0432\u0430 \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u044C\u043A\u0430 \u0433\u0430\u0437\u0435\u0442\u0430 \u00AB\u0422\u0430\u0439\u043C\u0441\u00BB \u043E\u0433\u043E\u043B\u043E\u0441\u0438\u043B\u0430 \u0440\u043E\u043C\u0430\u043D \u00AB1984\u00BB \u043D\u0430\u0439\u0432\u0430\u0436\u043B\u0438\u0432\u0456\u0448\u043E\u044E \u043A\u043D\u0438\u0433\u043E\u044E, \u043D\u0430\u0434\u0440\u0443\u043A\u043E\u0432\u0430\u043D\u043E\u044E \u0437\u0430 \u043E\u0441\u0442\u0430\u043D\u043D\u0456 60 \u0440\u043E\u043A\u0456\u0432. \u0411\u0443\u043B\u0438 \u0447\u0430\u0441\u0438, \u043A\u043E\u043B\u0438 \u0440\u043E\u043C\u0430\u043D \u00AB1984\u00BB \u0441\u043F\u0440\u0438\u0439\u043C\u0430\u0432\u0441\u044F \u043D\u0430\u0441\u0442\u0456\u043B\u044C\u043A\u0438 \u0440\u0435\u0432\u043E\u043B\u044E\u0446\u0456\u0439\u043D\u043E \u0456 \u0437\u0434\u0430\u0432\u0430\u0432\u0441\u044F \u043D\u0430\u0441\u0442\u0456\u043B\u044C\u043A\u0438 \u043F\u043E\u043B\u0456\u0442\u0438\u0447\u043D\u043E \u043D\u0435\u0431\u0435\u0437\u043F\u0435\u0447\u043D\u0438\u043C, \u0449\u043E \u0431\u0443\u0432 \u0437\u0430\u0431\u043E\u0440\u043E\u043D\u0435\u043D\u0438\u0439 \u0434\u0435\u044F\u043A\u0438\u043C\u0438 \u0431\u0456\u0431\u043B\u0456\u043E\u0442\u0435\u043A\u0430\u043C\u0438 \u0421\u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u0445 \u0428\u0442\u0430\u0442\u0456\u0432, \u043D\u0435 \u043A\u0430\u0436\u0443\u0447\u0438 \u0432\u0436\u0435 \u043F\u0440\u043E \u0434\u0435\u0440\u0436\u0430\u0432\u0438 \u0456\u0437 \u0442\u043E\u0442\u0430\u043B\u0456\u0442\u0430\u0440\u043D\u0438\u043C\u0438 \u0440\u0435\u0436\u0438\u043C\u0430\u043C\u0438. \u0420\u043E\u043C\u0430\u043D \u0437\u0430\u0439\u043C\u0430\u0454 \u0434\u0440\u0443\u0433\u0438\u0439 \u043D\u043E\u043C\u0435\u0440 \u0443 \u0420\u0435\u0439\u0442\u0438\u043D\u0433\u0443 100 \u043D\u0430\u0439\u043A\u0440\u0430\u0449\u0438\u0445 \u043A\u043D\u0438\u0433 \u0443\u0441\u0456\u0445 \u0447\u0430\u0441\u0456\u0432 \u0436\u0443\u0440\u043D\u0430\u043B\u0443 \u041D\u044C\u044E\u0441\u0432\u0456\u043A."@uk ,
+		"1984 (Nineteen Eighty-Four en anglais) est le plus c\u00E9l\u00E8bre roman de George Orwell, publi\u00E9 en 1949. Il d\u00E9crit une Grande-Bretagne trente ans apr\u00E8s une guerre nucl\u00E9aire entre l'Est et l'Ouest cens\u00E9e avoir eu lieu dans les ann\u00E9es 1950 et o\u00F9 s'est instaur\u00E9 un r\u00E9gime de type totalitaire fortement inspir\u00E9 \u00E0 la fois de certains \u00E9l\u00E9ments du stalinisme et du nazisme. La libert\u00E9 d'expression n\u2019existe plus. Toutes les pens\u00E9es sont minutieusement surveill\u00E9es et d\u2019immenses affiches sont placard\u00E9es dans les rues, indiquant \u00E0 tous que \u00AB Big Brother vous regarde \u00BB (Big Brother is watching you). 1984 est commun\u00E9ment consid\u00E9r\u00E9 comme une r\u00E9f\u00E9rence du roman d'anticipation, de la dystopie, voire de la science-fiction en g\u00E9n\u00E9ral. 1984 a \u00E9galement servi d'inspiration ou de base \u00E0 de tr\u00E8s nombreuses \u0153uvres tel que V pour Vendetta. La principale figure du roman, Big Brother, est devenue une figure m\u00E9taphorique du r\u00E9gime policier et totalitaire, de la soci\u00E9t\u00E9 de la surveillance, ainsi que de la r\u00E9duction des libert\u00E9s. Il figure \u00E0 la treizi\u00E8me place dans la liste des cent meilleurs romans de langue anglaise du XXe si\u00E8cle \u00E9tablie par la Modern Library en 1998. En 2005, le magazine Time l'a \u00E9galement class\u00E9 dans sa liste des cent meilleurs romans et nouvelles de langue anglaise de 1923 \u00E0 nos jours, liste o\u00F9 se trouve La Ferme des animaux, autre fameux roman d'Orwell."@fr ,
+		"\u03A7\u03AF\u03BB\u03B9\u03B1 \u0395\u03BD\u03BD\u03B9\u03B1\u03BA\u03CC\u03C3\u03B9\u03B1 \u039F\u03B3\u03B4\u03CC\u03BD\u03C4\u03B1 \u03A4\u03AD\u03C3\u03C3\u03B5\u03C1\u03B1, \u03C3\u03C5\u03C7\u03BD\u03AC \u03B1\u03C0\u03BB\u03CE\u03C2 1984, (\u03C0\u03C1\u03C9\u03C4\u03CC\u03C4\u03C5\u03C0\u03BF\u03C2 \u03B1\u03B3\u03B3\u03BB. \u03C4\u03AF\u03C4\u03BB\u03BF\u03C2: Nineteen Eighty-Four, \u03B5\u03BA\u03B4\u03B9\u03B4\u03CC\u03BC\u03B5\u03BD\u03BF \u03C3\u03C5\u03C7\u03BD\u03AC \u03C9\u03C2 1984), \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BF \u03C4\u03AF\u03C4\u03BB\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03C4\u03B5\u03BB\u03B5\u03C5\u03C4\u03B1\u03AF\u03BF\u03C5 \u03BC\u03C5\u03B8\u03B9\u03C3\u03C4\u03BF\u03C1\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03A4\u03B6\u03BF\u03C1\u03C4\u03B6 \u038C\u03C1\u03B3\u03BF\u03C5\u03B5\u03BB. \u0398\u03B5\u03C9\u03C1\u03B5\u03AF\u03C4\u03B1\u03B9 \u03B2\u03B9\u03B2\u03BB\u03AF\u03BF-\u03C3\u03C4\u03B1\u03B8\u03BC\u03CC\u03C2 \u03C4\u03BF\u03C5 20\u03BF\u03CD \u03B1\u03B9\u03CE\u03BD\u03B1 \u03C3\u03C4\u03B7\u03BD \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE \u03C3\u03BA\u03AD\u03C8\u03B7."@el ,
+		"1984 (Nineteen Eighty-Four) \u00E8 un romanzo distopico di George Orwell, pubblicato nel 1949. Opera pi\u00F9 popolare di Orwell, \u00E8 posizionato da Le Monde al 22\u00BA posto della classifica dei 100 migliori libri scritti nel ventesimo secolo."@it ,
+		"1984 (Mil nou-cents vuitanta-quatre) \u00E9s una novel\u00B7la pol\u00EDtica de futur-ficci\u00F3 escrita per George Orwell i publicada en angl\u00E8s l'any 1949. Es tracta d'una narraci\u00F3 emmarcada en una distopia en la qual un Estat omnipresent, encarnat en una dictadura totalit\u00E0ria encap\u00E7alada pel seu l\u00EDder, el Gran Germ\u00E0, refor\u00E7a un conformisme absolut entre els ciutadans, i cerca la supressi\u00F3 de la seva identitat mitjan\u00E7ant un control total de l'individu. Aix\u00ED doncs, no existeix llibertat de cap tipus per als ciutadans, ni tan sols llibertat de pensament privat, ja que la vigil\u00E0ncia dels individus en tots els moments de la seva exist\u00E8ncia, fins i tot en la seva intimitat, revela a l'Estat qualsevol detall. Aquest llibre introdueix el concepte del Gran Germ\u00E0, un l\u00EDder sempre present i que tot ho pot veure i controlar a trav\u00E9s de monitors (\"telepantalles\") situats a totes les habitacions; l'Habitaci\u00F3 101, la Policia del Pensament i la novaparla (la llengua que fan servir els bur\u00F2crates i pol\u00EDtics per mantenir controlada la poblaci\u00F3, suprimint les subtileses que poden esdevenir perilloses o ambig\u00FCes del llenguatge i substituint-les per una simplicitat malintencionada). 1984 va tenir bones vendes des del comen\u00E7ament i segueix sent un dels llibres m\u00E9s influents del segle xx. Juntament amb la societat de la novel\u00B7la Un m\u00F3n feli\u00E7 d'Aldous Huxley, el m\u00F3n de malson descrit a 1984 constitueix una de les obres m\u00E9s citades i conegudes de la ficci\u00F3 dist\u00F2pica de la literatura anglesa. Ha estat tradu\u00EFt a moltes lleng\u00FCes i la seva terminologia particular ha trobat el seu lloc en els debats socials i pol\u00EDtics sobre privadesa. El neologisme \"orwelli\u00E0\" \u00E9s emprat per descriure accions o organitzacions que d'una o altra manera recorden a la societat que apareix al llibre."@ca ,
+		"1984 fikzio-politikako eleberri distopikoa da, George Orwellek 1948an idatzia. Bertan, alderdi totalitarioko estatuak \u2014nonahi dagoen\u2014 kideak lege eta arauak betetzera behartzen ditu, doktrinamenduaz, propagandaz, beldurraz eta zigorrez. Eleberriak 'Anaia Nagusia' zelataria, '', 'Pentsaeraren Polizia' eta 'neohizkera' (politikarien eta burokraten hizkuntza) bezalako kontzeptuak sortu zituen. Eleberriak, Iona uharte bakartian idatziak, salmenta arrakasta handia izan zuen, eta XX. mendean eragin handiena izan duten liburuetako bat da. XX. mendeko hasierako trilogia distopikoko lan gorentzat jotzen da, Aldous Huxleyren Bai mundu berria eta Ray Bradburyren Fahrenheit 451ekin batera. 2007an Txalaparta argitaletxeak eman zuen argitara euskaraz lehendabizikoz, Oskar Aranaren itzulpena zela medio. Askok paralelotasuna ikusten diete gaur egungo gizarteari eta 1984ko mundukoari, gizarte orwelliar hartan bezala bizi garela iradokiz. Orwelliar hitza portaera totalitario eta errepresiogileak dituen gizarte edota erakundeen sinonimo bihurtu da."@eu ,
+		"\u300A\u4E00\u4E5D\u516B\u56DB\u300B\uFF08\u82F1\u8A9E\uFF1ANineteen Eighty-Four\uFF09\uFF0C\u662F\u82F1\u570B\u4F5C\u5BB6\u55AC\u6CBB\u00B7\u6B50\u5A01\u723E\u6240\u5275\u4F5C\u7684\u4E00\u90E8\u53CD\u4E4C\u6258\u90A6\u5C0F\u8AAA\uFF0C\u51FA\u7248\u65BC1949\u5E74\u3002\u5B83\u91CD\u9EDE\u63A2\u8A0E\u653F\u5E9C\u6B0A\u529B\u904E\u5206\u4F38\u5F35\u3001\u6975\u6B0A\u4E3B\u7FA9\u3001\u5C0D\u793E\u6703\u6240\u6709\u4EBA\u548C\u884C\u70BA\u5BE6\u65BD\u58D3\u6291\u6027\u7D71\u6CBB\u7684\u98A8\u96AA\u3002\u6545\u4E8B\u767C\u751F\u7684\u6642\u9593\u8A2D\u65BC1984\u5E74\u2014\u2014\u70BA\u7576\u6642\u4F5C\u8005\u5C0D\u672A\u4F86\u7684\u865B\u69CB\u60F3\u50CF\u3002\u5728\u5176\u69CB\u60F3\u4E2D\uFF0C\u4E16\u754C\u5927\u90E8\u5206\u5730\u5340\u90FD\u9677\u5165\u4E86\u4E00\u5834\u6C38\u4E45\u7684\u6230\u722D\u3001\u653F\u5E9C\u76E3\u63A7\u7121\u8655\u4E0D\u5728\u3001\u8CC7\u6599\u8A18\u9304\u4E2D\u6EFF\u662F\u6B77\u53F2\u5426\u5B9A\u4E3B\u7FA9\u53CA\u653F\u6CBB\u5BA3\u50B3\u3002\u5176\u70BA\u53CD\u70CF\u6258\u90A6\u5C0F\u8AAA\u985E\u4E09\u90E8\u4EE3\u8868\u4F5C\u4E4B\u4E00\uFF08\u53E6\u5916\u4E24\u90E8\u662F\u300A\u6211\u5011\u300B\u548C\u300A\u7F8E\u9E97\u65B0\u4E16\u754C\u300B\uFF09\u3002 \u5728\u5C0F\u8AAA\u4E2D\uFF0C\u82F1\u570B\uFF08\u7B2C\u4E00\u7A7A\u964D\u573A\uFF09\u6210\u4E86\u8D85\u7D1A\u5927\u570B\u5927\u6D0B\u56FD\u7684\u4E00\u4E2A\u7701\uFF0C\u6574\u500B\u570B\u5BB6\u7531\u9EE8\u6240\u652F\u914D\uFF0C\u5B83\u50F1\u7528\u4E86\u601D\u60F3\u8B66\u5BDF\u53BB\u8FEB\u5BB3\u500B\u4EBA\u4E3B\u7FA9\u8005\u4EE5\u53CA\u7368\u7ACB\u601D\u8003\u8005\u3002\u8001\u5927\u54E5\u662F\u9EE8\u7684\u9818\u5C0E\u4EBA\uFF0C\u559C\u6B61\u5F37\u70C8\u7684\u500B\u4EBA\u5D07\u62DC\uFF0C\u4F46\u4ED6\u53EF\u80FD\u6839\u672C\u4E0D\u5B58\u5728\u3002\u5C0F\u8AAA\u7684\u4E3B\u89D2\u6E29\u65AF\u987F\u00B7\u53F2\u5BC6\u65AF\uFF0C\u662F\u4E00\u540D\u5916\u56F4\u515A\u5458\uFF0C\u4ED6\u5728\u771F\u7406\u90E8\uFF08\u65B0\u8A9E\u7A31\u4E3A\u771F\u90E8\uFF09\u5DE5\u4F5C\uFF0C\u771F\u7406\u90E8\u8CA0\u8CAC\u5BA3\u50B3\u548C\u4FEE\u6539\u6B77\u53F2\uFF0C\u4ED6\u7684\u5DE5\u4F5C\u662F\u91CD\u65B0\u7DE8\u5BEB\u8FC7\u53BB\u7684\u62A5\u7D19\uFF0C\u597D\u8B93\u6B77\u53F2\u8A18\u9304\u4E00\u5982\u65E2\u5F80\u5730\u652F\u6301\u653F\u9EE8\u7684\u767C\u5C55\u8DEF\u7DDA\u3002\u771F\u7406\u90E8\u7684\u5DE5\u4F5C\u8005\u6703\u8996\u6B64\u884C\u70BA\u70BA\u300C\u7CFE\u6B63\u932F\u8AA4\u300D\uFF0C\u5118\u7BA1\u4ED6\u5011\u5BE6\u969B\u4E0A\u662F\u4EE5\u865B\u5047\u7684\u8CC7\u8A0A\u53D6\u4EE3\u771F\u76F8\u3002\u8A72\u90E8\u7684\u5927\u90E8\u5206\u5DE5\u4F5C\u8005\u4E5F\u7A4D\u6975\u5730\u92B7\u6BC0\u6C92\u7D93\u4FEE\u8A02\u7684\u6240\u6709\u6587\u4EF6\uFF1B\u9019\u6A23\u4E00\u4F86\uFF0C\u5C31\u6C92\u6709\u8B49\u64DA\u8B49\u660E\u653F\u5E9C\u5E72\u64FE\u6B77\u53F2\u8A18\u9304\u3002\u6E29\u65AF\u987F\u662F\u4E00\u500B\u52E4\u52DE\u4E14\u7CBE\u5DE7\u7684\u5DE5\u4EBA\uFF0C\u4F46\u6697\u5730\u88E1\u618E\u6068\u9EE8\u4E26\u4E14\u5922\u60F3\u7740\u53CD\u53DB\u8001\u5927\u54E5\u3002\u6E29\u65AF\u987F\u901A\u904E\u8207\u5C0F\u8AAA\u90E8\u7684\u5DE5\u4F5C\u8005\u8331\u8389\u4E9E\u4FDD\u6301\u6027\u95DC\u4FC2\u4F86\u9010\u6E10\u5F00\u59CB\u4ED6\u7684\u53CD\u53DB\u884C\u70BA\u3002 \u300A\u4E00\u4E5D\u516B\u56DB\u300B\u662F\u4E00\u672C\u7D93\u5178\u7684\u653F\u6CBB\u8BBD\u55BB\u548C\u53CD\u70CF\u6258\u90A6\u79D1\u5E7B\u5C0F\u8BF4\u3002\u81EA1949\u5E74\u51FA\u7248\u4EE5\u4F86\uFF0C\u5B83\u7684\u8A31\u591A\u7528\u8A9E\u548C\u6982\u5FF5\u5728\u82F1\u8A9E\u4E2D\u5DF2\u88AB\u666E\u904D\u4F7F\u7528\uFF0C\u4F8B\u5982\u8001\u5927\u54E5\u3001\u96D9\u91CD\u601D\u60F3\u3001\u72AF\u7F6A\u601D\u60F3\u3001\u65B0\u8A71\u3001101\u5BA4\u3001\u96FB\u5E55\u30012+2=5\u3001\u5FD8\u6000\u6D1E\u3002\u300A\u4E00\u4E5D\u516B\u56DB\u300B\u4EE4\u5F62\u5BB9\u8A5E\u300C\u5967\u5A01\u723E\u5F0F\u7684\u300D\uFF08Orwellian\uFF09\u666E\u53CA\uFF0C\u5B83\u662F\u7528\u65BC\u5F62\u5BB9\u5B98\u65B9\u6B3A\u9A19\u3001\u79D8\u5BC6\u76E3\u8996\u4E26\u4E14\u4FEE\u6539\u6B77\u53F2\u7684\u6975\u6B0A\u4E3B\u7FA9\u6216\u7368\u88C1\u72C0\u614B\u3002\u57282005\u5E74\uFF0C\u672C\u66F8\u88AB\u6642\u4EE3\u96DC\u8A8C\u8A55\u70BA1923\u5E74\u81F32005\u5E74\u6700\u597D\u7684100\u672C\u82F1\u6587\u5C0F\u8AAA\u4E4B\u4E00\uFF0C\u8FD8\u57281998\u5E74\u88AB\u5217\u516520\u4E16\u7D00\u767E\u5927\u82F1\u6587\u5C0F\u8AAA\uFF08\u8B80\u8005\u7968\u9078\uFF1A\u7B2C6\u4F4D\uFF1B\u7DE8\u8F2F\u5C0F\u7D44\uFF1A\u7B2C13\u4F4D\uFF09\u30022003\u5E74\uFF0C\u300A\u4E00\u4E5D\u516B\u56DB\u300B\u5728BBC\u7684\u66F8\u7C4D\u7968\u9078\u6D3B\u52D5\u5927\u95B1\u8B80\u4E2D\u7372\u5F97\u7B2C8\u4F4D\u3002\u9084\u57281956\u5E74\u30011984\u5E74\u6539\u7DE8\u6210\u96FB\u5F71\u4E0A\u6620\u3002"@zh ,
+		"Rok 1984 (tytu\u0142 oryginalny: Nineteen Eighty-Four) \u2013 futurystyczna dystopia o licznych podtekstach politycznych, napisana przez George\u2019a Orwella i opublikowana w roku 1949. Autor napisa\u0142 j\u0105 pod wp\u0142ywem kontaktu z praktyczn\u0105 stron\u0105 systemu stalinowskiego, do jakiego po raz pierwszy dosz\u0142o w Hiszpanii w 1936 roku (w czasie wojny domowej), gdzie pojecha\u0142 jako dziennikarz i sympatyk strony republika\u0144skiej. Wspomnienia niedalekiej przesz\u0142o\u015Bci pozwoli\u0142y wykreowa\u0107 mu antyutopijny porz\u0105dek \u015Bwiata w fikcyjnej przysz\u0142o\u015Bci. Ksi\u0105\u017Cka by\u0142a ostatnim dzie\u0142em George\u2019a Orwella. Prac\u0119 nad ni\u0105 rozpocz\u0105\u0142 w 1948 roku, kiedy jego zdrowie uleg\u0142o znacznemu pogorszeniu (cierpia\u0142 na zaawansowan\u0105 form\u0119 gru\u017Alicy). Jako sympatyk antystalinowskiej partii POUM by\u0142 zmuszony uciec przed zorganizowan\u0105 przez INO NKWD (por. Aleksandr Or\u0142ow) nagonk\u0105 i egzekucj\u0105. Swoje prze\u017Cycia opisa\u0142 w zbiorze reporta\u017Cy W ho\u0142dzie Katalonii. Pierwsze polskie t\u0142umaczenie \u2013 Juliusza Mieroszewskiego \u2013 opublikowane zosta\u0142o na emigracji w Instytucie Literackim w Pary\u017Cu w roku 1953. W PRL powie\u015B\u0107 Orwella by\u0142a zakazana przez cenzur\u0119, pierwsze oficjalne wydanie (PIW) w roku 1988; od roku 1980 by\u0142a jednak publikowana w postaci przedruk\u00F3w z wydania paryskiego w wydawnictwach niezale\u017Cnych \u2013 tzw. \u201Edrugiego obiegu\u201D. Od 1988 roku oficjalne wydania krajowe ukazywa\u0142y si\u0119 w t\u0142umaczeniu Tomasza Mirkowicza oraz Bar\u0142omieja Zborskiego, a w 2021 opublikowano t\u0142umaczenia Doroty Konowrockiej-Sawy i Roberta Sud\u00F3\u0142a. W tym samym roku nak\u0142adem Wydawnictwa Jaguar zosta\u0142a opublikowana powie\u015B\u0107 graficzna Rok 1984 w t\u0142umaczeniu Ma\u0142gorzaty Kaczorowskiej. Autorem adaptacji i ilustracji jest brazylijski grafik Fido Nesti. Do kultury masowej przenikn\u0119\u0142y pewne poj\u0119cia z tej powie\u015Bci np. Wielki Brat (ang. Big Brother), nowomowa (ang. newspeak), my\u015Blozbrodnia (ang. thoughtcrime) czy nieosoba (ang. unperson \u2013 polityk odsuni\u0119ty od wp\u0142yw\u00F3w lub obywatel o wrogich lub nieortodoksyjnych pogl\u0105dach politycznych)."@pl ,
+		"\u300A1984\u300B(\uC601\uC5B4: Nineteen Eighty-Four)\uB294 1949\uB144 \uCD9C\uD310\uB41C \uC870\uC9C0 \uC624\uC6F0\uC758 \uB514\uC2A4\uD1A0\uD53C\uC544 \uC18C\uC124\uC774\uB2E4. 1984\uB144\uC744 \uC804\uCCB4\uC8FC\uC758\uAC00 \uADF9\uB3C4\uD654\uB41C \uC0AC\uD68C\uB85C \uC0C1\uC815\uD558\uACE0 \uC4F4 \uBBF8\uB798 \uC18C\uC124\uC778 \uC791\uD488 \uC18D\uC5D0\uC11C \uC138\uACC4\uB294 \uAC70\uB300\uD55C \uCD08\uAD6D\uAC00\uB4E4\uB85C \uBD84\uD654\uB418\uC5B4 \uC788\uACE0 \uC774\uB4E4\uC740 \uC601\uAD6C\uC801\uC778 \uC804\uC7C1 \uC0C1\uD0DC\uC774\uB2E4. \uC791\uD488\uC758 \uBC30\uACBD\uC774 \uB418\uB294 \uACF3\uC740 \uC601\uAD6D\uC73C\uB85C \uC18C\uC124 \uC18D\uC5D0\uC120 \"\uC81C1\uACF5\uB300\"(\u7B2C\u4E00\u7A7A\u5E36, Airstrip One)\uB85C \uBD88\uB9AC\uBA70 \uC624\uC138\uC544\uB2C8\uC544\uC5D0 \uD3EC\uD568\uB418\uC5B4 \uC788\uB2E4. \uC624\uC138\uC544\uB2C8\uC544\uB294 \uC804\uCCB4\uC8FC\uC758 \uC815\uCE58 \uC774\uB370\uC62C\uB85C\uAE30\uC778 \uC601\uC0AC(\u82F1\u793E, Ingsoc)\uC758 \uC9C0\uBC30\uB97C \uBC1B\uC73C\uBA70 \uCD5C\uACE0\uC704 \uC9C0\uBC30\uC790\uB294 \uB300\uD615(\u5927\u5144, Big Brother)\uC774\uB2E4. \uC18C\uC124 \uC18D \uAD6D\uAC00\uB294 \uAE30\uB85D\uC744 \uC870\uC791\uD558\uACE0, \uAC1C\uC778\uC758 \uC77C\uAC70\uC218 \uC77C\uD22C\uC871\uC744 \uAC10\uC2DC\uD558\uBA70, \uC5B8\uC5B4\uC640 \uC0AC\uACE0\uB97C \uD1B5\uC81C\uD558\uC5EC \uC601\uAD6C\uC801\uC778 \uC9D1\uAD8C\uC744 \uAE30\uD68D\uD55C\uB2E4. \uC18C\uC124\uC740 \uC774\uB7EC\uD55C \uC138\uACC4\uAD00\uC744 \uBC14\uD0D5\uC73C\uB85C \uAE30\uB85D\uC870\uC791\uC744 \uB2F4\uB2F9\uD558\uB358 \uC8FC\uC778\uACF5\uC774 \uC804\uCCB4\uC8FC\uC758\uC640 \uAC08\uB4F1\uD558\uB294 \uC774\uC57C\uAE30\uB97C \uB2E4\uB8EC\uB2E4. \u300A1984\u300B\uB294 \uC62C\uB354\uC2A4 \uD5C9\uC2AC\uB9AC\uC758 \u300A\uBA4B\uC9C4 \uC2E0\uC138\uACC4\u300B, \uC758 \u300A\uC6B0\uB9AC\uB4E4\u300B\uACFC \uB354\uBD88\uC5B4 \uB514\uC2A4\uD1A0\uD53C\uC544\uB97C \uB2E4\uB8EC \uC18C\uC124 \uAC00\uC6B4\uB370 \uB300\uD45C\uC791\uC73C\uB85C \uAF3D\uD788\uBA70, \uC774\uD6C4 \uB9CE\uC740 \uC608\uC220\uC791\uD488\uC5D0 \uC601\uD5A5\uC744 \uC8FC\uC5C8\uB2E4. \uC18C\uC124\uC758 \uC601\uD5A5\uC73C\uB85C \uC0AC\uD68C\uB098 \uAD6D\uAC00 \uC2DC\uC2A4\uD15C\uC5D0 \uC758\uBB38\uC744 \uC81C\uAE30\uD558\uACE0 \uC804\uCCB4\uC8FC\uC758, \uAD8C\uC704\uC8FC\uC758\uC640 \uAC19\uC740 \uBE44\uBBFC\uC8FC\uC801 \uC815\uCE58\uCCB4\uC81C\uC5D0 \uBC18\uAE30\uB97C \uB4DC\uB294 \uC0AC\uB78C\uC744 \uC624\uC6F0\uC871(Orwellian)\uC774\uB77C\uACE0 \uBD80\uB974\uB294 \uACBD\uC6B0\uB3C4 \uC788\uB2E4. 1989\uB144 \uC9D1\uACC4 \uB2F9\uC2DC \u300A1984\u300B\uB294 65\uAC1C \uC5B8\uC5B4\uB85C \uBC88\uC5ED\uB418\uC5C8\uB2E4. \uC774\uB294 \uC870\uC0AC \uB2F9\uC2DC \uB2E4\uB978 \uC5B4\uB5A4 \uC601\uAD6D \uC18C\uC124 \uBCF4\uB2E4 \uB9CE\uC740 \uC22B\uC790\uC774\uB2E4. \uC791\uD488\uC758 \uC81C\uBAA9\uC778 1984\uB294 \uC791\uAC00\uAC00 \uC791\uD488\uC744 \uD0C8\uACE0\uD55C 1948\uB144\uC758 \uB4B7\uC790\uB9AC \uB144\uB3C4\uB97C \uB4A4\uC9D1\uC740 \uAC83\uC774\uB2E4."@ko ,
+		"1984 is een dystopische toekomstroman van de Britse schrijver George Orwell, grotendeels geschreven in de periode 1946-1948 en gepubliceerd in 1949. Orwell presenteert in dit boek zijn visie op de westerse wereld anno 1984. Het is een waarschuwing tegen totalitaire regimes, zoals nazi-Duitsland dat net verslagen was en Stalins Sovjet-Unie. Orwell beschrijft een staat waarin de overheid elk aspect van het menselijk leven bewaakt en controleert. Het hoofdpersonage, de timide Winston Smith, poogt hiertegen te rebelleren, maar ondervindt dat de macht van de regering verder reikt dan hij zich had kunnen voorstellen. In de strijd tegen de Partij en Big Brother gaat de enkeling kansloos ten onder. De roman speelt zich af in een sombere toekomst, waarover in de verleden tijd verteld wordt vanuit het perspectief van een alwetende verteller. Achter de roman is een appendix opgenomen over het door Orwell ge\u00EFntroduceerd begrip Newspeak dat een belangrijke rol speelt bij de daarin beschreven politieke hersenspoeling, hoewel die term bij het schrijven en verschijnen ervan nog niet bestond. Orwell liep met deze fictie vooruit op de theorievorming in de politieke wetenschap over het fenomeen totalitarisme."@nl ,
+		"\u00AB1984\u00BB (\u0430\u043D\u0433\u043B. Nineteen Eighty-Four, \u00AB\u0422\u044B\u0441\u044F\u0447\u0430 \u0434\u0435\u0432\u044F\u0442\u044C\u0441\u043E\u0442 \u0432\u043E\u0441\u0435\u043C\u044C\u0434\u0435\u0441\u044F\u0442 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u044B\u0439\u00BB) \u2014 \u0440\u043E\u043C\u0430\u043D-\u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0438\u044F \u0414\u0436\u043E\u0440\u0434\u0436\u0430 \u041E\u0440\u0443\u044D\u043B\u043B\u0430, \u0438\u0437\u0434\u0430\u043D\u043D\u044B\u0439 \u0432 1949 \u0433\u043E\u0434\u0443. \u041A\u0430\u043A \u043E\u0442\u043C\u0435\u0447\u0430\u0435\u0442 \u0447\u043B\u0435\u043D\u043A\u043E\u0440 \u0420\u0410\u041D \u041C. \u0424. \u0427\u0435\u0440\u043D\u044B\u0448, \u044D\u0442\u043E \u0441\u0430\u043C\u043E\u0435 \u0433\u043B\u0430\u0432\u043D\u043E\u0435 \u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0435 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u043F\u0438\u0441\u0430\u0442\u0435\u043B\u044F. \u0420\u043E\u043C\u0430\u043D \u00AB1984\u00BB \u043D\u0430\u0440\u044F\u0434\u0443 \u0441 \u0442\u0430\u043A\u0438\u043C\u0438 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u044F\u043C\u0438, \u043A\u0430\u043A \u00AB\u041C\u044B\u00BB \u0415\u0432\u0433\u0435\u043D\u0438\u044F \u0417\u0430\u043C\u044F\u0442\u0438\u043D\u0430 (1920), \u00AB\u041E \u0434\u0438\u0432\u043D\u044B\u0439 \u043D\u043E\u0432\u044B\u0439 \u043C\u0438\u0440\u00BB \u041E\u043B\u0434\u043E\u0441\u0430 \u0425\u0430\u043A\u0441\u043B\u0438 (1932) \u0438 \u00AB451 \u0433\u0440\u0430\u0434\u0443\u0441 \u043F\u043E \u0424\u0430\u0440\u0435\u043D\u0433\u0435\u0439\u0442\u0443\u00BB \u0420\u044D\u044F \u0411\u0440\u044D\u0434\u0431\u0435\u0440\u0438 (1953) \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043E\u0431\u0440\u0430\u0437\u0446\u043E\u0432 \u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0438\u0438. \u041A\u0440\u043E\u043C\u0435 \u0442\u043E\u0433\u043E, \u0440\u043E\u043C\u0430\u043D, \u0441\u0442\u0430\u0432 \u043A\u043B\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043A\u0438\u043C \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u043D\u044B\u043C \u043E\u0431\u0440\u0430\u0437\u0446\u043E\u043C \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0438 \u0430\u043D\u0442\u0438\u0443\u0442\u043E\u043F\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0431\u0435\u043B\u043B\u0435\u0442\u0440\u0438\u0441\u0442\u0438\u043A\u0438, \u043F\u043E\u0441\u043B\u0443\u0436\u0438\u043B \u043C\u043E\u0449\u043D\u044B\u043C \u0442\u043E\u043B\u0447\u043A\u043E\u043C \u043A \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u0438\u0437\u0430\u0446\u0438\u0438 \u044D\u043F\u0438\u0442\u0435\u0442\u0430 \u00AB\u043E\u0440\u0443\u044D\u043B\u043B\u043E\u0432\u0441\u043A\u0438\u0439\u00BB, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043A \u0430\u043F\u0435\u043B\u043B\u044F\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \u0442\u0430\u043A\u0438\u0445 \u043F\u043E\u043D\u044F\u0442\u0438\u0439 \u0438\u0437 \u0440\u043E\u043C\u0430\u043D\u0430, \u043A\u0430\u043A \u00AB\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u0411\u0440\u0430\u0442\u00BB, \u00AB\u0434\u0432\u043E\u0435\u043C\u044B\u0441\u043B\u0438\u0435\u00BB, \u00AB\u043F\u043E\u043B\u0438\u0446\u0438\u044F \u043C\u044B\u0441\u043B\u0435\u0439\u00BB, \u00AB\u043C\u044B\u0441\u043B\u0435\u043F\u0440\u0435\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435\u00BB, \u00AB\u043D\u043E\u0432\u043E\u044F\u0437\u00BB \u0438 \u00AB2 + 2 = 5\u00BB."@ru ,
+		"1984 (Originaltitel: Nineteen Eighty-Four, deutscher Alternativtitel: Neunzehnhundertvierundachtzig), geschrieben von 1946 bis 1948 und erschienen im Juni 1949, ist ein dystopischer Roman von George Orwell (eigentlich Eric Arthur Blair), in dem ein totalit\u00E4rer \u00DCberwachungsstaat im Jahr 1984 dargestellt wird. Hauptperson der Handlung ist Winston Smith, ein einfaches Mitglied der diktatorisch herrschenden, fiktiven Staatspartei Sozialistische Partei Englands (orig. Ingsoc). Der allgegenw\u00E4rtigen \u00DCberwachung zum Trotz will Smith seine Privatsph\u00E4re sichern und etwas \u00FCber die real geschehene Vergangenheit erfahren, die von der Partei durch umfangreiche Geschichtsf\u00E4lschung verheimlicht wird. Dadurch ger\u00E4t er mit dem System in Konflikt, das ihn gefangen nimmt, foltert und einer Gehirnw\u00E4sche unterzieht. Orwell begann mit dem Verfassen des Buches im Jahr 1946 w\u00E4hrend seines Aufenthaltes auf der Insel Jura vor der K\u00FCste Schottlands und stellte es Ende 1948 fertig. Der Titel enth\u00E4lt den Zahlendreher der Jahreszahl 1948 zu 1984 als Anspielung auf eine zwar damals noch fern erscheinende, aber (\u00E4hnlich wie Orwells vorangegangener Roman Farm der Tiere) doch eng mit der damaligen Gegenwart verkn\u00FCpfte Zukunft. Die Erstausgabe des Buches kam in London am 8. Juni 1949 in den Verkauf. Der Roman wird oft dann zitiert bzw. sein Titel oder der Name Orwell genannt, wenn es darum geht, staatliche \u00DCberwachungsma\u00DFnahmen kritisch zu kommentieren oder auf Tendenzen zu einem \u00DCberwachungsstaat hinzuweisen."@de ;
+	dbo:wikiPageWikiLink	dbr:Language_and_thought ,
+		dbr:Closed-circuit_television ,
+		dbr:Under_the_Spreading_Chestnut_Tree ,
+		dbr:Authoritarian_personality ,
+		dbr:Newspeak ,
+		dbr:Memory_hole ,
+		<http://dbpedia.org/resource/Big_Brother_(TV_series)> ,
+		dbr:Linguistic_relativity ,
+		dbr:Arthur_Koestler ,
+		dbr:Antisemitism ,
+		<http://dbpedia.org/resource/G._K._Chesterton> ,
+		dbr:Scapegoating ,
+		<http://dbpedia.org/resource/D._J._Taylor> ,
+		dbr:The_Napoleon_of_Notting_Hill ,
+		<http://dbpedia.org/resource/H._G._Wells> ,
+		dbr:St_Martin-in-the-Fields ,
+		<http://dbpedia.org/resource/P._H._Newby> ,
+		dbr:Moscow_2042 ,
+		dbr:The_Shape_of_Things_to_Come ,
+		dbr:London_Underground ,
+		<http://dbpedia.org/resource/1984_(opera)> ,
+		dbr:Open_Court_Publishing_Company ,
+		<http://dbpedia.org/resource/BBC_list_of_100_\u0027most_inspiring\u0027_novels> ,
+		dbr:Betrayal_of_the_Left ,
+		dbr:Enemy_of_the_state ,
+		dbr:Knopf_Doubleday_Publishing_Group ,
+		<http://dbpedia.org/resource/File:John_Hay_Library_(Brown).jpg> ,
+		dbr:The_Jam ,
+		dbr:Australasia ,
+		dbr:The_Captive_Mind ,
+		dbr:World_War_II ,
+		dbr:Archenemy ,
+		dbr:NKVD ,
+		dbr:Houghton_Mifflin_Harcourt ,
+		dbr:Kellyanne_Conway ,
+		<http://dbpedia.org/resource/John_A._Hobson> ,
+		dbc:Totalitarianism_in_fiction ,
+		dbr:Concentration_camp ,
+		<http://dbpedia.org/resource/United_States_v._Jones_(2012)> ,
+		dbr:Unperson ,
+		dbr:Everyman ,
+		dbr:Marilyn_Manson ,
+		dbr:Why_I_Write ,
+		dbr:NSA ,
+		dbr:Brainwashing ,
+		<http://dbpedia.org/resource/E._M._Forster> ,
+		dbc:Propaganda_in_fiction ,
+		<http://dbpedia.org/resource/V_for_Vendetta_(film)> ,
+		dbr:Doctor_Who ,
+		dbr:Harold_Nicolson ,
+		dbr:Apple_Macintosh ,
+		dbc:Novels_about_revolutionaries ,
+		<http://dbpedia.org/resource/Challenge_(literature)> ,
+		dbr:Kinoks ,
+		dbc:Novels_about_propaganda ,
+		dbc:Historical_revisionism_in_fiction ,
+		dbc:Nineteen_Eighty-Four ,
+		<http://dbpedia.org/resource/Category:1949_British_novels> ,
+		dbc:Novels_set_in_fictional_countries ,
+		dbr:Stalinist_Russia ,
+		<http://dbpedia.org/resource/Category:1949_science_fiction_novels> ,
+		dbc:Novels_about_nuclear_war_and_weapons ,
+		dbc:Novels_about_totalitarianism ,
+		dbr:Stalinist_Poland ,
+		dbr:Homage_to_Catalonia ,
+		dbc:British_political_novels ,
+		dbr:False-flag_operation ,
+		dbr:Equatorial_Africa ,
+		<http://dbpedia.org/resource/We_Are_the_Dead_(song)> ,
+		dbc:Fiction_set_in_1984 ,
+		dbr:Saint_Clement_Danes ,
+		dbc:Social_science_fiction ,
+		<http://dbpedia.org/resource/Darwin,_Northern_Territory> ,
+		<http://dbpedia.org/resource/11020_Orwell> ,
+		<http://dbpedia.org/resource/Eurasia_(Nineteen_Eighty-Four)> ,
+		<http://dbpedia.org/resource/2013_mass_surveillance_scandal> ,
+		<http://dbpedia.org/resource/Oceania_(Nineteen_Eighty-Four)> ,
+		dbc:Novels_about_freedom_of_speech ,
+		dbr:Celtic_nationalism ,
+		dbc:Novels_about_mass_surveillance ,
+		dbc:Novels_by_George_Orwell ,
+		dbr:Authoritarian_state ,
+		dbr:Ministry_of_Love ,
+		dbr:Jacintha_Buddicom ,
+		<http://dbpedia.org/resource/File:BigBrother.jpg> ,
+		<http://dbpedia.org/resource/File:Nineteen_Eighty-Four_manuscript.jpg> ,
+		<http://dbpedia.org/resource/Julia_(Nineteen_Eighty-Four)> ,
+		dbr:Friedrich_Wilhelm_von_Bergholz ,
+		dbr:Southeast_Asia ,
+		<http://dbpedia.org/resource/Nineteen_Eighty-Four_(1984_film)> ,
+		dbr:Area_bombing ,
+		dbr:Adolf_Hitler ,
+		dbr:Hail_to_the_Thief ,
+		dbr:Rex_Warner ,
+		dbr:Susumu_Hirasawa ,
+		<http://dbpedia.org/resource/Darwin_(Australia)> ,
+		dbr:Insurrectionist ,
+		<http://dbpedia.org/resource/File:1984_fictitious_world_map_v2_quad.svg> ,
+		dbr:Ingsoc ,
+		<http://dbpedia.org/resource/Eastasia_(Nineteen_Eighty-Four)> ,
+		dbr:Give_Me_the_Future ,
+		dbr:Nations_of_Nineteen_Eighty-Four ,
+		<http://dbpedia.org/resource/1984_(U.S._TV_program)> ,
+		<http://dbpedia.org/resource/File:Yakov_Guminer_-_Arithmetic_of_a_counter-plan_poster_(1931).jpg> ,
+		dbr:NBC_University_Theatre ,
+		dbr:Quadrilateral ,
+		dbr:A_Modern_Utopia ,
+		dbr:Psychological_projection ,
+		dbr:Thoughtcrime ,
+		dbr:Doublethink ,
+		dbr:David_Bowie ,
+		dbr:Stalinism ,
+		dbr:Elevator ,
+		dbr:Cult_of_personality ,
+		dbr:Second_World_War ,
+		<http://dbpedia.org/resource/Nineteen_Eighty-Four_(British_TV_programme)> ,
+		dbr:Past_tense ,
+		dbr:Lexicon ,
+		dbr:Idolatry ,
+		dbr:Resistance_movement ,
+		dbr:Open_Library ,
+		dbr:Colchester ,
+		dbr:The_Children_of_Men ,
+		<http://dbpedia.org/resource/McAndrew\u0027s_Hymn> ,
+		dbr:Bering_Strait ,
+		dbc:Historical_negationism ,
+		dbr:Freedom_of_speech ,
+		dbr:Nuclear_weapon ,
+		dbr:Kallocain ,
+		dbr:The_Atlantic ,
+		dbr:Animal_Farm ,
+		<http://dbpedia.org/resource/Tl\u00F6n,_Uqbar,_Orbis_Tertius> ,
+		dbr:Military_helicopter ,
+		dbr:Christopher_Hitchens ,
+		dbr:Great_Purges ,
+		dbc:Novels_set_in_London ,
+		dbc:Mass_surveillance ,
+		dbc:Dystopian_novels ,
+		dbr:Dystopian_novel ,
+		dbr:Culture_of_fear ,
+		dbr:The_Sunday_Times ,
+		dbr:Stalinist ,
+		dbr:Global_surveillance ,
+		<http://dbpedia.org/resource/V._S._Pritchett> ,
+		dbr:Princeton_University_Press ,
+		dbr:October_revolution ,
+		dbr:Middle_East ,
+		dbr:Alexey_Stakhanov ,
+		dbr:Thoughts ,
+		dbr:Totalitarian ,
+		dbr:Henley-on-Thames ,
+		dbr:V-2_rocket ,
+		dbr:Simplified_Chinese ,
+		dbr:Great_Soviet_Encyclopedia ,
+		dbr:Brown_University ,
+		dbr:Superstate ,
+		dbr:Bering_Sea ,
+		dbr:Internet_Archive ,
+		<http://dbpedia.org/resource/2021_in_public_domain> ,
+		dbr:Nikolai_Bukharin ,
+		dbr:Cambridge_University_Press ,
+		dbr:Copyright_law ,
+		<http://dbpedia.org/resource/Studio_One_(American_TV_series)> ,
+		dbr:The_Revolution_Betrayed ,
+		dbr:Europe ,
+		dbr:Trotskyism ,
+		dbr:Faroe_Islands ,
+		ns5:_Socialism_and_the_English_Genius ,
+		dbr:Fellow_traveler ,
+		dbr:Thom_Yorke ,
+		dbr:Tangier ,
+		dbr:Victor_Gollancz ,
+		dbr:British_Isles ,
+		dbr:Paul_Weller ,
+		dbr:Manchuria ,
+		dbr:Old_Bolshevik ,
+		dbr:Notes_on_Nationalism ,
+		dbr:The_Yogi_and_the_Commissar ,
+		dbr:Coming_Up_for_Air ,
+		dbr:Oligarchy ,
+		dbr:Show_trial ,
+		dbr:New_York_Public_Library ,
+		dbr:Spanish_Civil_War ,
+		<http://dbpedia.org/resource/O\u0027Brien_(Nineteen_Eighty-Four)> ,
+		dbr:Ministry_of_Truth ,
+		dbr:Real_life ,
+		dbr:Social_science_fiction ,
+		dbr:US_Supreme_Court ,
+		<http://dbpedia.org/resource/File:Feliz_1984.JPG> ,
+		dbr:Hero_of_Socialist_Labour ,
+		dbr:US_government ,
+		dbr:Indonesia ,
+		dbr:Stephen_Breyer ,
+		<http://dbpedia.org/resource/H.G.Wells> ,
+		dbr:Popular_Front ,
+		<http://dbpedia.org/resource/The_Glass_Fortress_(film)> ,
+		<http://dbpedia.org/resource/We_(novel)> ,
+		dbr:Democratic_socialism ,
+		dbr:Jack_London ,
+		dbc:British_science_fiction_novels ,
+		dbr:Surveillance ,
+		dbr:Cautionary_tale ,
+		dbr:BBC_Television ,
+		dbr:Proletariat ,
+		dbr:V-weapons ,
+		dbc:English_novels ,
+		dbr:Americas ,
+		dbr:China ,
+		<http://dbpedia.org/resource/Spirit_(band)> ,
+		dbr:Alternative_facts ,
+		dbr:Glenn_Miller ,
+		dbr:List_of_islands_in_the_Atlantic_Ocean ,
+		dbr:Nikolai_Yezhov ,
+		dbr:V_for_Vendetta ,
+		<http://dbpedia.org/resource/1984_(Westinghouse_Studio_One)> ,
+		dbr:Reign_of_Terror ,
+		dbc:British_novels_adapted_into_films ,
+		<http://dbpedia.org/resource/1984_(play)> ,
+		dbr:Kempeitai ,
+		dbr:Yevgeny_Zamyatin ,
+		<http://dbpedia.org/resource/Winston_Smith_(Nineteen_Eighty-Four)> ,
+		<http://dbpedia.org/resource/Time_(magazine)> ,
+		dbr:Shenzhen ,
+		dbr:London ,
+		dbr:Standard_of_living ,
+		dbr:Focke-Achgelis_Fa_223_Drache ,
+		dbr:Philosophy ,
+		dbc:Novels_set_in_the_future ,
+		dbr:Radiohead ,
+		dbr:Toryism ,
+		dbr:Propaganda ,
+		dbr:Malabar_Coast ,
+		dbr:Portugal ,
+		dbr:Jorge_Luis_Borges ,
+		dbr:Joseph_Stalin ,
+		dbr:Ray_Bradbury ,
+		dbr:Karin_Boye ,
+		dbr:The_Theory_and_Practice_of_Oligarchical_Collectivism ,
+		<http://dbpedia.org/resource/New_World_Order_(conspiracy_theory)> ,
+		dbr:New_Statesman ,
+		<http://dbpedia.org/resource/1984_(1956_film)> ,
+		dbr:Martha_Nussbaum ,
+		dbr:Lexicography ,
+		dbr:Stalin ,
+		dbr:Bishop_Berkeley ,
+		dbr:The_God_Complex ,
+		dbr:NBC ,
+		dbr:Epistemology ,
+		dbr:Ridley_Scott ,
+		dbr:Utopian_and_dystopian_fiction ,
+		dbr:Slingshot ,
+		<http://dbpedia.org/resource/Apple_Inc.> ,
+		dbr:Tibet ,
+		dbr:Political_fiction ,
+		dbr:Robespierre ,
+		<http://dbpedia.org/resource/2_+_2_=_5> ,
+		dbr:Edward_Shanks ,
+		dbr:The_Iron_Heel ,
+		dbr:The_Times ,
+		dbr:Harold_Bloom ,
+		dbr:Brazzaville ,
+		<http://dbpedia.org/resource/Chain_of_Command_(Star_Trek:_The_Next_Generation)> ,
+		dbr:Emmanuel_Goldstein ,
+		dbr:Hugh_Hopper ,
+		dbr:Five-year_plans_of_the_Soviet_Union ,
+		dbr:Broadcasting_House ,
+		dbr:Hong_Kong ,
+		<http://dbpedia.org/resource/Senate_House_(University_of_London)> ,
+		<http://dbpedia.org/resource/The_Handmaid\u0027s_Tale> ,
+		<http://dbpedia.org/resource/Bastille_(band)> ,
+		dbr:Soviet_Union ,
+		dbr:List_of_islands_in_the_Pacific_Ocean ,
+		dbr:Eric_Sykes ,
+		dbr:Tuberculosis ,
+		dbr:Cold_War ,
+		dbr:Spike_Milligan ,
+		dbr:James_Burnham ,
+		dbr:Oranges_and_Lemons ,
+		dbr:Ideology ,
+		dbr:Tangiers ,
+		dbr:Shanghai ,
+		dbr:Lev_Kamenev ,
+		dbr:Iron_Curtain ,
+		dbr:Mao_Zedong .
+@prefix ns23:	<http://dbpedia.org/resource/Star_Trek:> .
+dbr:Nineteen_Eighty-Four	dbo:wikiPageWikiLink	ns23:_The_Next_Generation ,
+		dbr:Darkness_at_Noon ,
+		dbr:Leon_Trotsky ,
+		dbr:Iceland ,
+		dbr:V-1_flying_bomb ,
+		dbr:Thought_Police ,
+		dbr:Democratic_socialist ,
+		dbr:Civil_liberties ,
+		dbr:Historical_negationism ,
+		dbr:Fahrenheit_451 ,
+		dbr:Ideocracy ,
+		dbr:List_of_islands_in_the_Indian_Ocean ,
+		<http://dbpedia.org/resource/Czes\u0142aw_Mi\u0142osz> ,
+		dbr:Central_Asia ,
+		dbr:Modern_Library_100_Best_Novels ,
+		dbr:Tehran_Conference ,
+		dbr:Lavrentiy_Beria ,
+		<http://dbpedia.org/resource/A_Clergyman\u0027s_Daughter> ,
+		dbr:Nazi_Germany ,
+		<http://dbpedia.org/resource/The_Listener_(magazine)> ,
+		<http://dbpedia.org/resource/The_Resistance_(album)> ,
+		dbr:Bertrand_Russell ,
+		dbr:Mass_surveillance ,
+		<http://dbpedia.org/resource/Ministry_of_Information_(United_Kingdom)> ,
+		dbr:French_Revolution ,
+		<http://dbpedia.org/resource/Big_Brother_(Nineteen_Eighty-Four)> ,
+		dbr:Diamond_Dogs ,
+		dbc:Censored_books ,
+		dbr:Nigel_Kneale ,
+		dbr:CBS ,
+		dbc:Fiction_about_mind_control ,
+		dbr:Orwellian ,
+		<http://dbpedia.org/resource/2_+_2_=_5_(song)> ,
+		dbr:Soft_Machine ,
+		dbr:Sidney_Sheldon ,
+		dbr:BBC ,
+		dbr:Censorship_of_images_in_the_Soviet_Union ,
+		dbr:Africa ,
+		dbr:Two_Minutes_Hate ,
+		dbr:Thomas_Pynchon ,
+		dbr:Moscow_Trials ,
+		dbr:Asia ,
+		dbr:Georges_Danton ,
+		dbr:Japan ,
+		<http://dbpedia.org/resource/Molotov\u2013Ribbentrop_Pact> ,
+		dbr:List_of_stories_set_in_a_future_now_past ,
+		<http://dbpedia.org/resource/St_Cyprian\u0027s_School> ,
+		dbr:Continental_Europe ,
+		dbr:Secker_and_Warburg ,
+		<http://dbpedia.org/resource/Category:Secker_&_Warburg_books> ,
+		dbr:Mongolia ,
+		<http://dbpedia.org/resource/Secker_&_Warburg> ,
+		dbr:George_Orwell ,
+		dbr:India ,
+		dbc:Works_about_censorship ,
+		dbr:Dystopia ,
+		dbr:Totalitarianism ,
+		dbr:Grigory_Zinoviev ,
+		dbr:Mind_control ,
+		dbr:John_Hay_Library ,
+		dbr:Groupthink ,
+		dbr:Indian_Imperial_Police ,
+		dbr:This_Is_the_Modern_World ,
+		dbr:BBC_Radio_4 ,
+		dbr:Edwardian_period ,
+		<http://dbpedia.org/resource/1984_(advertisement)> ,
+		<http://dbpedia.org/resource/Anton\u00EDn_Mrkos> ,
+		dbr:Room_101 ,
+		dbc:Novels_adapted_into_operas ,
+		dbr:University_of_Michigan_Press ,
+		dbr:Pastiche ,
+		dbr:British_Commonwealth ,
+		dbr:The_Goon_Show ,
+		dbr:Brave_New_World ,
+		dbr:CPSU ,
+		dbr:Erich_Fromm ,
+		dbr:Perpetual_war ,
+		<http://dbpedia.org/resource/Muse_(band)> ,
+		dbc:British_novels_adapted_into_television_shows ,
+		dbr:Politics_of_the_United_Kingdom ,
+		dbr:Communist_Party_of_Great_Britain ,
+		dbr:North_Korea ,
+		dbc:Novels_adapted_into_radio_programs ,
+		<http://dbpedia.org/resource/C._S._Lewis> ,
+		dbc:British_novels_adapted_into_plays ,
+		dbr:The_Private_Eye ,
+		dbr:Doublespeak ,
+		dbc:Novels_adapted_into_ballets ,
+		<http://dbpedia.org/resource/Nineteen_Eighty-Four_(UK_TV_programme)> ,
+		dbr:The_Big_Read ,
+		<http://dbpedia.org/resource/Jura,_Scotland> ,
+		<http://dbpedia.org/resource/Ministry_of_Foreign_Affairs_(Soviet_Union)> ,
+		dbr:Fredric_Warburg ,
+		dbr:Virtual_Light ,
+		dbr:Aldous_Huxley .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Nineteen_Eighty-Four	dbp:wikiPageUsesTemplate	dbt:Cite_book ,
+		dbt:Crimethink ,
+		dbt:Scholia ,
+		dbt:Refimprove_section ,
+		dbt:Cn ,
+		dbt:Start_date ,
+		dbt:Pp-move-indef ,
+		dbt:Authority_control ,
+		dbt:Nineteen_Eighty-Four ,
+		dbt:Unsourced_section ,
+		dbt:See_also ,
+		dbt:More_footnotes ,
+		dbt:Cite_web ,
+		dbt:Portal_bar ,
+		dbt:Multiple_image ,
+		dbt:Isfdb_title ,
+		dbt:About ,
+		dbt:Ill ,
+		dbt:Curlie ,
+		dbt:Refbegin ,
+		dbt:Refend ,
+		dbt:Redirect ,
+		dbt:Use_dmy_dates ,
+		dbt:Verify_source ,
+		dbt:Refn ,
+		dbt:IBList ,
+		dbt:Infobox_book ,
+		dbt:Citation_needed ,
+		dbt:ISBN ,
+		dbt:Quotation ,
+		dbt:Reflist ,
+		dbt:Sisterlinks ,
+		dbt:See ,
+		dbt:Div_col ,
+		dbt:Div_col_end ,
+		dbt:EngvarB ,
+		dbt:Short_description ,
+		dbt:What ,
+		dbt:Pn ,
+		dbt:Unreferenced_section ,
+		dbt:Main ,
+		dbt:FadedPage ,
+		dbt:Further ,
+		dbt:Quote .
+@prefix ns25:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Nineteen_Eighty-Four	dbp:wordnet_type	ns25:synset-war-noun-1 ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/1984first.jpg?width=300> ;
+	dbo:wikiPageRevisionID	1123181749 ;
+	dbp:country	"United Kingdom"@en ;
+	dbo:wikiPageExternalLink	<https://archive.org/download/TheaterGuildontheAir/Tgoa_53-04-26_ep150-1984.mp3> ,
+		<http://www.samizdat.qc.ca/arts/lit/PDFs/1984_GO.pdf> ,
+		<https://web.archive.org/web/20130430013501/http:/ebooks.adelaide.edu.au/o/orwell/george/o79n/> ,
+		<http://gutenberg.net.au/ebooks01/0100021.txt> ,
+		<http://orwell.ru/library/novels/1984/english/> .
+@prefix ns26:	<https://archive.org/details/> .
+dbr:Nineteen_Eighty-Four	dbo:wikiPageExternalLink	ns26:nineteeneightyfo00orwe ,
+		ns26:nineteeneightyfo00orwe_1 ,
+		ns26:nineteeneightfou0000unse ,
+		ns26:orwellauthorised0000shel ,
+		ns26:orwellforbeginne00smit ,
+		<http://www.newworker.org/ncptrory/1984.htm> ,
+		ns26:whosafraidof198400tucc ,
+		<https://www.youtube.com/watch%3Fv=jDblb6mos24> ,
+		ns26:isbn_9780312238414 ,
+		<https://archive.org/details/1984revisitedtot00howe> .
+@prefix ns27:	<https://openlibrary.org/works/OL1168091W/> .
+dbr:Nineteen_Eighty-Four	dbo:wikiPageExternalLink	ns27:Nineteen_Eighty-Four ,
+		<http://www.1984theopera.com/> ,
+		<http://www.londonfictions.com/george-orwell-nineteen-eighty-four.html> .
+@prefix ns28:	<http://www.bl.uk/works/> .
+dbr:Nineteen_Eighty-Four	dbo:wikiPageExternalLink	ns28:nineteen-eighty-four .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Nineteen_Eighty-Four	dbo:wikiPageLength	"114652"^^xsd:nonNegativeInteger ;
+	dbo:wikiPageID	23454753 ;
+	dbp:id	57 ,
+		15862 ,
+		20120511 ;
+	dbp:language	"English"@en ;
+	dbp:name	"Nineteen Eighty-Four"@en ,
+		1984 ;
+	dbp:title	"Nineteen Eighty-Four"@en ;
+	dbp:caption	"Trotsky"@en ,
+		"Stalin"@en ,
+		"Nikolai Yezhov walking with Stalin in the top photo from the mid 1930s. Following his execution in 1940, Yezhov was edited out of the photo by Soviet censors. Yezhov became an \"unperson\"."@en ,
+		"First-edition cover"@en ;
+	owl:sameAs	<http://be.dbpedia.org/resource/1984_(\u0440\u0430\u043C\u0430\u043D)> ,
+		<http://sk.dbpedia.org/resource/1984_(rom\u00E1n)> ,
+		<http://el.dbpedia.org/resource/1984_(\u03BC\u03C5\u03B8\u03B9\u03C3\u03C4\u03CC\u03C1\u03B7\u03BC\u03B1)> ,
+		<http://vec.dbpedia.org/resource/1984_(libro)> ,
+		<http://th.dbpedia.org/resource/\u0E2B\u0E19\u0E36\u0E48\u0E07-\u0E40\u0E01\u0E49\u0E32-\u0E41\u0E1B\u0E14-\u0E2A\u0E35\u0E48> ,
+		<http://musicbrainz.org/work/06ab9ebe-8c4a-41cf-87ee-590afb2ace39> ,
+		<http://vi.dbpedia.org/resource/1984_(ti\u1EC3u_thuy\u1EBFt)> ,
+		<http://bg.dbpedia.org/resource/1984_(\u043A\u043D\u0438\u0433\u0430)> ,
+		<http://lt.dbpedia.org/resource/1984-ieji> ,
+		<http://pa.dbpedia.org/resource/\u0A28\u0A3E\u0A08\u0A28\u0A1F\u0A40\u0A28_\u0A0F\u0A1F\u0A40-\u0A2B\u0A3C\u0A4B\u0A30> .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-war:Nineteen_Eighty-Four ,
+		<http://sl.dbpedia.org/resource/1984_(roman)> .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-fi:Vuonna_1984 ,
+		<http://tr.dbpedia.org/resource/Bin_Dokuz_Y\u00FCz_Seksen_D\u00F6rt> ,
+		<http://ja.dbpedia.org/resource/1984\u5E74_(\u5C0F\u8AAC)> ,
+		<http://fr.dbpedia.org/resource/1984_(roman)> ,
+		dbr:Nineteen_Eighty-Four .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-ms:Nineteen_Eighty-Four ,
+		<http://is.dbpedia.org/resource/N\u00EDtj\u00E1n_hundru\u00F0_\u00E1ttat\u00EDu_og_fj\u00F6gur> ,
+		<http://it.dbpedia.org/resource/1984_(romanzo)> ,
+		<http://ur.dbpedia.org/resource/\u0627\u0646\u06CC\u0633_\u0633\u0648_\u0686\u0648\u0631\u0627\u0633\u06CC> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-pl:Rok_1984 ,
+		<http://uk.dbpedia.org/resource/1984_(\u0440\u043E\u043C\u0430\u043D)> .
+@prefix ns34:	<http://jv.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	ns34:Nineteen_Eighty-Four ,
+		<http://ka.dbpedia.org/resource/1984_(\u10E0\u10DD\u10DB\u10D0\u10DC\u10D8)> ,
+		<http://fa.dbpedia.org/resource/\u06F1\u06F9\u06F8\u06F4_(\u0631\u0645\u0627\u0646)> ,
+		<http://hy.dbpedia.org/resource/1984_(\u0563\u056B\u0580\u0584)> ,
+		<http://es.dbpedia.org/resource/1984_(novela)> ,
+		<http://hr.dbpedia.org/resource/Tisu\u0107u_devetsto_osamdeset_\u010Detvrta> .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-sh:Nineteen_Eighty-Four ,
+		<http://kk.dbpedia.org/resource/1984_(\u0440\u043E\u043C\u0430\u043D)> ,
+		<http://ckb.dbpedia.org/resource/\u0661\u0669\u0668\u0664_(\u0695\u06C6\u0645\u0627\u0646)> ,
+		<http://azb.dbpedia.org/resource/\u06F1\u06F9\u06F8\u06F4_(\u0631\u0648\u0645\u0627\u0646)> ,
+		<http://mk.dbpedia.org/resource/\u0418\u043B\u0458\u0430\u0434\u0430_\u0434\u0435\u0432\u0435\u0442\u0441\u0442\u043E\u0442\u0438\u043D\u0438_\u043E\u0441\u0443\u043C\u0434\u0435\u0441\u0435\u0442_\u0438_\u0447\u0435\u0442\u0432\u0440\u0442\u0430> ,
+		<http://cs.dbpedia.org/resource/1984_(rom\u00E1n)> ,
+		<http://ml.dbpedia.org/resource/1984_(\u0D28\u0D4B\u0D35\u0D7D)> ,
+		<http://hu.dbpedia.org/resource/1984_(reg\u00E9ny)> ,
+		<http://www4.wiwiss.fu-berlin.de/bookmashup/books/0452284236> ,
+		<http://ca.dbpedia.org/resource/1984_(novel\u00B7la)> ,
+		<http://eu.dbpedia.org/resource/1984_(eleberria)> ,
+		<http://mn.dbpedia.org/resource/1984_(\u0440\u043E\u043C\u0430\u043D)> .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-ga:Nineteen_Eighty-Four ,
+		<http://rdf.freebase.com/ns/m.0lz9s> ,
+		<http://mr.dbpedia.org/resource/\u0928\u093E\u0907\u0902\u091F\u0940\u0928_\u090F\u091F\u0940-\u092B\u094B\u0930> ,
+		wikidata:Q208460 ,
+		<http://gl.dbpedia.org/resource/1984_(novela)> ,
+		<http://sr.dbpedia.org/resource/\u0425\u0438\u0459\u0430\u0434\u0443_\u0434\u0435\u0432\u0435\u0442\u0441\u0442\u043E_\u043E\u0441\u0430\u043C\u0434\u0435\u0441\u0435\u0442_\u0447\u0435\u0442\u0432\u0440\u0442\u0430> .
+@prefix ns37:	<http://sw.cyc.com/concept/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	ns37:Mx4rQc4lPVlXEd-LYQAhm0kILA ,
+		<http://sv.dbpedia.org/resource/1984_(roman)> .
+@prefix ns38:	<https://global.dbpedia.org/id/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	ns38:yLxu ,
+		<http://de.dbpedia.org/resource/1984_(Roman)> .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-af:Nineteen_Eighty-Four ,
+		<http://d-nb.info/gnd/4099325-5> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	yago-res:Nineteen_Eighty-Four ,
+		<http://eo.dbpedia.org/resource/1984_(romano)> ,
+		<http://oc.dbpedia.org/resource/1984_(libre)> ,
+		<http://ar.dbpedia.org/resource/1984_(\u0631\u0648\u0627\u064A\u0629)> ,
+		<http://sah.dbpedia.org/resource/\u0423\u043B\u0430\u0445\u0430\u043D_\u0443\u0431\u0430\u0439_1984> ,
+		<http://ast.dbpedia.org/resource/1984_(novela)> ,
+		<http://scn.dbpedia.org/resource/1984_(libbru)> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-id:Nineteen_Eighty-Four .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-nn:Romanen_1984 ,
+		<http://cv.dbpedia.org/resource/1984_(\u0440\u043E\u043C\u0430\u043D)> ,
+		<http://no.dbpedia.org/resource/1984_(roman)> ,
+		<http://bn.dbpedia.org/resource/\u09A8\u09BE\u0987\u09A8\u09CD\u099F\u09BF\u09A8_\u098F\u0987\u099F\u09BF-\u09AB\u09CB\u09B0> ,
+		<http://az.dbpedia.org/resource/1984_(roman)> ,
+		<http://ro.dbpedia.org/resource/O_mie_nou\u0103_sute_optzeci_\u0219i_patru_(roman)> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-cy:Nineteen_Eighty-Four .
+@prefix dbpedia-br:	<http://br.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-br:Nineteen_Eighty-Four ,
+		<http://lv.dbpedia.org/resource/1984_(rom\u0101ns)> ,
+		<http://ky.dbpedia.org/resource/1984_(\u0440\u043E\u043C\u0430\u043D)> ,
+		<http://bs.dbpedia.org/resource/1984_(roman)> ,
+		<http://nl.dbpedia.org/resource/1984_(boek)> ,
+		<http://sq.dbpedia.org/resource/1984_(lib\u00EBr)> ,
+		<http://da.dbpedia.org/resource/1984_(roman)> ,
+		<http://viaf.org/viaf/311544287> ,
+		<http://la.dbpedia.org/resource/1984_(liber)> ,
+		<http://ru.dbpedia.org/resource/1984_(\u0440\u043E\u043C\u0430\u043D)> ,
+		<http://ia.dbpedia.org/resource/1984_(romance)> ,
+		<http://ko.dbpedia.org/resource/1984_(\uC18C\uC124)> ,
+		<http://zh.dbpedia.org/resource/\u4E00\u4E5D\u516B\u56DB> ,
+		<http://et.dbpedia.org/resource/1984_(Orwell)> ,
+		<http://uz.dbpedia.org/resource/1984_(roman)> ,
+		<http://pt.dbpedia.org/resource/1984_(livro)> .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Nineteen_Eighty-Four	owl:sameAs	dbpedia-simple:Nineteen_Eighty-Four ,
+		<http://bar.dbpedia.org/resource/1984_(Roman)> ,
+		<http://he.dbpedia.org/resource/1984_(\u05E1\u05E4\u05E8)> .
+@prefix gold:	<http://purl.org/linguistics/gold/> .
+dbr:Nineteen_Eighty-Four	gold:hypernym	dbr:Novel .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Nineteen_Eighty-Four	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nineteen_Eighty-Four?oldid=1123181749&ns=0> .
+@prefix dbd:	<http://dbpedia.org/datatype/> .
+dbr:Nineteen_Eighty-Four	dbp:text	"1984.0"^^dbd:second ;
+	dbp:type	"book"@en ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Nineteen_Eighty-Four ;
+	dbp:setIn	dbr:London ,
+		dbr:Nations_of_Nineteen_Eighty-Four ;
+	dbp:s	"no"@en ;
+	dbp:genre	dbr:Social_science_fiction ,
+		dbr:Political_fiction ,
+		dbr:Dystopian_novel ;
+	dbo:previousWork	dbr:Animal_Farm ;
+	dbp:n	"no"@en ;
+	dbp:species	"no"@en ;
+	dbp:totalWidth	350 ;
+	dbp:voy	"no"@en ;
+	dbp:footer	"Descriptions of Emmanuel Goldstein and Big Brother evoke Leon Trotsky and Joseph Stalin respectively."@en ;
+	dbo:literaryGenre	dbr:Political_fiction ,
+		dbr:Dystopian_novel ,
+		dbr:Social_science_fiction ;
+	dbp:mediaType	"Print"@en ;
+	dbp:pubDate	"1949-06-08"^^xsd:date ;
+	dbp:coverArtist	"Michael Kennar"@en ;
+	dbp:alt	"Photograph Joseph Stalin"@en ,
+		"Photograph portrait of Leon Trotsky"@en ;
+	dbo:author	dbr:George_Orwell ;
+	dbp:precededBy	dbr:Animal_Farm ;
+	dbo:publisher	<http://dbpedia.org/resource/Secker_&_Warburg> ;
+	dbp:publisher	<http://dbpedia.org/resource/Secker_&_Warburg> ;
+	dbp:source	"The Ministry of Truth: The Biography of George Orwell's 1984"@en ;
+	dbp:align	"left"@en ;
+	dbp:width	220 ;
+	dbp:author	dbr:George_Orwell ,
+		"Dorian Lynskey"@en ;
+	dbo:dcc	"823.912" ;
+	dbp:dewey	"823.912"^^xsd:double ;
+	dbp:commons	"Category:Nineteen Eighty-Four"@en ;
+	dbp:image	"Leon Trotsky, 1930s.jpg"@en ,
+		"JStalin Secretary general CCCP 1942.jpg"@en ;
+	dbp:direction	"vertical"@en ;
+	dbp:m	"no"@en ;
+	dbp:v	"no"@en ;
+	dbp:mw	"no"@en ;
+	dbp:display	"Nineteen Eighty-Four"@en ;
+	dbp:d	"Q208460"@en ;
+	dbp:wikt	"Category:English terms derived from Nineteen Eighty-Four"@en ;
+	dbp:pages	328 ;
+	dbp:oclc	470015866 ;
+	dbo:oclc	"470015866" ;
+	dbo:publicationDate	"1949-06-08"^^xsd:date ;
+	dbo:numberOfPages	"328"^^xsd:positiveInteger .
+dbr:Philosophical_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jack_London	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:American_Idiot	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Police_state	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_best-selling_books	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Captain_Britain	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Tim_Robbins	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Identitarian_movement	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_years_in_literature	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Sonia_Orwell	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/101_(number)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Peter_Cushing	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/List_of_fictional_United_States_presidencies_of_historical_figures_(M\u2013O)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Perpetual_war	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_nuclear_holocaust_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Everyman	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Super_Bowl_commercials	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen_Eighty-Four_in_popular_media	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Attack_ad	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/12-hour_clock>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/5th_Projekt>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Spatial_cloaking	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Justice_Center_Complex	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_literary_works_by_number_of_translations	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thug_Notes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Index_of_social_and_political_philosophy_articles	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:What_Where	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Utopian_and_dystopian_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ruling_class	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Calliopean_Society	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(opera)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Doctor_of_Myddfai	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Creation_Theatre_Company	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Nineteen_Eighty-Four_(British_TV_programme)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/St_Cyprian\u0027s_School>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Blood_of_the_Beast	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Shock_Video	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Ronnie_Johns_Half_Hour	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Little_Brother_(Doctorow_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Big_Brother_Awards	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Escape_from_Genopolis	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ewart_Smith	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Detention_(video_game)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Anomaly_(series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns49:	<http://dbpedia.org/resource/List_of_Ghost_in_the_Shell:> .
+ns49:_SAC_2045_episodes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_My_Parents_Are_Aliens_episodes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Doublethink_Theatre	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:H_Committee_of_Human_Vindication	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Keep_the_Aspidistra_Flying	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:George_Orwell	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Times	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Brave_New_World	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Almeida_Theatre	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Roger_Scruton	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Ministry_(government_department)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:David_Bowie	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Argyll	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Steve_Jobs	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Serenity_(2005_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rudolph_Cartier	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Comrade	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1949>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Robert_Conquest	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:New_York_Public_Library	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Aldous_Huxley	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:June_8	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/2014_Thai_coup_d\u0027\u00E9tat>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Neologism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Kurt_Vonnegut	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Stephen_Sondheim	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Orchestral_Manoeuvres_in_the_Dark	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Winston_Smith_(artist)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Winston_Smith_Project	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:London_in_film	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Broadcasting_House	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:St_Martin-in-the-Fields	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Matt_Bellamy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:United_States_of_Eurasia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Will_of_the_People_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Wallsend	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Le_Monde\u0027s_100_Books_of_the_Century>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/California_\u00FCber_alles>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Matthew_Shepard_and_James_Byrd_Jr._Hate_Crimes_Prevention_Act>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Panopticon	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1990_(TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Automatic_number-plate_recognition	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ignorance	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alasdair_Gray	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_Old_Wellingtonians	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns50:	<http://dbpedia.org/resource/The_Memory_Librarian:> .
+ns50:_And_Other_Stories_of_Dirty_Computer	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Big_Brother_Watch	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Surveillance_art	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/6000_(number)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(1956_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jonathan_Gems	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_Scientology_security_checks	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Newman_Arms	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/2021_in_public_domain>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:George_Orwell_bibliography	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/List_of_Desert_Island_Discs_episodes_(2011\u20132020)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Contingency,_Irony,_and_Solidarity>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Chicago_Seven	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Donald_Pleasence	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alexander_Zinoviev	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Aleksandr_Dugin	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Whatever_Happened_to_Jugula%3F>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Stathis_Giallelis	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Telescreen	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Alternative_facts	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Book_censorship_in_the_United_States	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Erewhon	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Graphic_Canon	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Enemy_of_the_state	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Macintosh_128K	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Chain_of_Command_(Star_Trek:_The_Next_Generation)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Red_Terror_(Spain)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:University_Hospital_Hairmyres	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/CrimethInc.>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fredric_Warburg	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:John_Tarnoff	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:London_in_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Book_Club	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_book>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Alex_Webster	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Philosophy_of_language	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Haruki_Murakami	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Civilization_II	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Privacy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Eugene_Lyons	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Book_of_Love_(band)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Montana_Supreme_Court	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Linguistic_determinism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ithkuil	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Newspeak	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:John_Hay_Library	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Marian_Seldes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Mass_surveillance	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Pete_Doherty	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Long_Game	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/R\u00E9publique_(video_game)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Northern_Ballet	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Big_Read	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Newspeak_(programming_language)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbp:influencedBy	dbr:Nineteen_Eighty-Four ;
+	dbo:influencedBy	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Jura,_Scotland>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ed_Starink	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Margaret_Noble_(artist)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Spanish_Revolution_of_1936	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Beneath_a_Steel_Sky	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Shiplake	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Diana_Ringo	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Arthur_Wills_(musician)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:In_a_Model_Room	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_real_London_pubs_in_literature	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Dumbing_down	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jonathan_Bowden	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_tuberculosis_cases	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_futurologists	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/BioShock_(series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:This_Perfect_Day	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Barbara_Kay	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Christopher_Hitchens_bibliography	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:History_of_propaganda	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Andrei_Amalrik	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Gran_Hermano_(Spanish_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Orwell_Society	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Folie_\u00E0_Deux_(album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/2017\u20132018_Department_of_Justice_metadata_seizures>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Basic_English	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_1_(American_season)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/David_Niven_on_screen,_stage,_radio,_record_and_in_print>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Antisexualism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Narrative_structure	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Superbia_(musical)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Kurt_Wagenseil	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Compulsion_Games	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Libri_Prohibiti	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Captive_Mind	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Alenka_Puhar	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Katharine_Burdekin	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Inventing_Elliot	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fear_of_mice_and_rats	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Julia_(Eurythmics_song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Brother_Where_You_Bound_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Crass_Records	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Goon_Show_running_jokes	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/After_(Prose_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:DoubleThink	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Philip_Agre	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Circadian_(album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Science_fiction_theatre	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Unreals	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Paradyzja	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Christian_Discourses	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Promoting_adversaries	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Saleh_Hosseini	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(song)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Cast_Courts_(Victoria_and_Albert_Museum)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Shreyan_Chattopadhyay	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rupert_Gavin	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Experimental_language	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Gordon_Griffin	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Nicholas_Lim_(entrepreneur)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Republia_Times	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Nineteen-Eighty-Four	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:wikiPageRedirects	dbr:Nineteen_Eighty-Four .
+dbr:Dystopia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Totalitarianism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Amazon_Kindle	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Speculative_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Governor_of_Maryland	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:University_of_London	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Folio_Society	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(British_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Celebrity_Big_Brother_(British_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Hunger_Games_(film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Planned_economy	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Brazil_(1985_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/%22Repent,_Harlequin!%22_Said_the_Ticktockman>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Akala_(rapper)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Government_simulation_game	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Next-Generation_Secure_Computing_Base	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jan_Sterling	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Circle_(Eggers_novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns51:	<http://dbpedia.org/resource/FAQ:> .
+ns51:_Frequently_Asked_Questions	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Homage_to_Catalonia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Tom_Gross	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Nina_L._Khrushcheva>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Rash_(novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Castle_Storm	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Pin_Ups	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Diamond_Dogs	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:SMS_language	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/New_World_Order_(conspiracy_theory)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thomas_Pynchon	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:John_Hurt	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Enema	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Gratis_versus_libre	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Fitzrovia	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/V_for_Vendetta_(film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Pessimism	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Ministry_of_Information_Policy_(Ukraine)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Bhaskar_Sunkara	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(franchise)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Boris_Berezovsky_(businessman)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Cultural_influence_of_the_September_11_attacks	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Internet_Research_Agency	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_satirists_and_satires	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Timeline_of_the_Donald_Trump_presidency_(2018_Q3)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Committee_of_100_on_the_Federal_City	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Criticism_of_Amazon	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Masked_and_Anonymous	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Mass_surveillance_in_the_United_States	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:GI_Underground_Press	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Predictions_of_the_collapse_of_the_Soviet_Union	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_European_countries	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_countries	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1940s>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Timeline_of_the_20th_century	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Blake\u0027s_7>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_predictions	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Code_Geass	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Censorship_in_the_United_Kingdom	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:History_of_science_fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Manga_de_Dokuha	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Napoleon_of_Notting_Hill	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_Russian_people	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_countries_by_region	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_countries_in_the_Americas	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_genres	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_fictional_politicians	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Everett_T._Moore>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Michael_Takeo_Magruder	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/We_(novel)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(Greek_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Descriptivist_theory_of_names	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Rat_torture	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns52:	<http://dbpedia.org/resource/20th_Century\u0027s_Greatest_Hits:> .
+ns52:_100_English-Language_Books_of_Fiction	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Memory_Police	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Citadel_Theatre_production_history	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Ninety-nine_Novels	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Room_101_(Australian_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Roslyn_Packer_Theatre	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four ;
+	dbo:currentProduction	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(Australian_season_9)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_League_of_Extraordinary_Gentlemen_(comics)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Bob_Emery_(broadcaster)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(Rick_Wakeman_album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Basma_Abdel_Aziz	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Richard_Blair_(patron)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Room_101_(radio_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_(Bulgarian_TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Victory_Bar	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(Joan_of_Arc_album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+@prefix ns53:	<http://dbpedia.org/resource/Pyongyang:> .
+ns53:_A_Journey_in_North_Korea	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Sentimental_Agents_in_the_Volyen_Empire	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_Network_Liberty_Alliance>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Zeek	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Fr\u00E9d\u00E9rick_Lavoie>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Public_Accountability_Initiative	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Spearhead_(magazine)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Bull\u0027s_Hour>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Hate_Week	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Joan_of_Arc_(band)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Andy_Thompson_(theatre_professional)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Pain._Joy._Ecstasy._Despair>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Awakening_(1954_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Second_Thoughts_on_James_Burnham	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Charles_Cryer_Theatre	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Big_Brother_Awards_(Finland)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Big_Brother_Bluff	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Bits_of_Freedom	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Year_of_the_Rat_(play)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Thai_queer_cinema	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Neighbors_from_Hell_(American_Horror_Story)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Randy_California	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Seamus_Finnegan	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Roger_Senhouse	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/I,_Robot_(Cory_Doctorow)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/United_States_v._Kincade>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/\u00C9ditions_Underbahn>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Suhl_card_reader_case	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Ministry_of_Biscuits	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Winning_Side	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Syme	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Cultural_influence_of_Plato\u0027s_Republic>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:James_Burnham	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Jeffrey_Smart	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/The_Apple_(1980_film)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:The_Day_the_Country_Died	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:We_Happy_Few	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Doe_Maar	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Remember_Me_(video_game)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Innerpartysystem	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Fry\u0027s_Planet_Word>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1983_(TV_series)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/1984_(Anthony_Phillips_album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Rocket_Science_(Apoptygma_Berzerk_album)>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Sarajevo_War_Theatre	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Morifade	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:Sound_of_Jura	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+<http://dbpedia.org/resource/Someone\u0027s_Looking_at_You>	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .
+dbr:List_of_people_with_surname_Smith	dbo:wikiPageWikiLink	dbr:Nineteen_Eighty-Four .

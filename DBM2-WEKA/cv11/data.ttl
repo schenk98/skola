@@ -1,0 +1,15 @@
+@prefix :   <http://example/> .
+@prefix ns: <http://example/ns#> .
+
+:x      a       ns:D;
+        ns:p    :y .
+
+:z      a       ns:D;
+        ns:p    :y .
+
+:s      a       ns:D;
+        ns:p    :o .
+
+:y      a       ns:T1 , ns:T3 , ns:T2 , ns:T1 , ns:T3 , ns:T2 .
+
+:o      a       ns:T1 , ns:T3 , ns:T2 .
